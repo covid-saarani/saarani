@@ -4,16 +4,16 @@
             "date": "13 Jan 2022",
             "as_on": "14 Jan 2022, 08:00 IST (GMT+5:30)",
             "last_updated_unix": 1642177825,
-            "last_fetched_unix": 1642178995
+            "last_fetched_unix": 1642179633
         },
         "vaccination": {
             "date": "13 Jan 2022",
-            "as_on": "14 Jan 2022, 22:20 IST",
-            "last_fetched_unix": 1642179002
+            "as_on": "14 Jan 2022, 22:30 IST",
+            "last_fetched_unix": 1642179639
         },
         "districts": {
             "week": "07th January to 13th January",
-            "last_fetched_unix": 1642179005
+            "last_fetched_unix": 1642179643
         }
     },
     "All": {
@@ -2049,9 +2049,9 @@
             },
             "Dahod": {
                 "centers": 136,
-                "rat_pc": 0,
-                "rtpcr_pc": 0,
-                "positivity_rate": 0
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
+                "positivity_rate": 0.47
             },
             "Chhota Udaipur": {
                 "centers": 109,
@@ -2169,9 +2169,9 @@
             },
             "Botad": {
                 "centers": 47,
-                "rat_pc": 11.5,
-                "rtpcr_pc": 88.5,
-                "positivity_rate": 0.285
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.1
             },
             "Junagadh": {
                 "centers": 249,
@@ -5570,12 +5570,6 @@
                 "rtpcr_pc": 69,
                 "positivity_rate": 19.5
             },
-            "SBS Nagar": {
-                "centers": 51,
-                "rat_pc": 42,
-                "rtpcr_pc": 58,
-                "positivity_rate": 6.7
-            },
             "Tarn Taran": {
                 "centers": 144,
                 "rat_pc": 40,
@@ -5625,7 +5619,7 @@
                 "positivity_rate": 15.44
             },
             "SAS Nagar": {
-                "centers": 205,
+                "centers": 256,
                 "rat_pc": 20,
                 "rtpcr_pc": 80,
                 "positivity_rate": 34.25
@@ -5671,6 +5665,12 @@
                 "rat_pc": 37,
                 "rtpcr_pc": 63,
                 "positivity_rate": 7.63
+            },
+            "Shahid Bhagat Singh Nagar": {
+                "centers": 0,
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
+                "positivity_rate": 6.7
             }
         }
     },
@@ -7663,7 +7663,7 @@
                 "positivity_rate": 3.84
             },
             "North 24 Parganas": {
-                "centers": 487,
+                "centers": 348,
                 "rat_pc": 45,
                 "rtpcr_pc": 55,
                 "positivity_rate": 34.04
@@ -7717,7 +7717,7 @@
                 "positivity_rate": 46.65
             },
             "South 24 Parganas": {
-                "centers": 237,
+                "centers": 376,
                 "rat_pc": 58,
                 "rtpcr_pc": 42,
                 "positivity_rate": 22.72
@@ -7741,7 +7741,7 @@
                 "positivity_rate": 22.12
             },
             "Purba Bardhaman": {
-                "centers": 114,
+                "centers": 298,
                 "rat_pc": 49,
                 "rtpcr_pc": 51,
                 "positivity_rate": 27.89
@@ -7753,7 +7753,7 @@
                 "positivity_rate": 19.35
             },
             "Purba Medinipur": {
-                "centers": 288,
+                "centers": 104,
                 "rat_pc": 68,
                 "rtpcr_pc": 32,
                 "positivity_rate": 7.15
