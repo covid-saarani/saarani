@@ -3,17 +3,17 @@
         "cases": {
             "date": "13 Jan 2022",
             "as_on": "14 Jan 2022, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1642156219,
-            "last_fetched_unix": 1642159644
+            "last_updated_unix": 1642163414,
+            "last_fetched_unix": 1642164590
         },
         "vaccination": {
             "date": "13 Jan 2022",
-            "as_on": "14 Jan 2022, 16:57 IST",
-            "last_fetched_unix": 1642159652
+            "as_on": "14 Jan 2022, 18:19 IST",
+            "last_fetched_unix": 1642164597
         },
         "districts": {
             "week": "07th January to 13th January",
-            "last_fetched_unix": 1642159658
+            "last_fetched_unix": 1642164601
         }
     },
     "All": {
@@ -724,9 +724,9 @@
             },
             "Kamrup Metropolitan": {
                 "centers": 180,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
-                "positivity_rate": 24.56
+                "rat_pc": 0,
+                "rtpcr_pc": 0,
+                "positivity_rate": 0
             },
             "Nalbari": {
                 "centers": 81,
@@ -844,9 +844,9 @@
             },
             "Kamrup": {
                 "centers": 202,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 14.89
+                "rat_pc": 75.0,
+                "rtpcr_pc": 25.0,
+                "positivity_rate": 19.725
             },
             "Golaghat": {
                 "centers": 146,
@@ -2049,9 +2049,9 @@
             },
             "Dahod": {
                 "centers": 136,
-                "rat_pc": 0,
-                "rtpcr_pc": 0,
-                "positivity_rate": 0
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
+                "positivity_rate": 0.47
             },
             "Chhota Udaipur": {
                 "centers": 109,
@@ -2169,9 +2169,9 @@
             },
             "Botad": {
                 "centers": 47,
-                "rat_pc": 11.5,
-                "rtpcr_pc": 88.5,
-                "positivity_rate": 0.285
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.1
             },
             "Junagadh": {
                 "centers": 249,
@@ -4645,7 +4645,7 @@
                 "positivity_rate": 12.71
             },
             "Ashoknagar": {
-                "centers": 13,
+                "centers": 86,
                 "rat_pc": 4,
                 "rtpcr_pc": 96,
                 "positivity_rate": 1.26
@@ -4855,7 +4855,7 @@
                 "positivity_rate": 0.66
             },
             "Agar Malwa": {
-                "centers": 73,
+                "centers": 0,
                 "rat_pc": 10,
                 "rtpcr_pc": 90,
                 "positivity_rate": 0.47
@@ -7741,7 +7741,7 @@
                 "positivity_rate": 22.12
             },
             "Purba Bardhaman": {
-                "centers": 298,
+                "centers": 114,
                 "rat_pc": 49,
                 "rtpcr_pc": 51,
                 "positivity_rate": 27.89
@@ -7753,7 +7753,7 @@
                 "positivity_rate": 19.35
             },
             "Purba Medinipur": {
-                "centers": 104,
+                "centers": 288,
                 "rat_pc": 68,
                 "rtpcr_pc": 32,
                 "positivity_rate": 7.15
