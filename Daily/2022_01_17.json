@@ -3,17 +3,17 @@
         "cases": {
             "date": "17 Jan 2022",
             "as_on": "18 Jan 2022, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1642494613,
-            "last_fetched_unix": 1642498324
+            "last_updated_unix": 1642501814,
+            "last_fetched_unix": 1642502059
         },
         "vaccination": {
             "date": "17 Jan 2022",
-            "as_on": "18 Jan 2022, 15:02 IST",
-            "last_fetched_unix": 1642498331
+            "as_on": "18 Jan 2022, 16:04 IST",
+            "last_fetched_unix": 1642502068
         },
         "districts": {
             "week": "10th January to 16th January",
-            "last_fetched_unix": 1642498334
+            "last_fetched_unix": 1642502070
         }
     },
     "All": {
@@ -102,7 +102,14 @@
                 }
             }
         },
-        "districts": {}
+        "districts": {
+            "Aggregate": {
+                "centers": 107450,
+                "rat_pc": 43.58591,
+                "rtpcr_pc": 54.80604,
+                "positivity_rate": 11.06195
+            }
+        }
     },
     "Andaman and Nicobar Islands": {
         "abbr": "AN",
