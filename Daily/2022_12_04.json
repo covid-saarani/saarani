@@ -4,19 +4,19 @@
             "primary_source": "mygov",
             "date": "04 Dec 2022",
             "as_on": "05 Dec 2022, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1670211015,
-            "last_fetched_unix": 1670212346
+            "last_updated_unix": 1670215749,
+            "last_fetched_unix": 1670215944
         },
         "vaccination": {
             "primary_source": "mygov",
-            "date": "03 Dec 2022",
-            "as_on": "Dec 04 2022 13:34:30",
-            "last_fetched_unix": 1670212357
+            "date": "04 Dec 2022",
+            "as_on": "Dec 05 2022 09:34:30",
+            "last_fetched_unix": 1670215949
         },
         "districts": {
             "primary_source": "mohfw",
             "week": "27th November to 03rd December",
-            "last_fetched_unix": 1670212363
+            "last_fetched_unix": 1670215953
         }
     },
     "All": {
@@ -25,79 +25,79 @@
         "helpline": "1075, 011-23978046",
         "donate": "https://www.pmcares.gov.in/",
         "confirmed": {
-            "current": 89349684,
-            "previous": 89349232,
-            "delta": 452
+            "current": 44673618,
+            "previous": 44673392,
+            "delta": 226
         },
         "active": {
-            "current": 11316,
-            "previous": 11506,
-            "delta": -190,
-            "ratio_pc": 0.01266
+            "current": 4434,
+            "previous": 4529,
+            "delta": -95,
+            "ratio_pc": 0.00993
         },
         "recovered": {
-            "current": 88277108,
-            "previous": 88276470,
-            "delta": 638,
-            "ratio_pc": 98.79957
+            "current": 44138554,
+            "previous": 44138235,
+            "delta": 319,
+            "ratio_pc": 98.80228
         },
         "deaths": {
-            "current": 1061260,
-            "previous": 1061256,
-            "delta": 4,
+            "current": 530630,
+            "previous": 530628,
+            "delta": 2,
             "reconciled": 2,
-            "ratio_pc": 1.18776
+            "ratio_pc": 1.18779
         },
         "vaccination": {
             "centers": 107450,
             "all_ages": {
                 "all_doses": {
-                    "total": 2199430540,
-                    "new": 48716
+                    "total": 2199437816,
+                    "new": 7276
                 },
                 "1st_dose": {
-                    "total": 1025473716,
-                    "new": 3957
+                    "total": 1025474387,
+                    "new": 671
                 },
                 "2nd_dose": {
-                    "total": 950964881,
-                    "new": 13925
+                    "total": 950967086,
+                    "new": 2205
                 },
                 "3rd_dose": {
-                    "total": 222991943,
-                    "new": 30834
+                    "total": 222996343,
+                    "new": 4400
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2010027662,
-                    "new": 43092
+                    "total": 2010033857,
+                    "new": 6195
                 },
                 "1st_dose": {
-                    "total": 922108010,
-                    "new": 2260
+                    "total": 922108414,
+                    "new": 404
                 },
                 "2nd_dose": {
-                    "total": 864927709,
-                    "new": 9998
+                    "total": 864929100,
+                    "new": 1391
                 },
                 "3rd_dose": {
-                    "total": 222991943,
-                    "new": 30834
+                    "total": 222996343,
+                    "new": 4400
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 115605026,
-                    "new": 5157
+                    "total": 115605847,
+                    "new": 821
                 },
                 "1st_dose": {
-                    "total": 62080677,
-                    "new": 1623
+                    "total": 62080913,
+                    "new": 236
                 },
                 "2nd_dose": {
-                    "total": 53524349,
-                    "new": 3534
+                    "total": 53524934,
+                    "new": 585
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -106,16 +106,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 73797852,
-                    "new": 467
+                    "total": 73798112,
+                    "new": 260
                 },
                 "1st_dose": {
-                    "total": 41285029,
-                    "new": 74
+                    "total": 41285060,
+                    "new": 31
                 },
                 "2nd_dose": {
-                    "total": 32512823,
-                    "new": 393
+                    "total": 32513052,
+                    "new": 229
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -166,37 +166,37 @@
             "all_ages": {
                 "all_doses": {
                     "total": 991004,
-                    "new": 62
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 347595,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 353209,
-                    "new": 37
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 290200,
-                    "new": 24
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
                     "total": 923786,
-                    "new": 62
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 313273,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 320313,
-                    "new": 37
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 290200,
-                    "new": 24
+                    "new": 0
                 }
             },
             "15-18": {
@@ -296,48 +296,48 @@
             "centers": 3650,
             "all_ages": {
                 "all_doses": {
-                    "total": 110540649,
-                    "new": 1167
+                    "total": 110540661,
+                    "new": 12
                 },
                 "1st_dose": {
-                    "total": 44701085,
-                    "new": 37
+                    "total": 44701090,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 47571319,
-                    "new": 43
+                    "total": 47571323,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 18268245,
-                    "new": 1087
+                    "total": 18268248,
+                    "new": 3
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 102459019,
-                    "new": 1166
+                    "total": 102459031,
+                    "new": 12
                 },
                 "1st_dose": {
-                    "total": 40642463,
-                    "new": 36
+                    "total": 40642468,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 43548311,
-                    "new": 43
+                    "total": 43548315,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 18268245,
-                    "new": 1087
+                    "total": 18268248,
+                    "new": 3
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 5062870,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 2535287,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 2527583,
@@ -493,52 +493,52 @@
             "centers": 309,
             "all_ages": {
                 "all_doses": {
-                    "total": 1903970,
-                    "new": 281
+                    "total": 1904059,
+                    "new": 89
                 },
                 "1st_dose": {
-                    "total": 959710,
-                    "new": 30
+                    "total": 959716,
+                    "new": 6
                 },
                 "2nd_dose": {
-                    "total": 819551,
-                    "new": 52
+                    "total": 819562,
+                    "new": 11
                 },
                 "3rd_dose": {
-                    "total": 124709,
-                    "new": 199
+                    "total": 124781,
+                    "new": 72
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 1731017,
-                    "new": 245
+                    "total": 1731106,
+                    "new": 89
                 },
                 "1st_dose": {
-                    "total": 859881,
-                    "new": 20
+                    "total": 859887,
+                    "new": 6
                 },
                 "2nd_dose": {
-                    "total": 746427,
-                    "new": 26
+                    "total": 746438,
+                    "new": 11
                 },
                 "3rd_dose": {
-                    "total": 124709,
-                    "new": 199
+                    "total": 124781,
+                    "new": 72
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 103755,
-                    "new": 36
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 59037,
-                    "new": 10
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 44718,
-                    "new": 26
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -762,52 +762,52 @@
             "centers": 3853,
             "all_ages": {
                 "all_doses": {
-                    "total": 50269207,
-                    "new": 1441
+                    "total": 50269538,
+                    "new": 331
                 },
                 "1st_dose": {
-                    "total": 24809497,
-                    "new": 54
+                    "total": 24809508,
+                    "new": 11
                 },
                 "2nd_dose": {
-                    "total": 22119902,
-                    "new": 547
+                    "total": 22119986,
+                    "new": 84
                 },
                 "3rd_dose": {
-                    "total": 3339808,
-                    "new": 840
+                    "total": 3340044,
+                    "new": 236
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 46446563,
-                    "new": 1108
+                    "total": 46446844,
+                    "new": 281
                 },
                 "1st_dose": {
-                    "total": 22549644,
-                    "new": 24
+                    "total": 22549648,
+                    "new": 4
                 },
                 "2nd_dose": {
-                    "total": 20557111,
-                    "new": 244
+                    "total": 20557152,
+                    "new": 41
                 },
                 "3rd_dose": {
-                    "total": 3339808,
-                    "new": 840
+                    "total": 3340044,
+                    "new": 236
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2220815,
-                    "new": 333
+                    "total": 2220865,
+                    "new": 50
                 },
                 "1st_dose": {
-                    "total": 1260301,
-                    "new": 30
+                    "total": 1260308,
+                    "new": 7
                 },
                 "2nd_dose": {
-                    "total": 960514,
-                    "new": 303
+                    "total": 960557,
+                    "new": 43
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1073,52 +1073,52 @@
             "centers": 9658,
             "all_ages": {
                 "all_doses": {
-                    "total": 157111345,
-                    "new": 2474
+                    "total": 157111768,
+                    "new": 423
                 },
                 "1st_dose": {
-                    "total": 73446498,
-                    "new": 244
+                    "total": 73446532,
+                    "new": 34
                 },
                 "2nd_dose": {
-                    "total": 67849956,
-                    "new": 942
+                    "total": 67850198,
+                    "new": 242
                 },
                 "3rd_dose": {
-                    "total": 15814891,
-                    "new": 1288
+                    "total": 15815038,
+                    "new": 147
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 137884123,
-                    "new": 1928
+                    "total": 137884363,
+                    "new": 240
                 },
                 "1st_dose": {
-                    "total": 62936179,
-                    "new": 166
+                    "total": 62936198,
+                    "new": 19
                 },
                 "2nd_dose": {
-                    "total": 59133053,
-                    "new": 474
+                    "total": 59133127,
+                    "new": 74
                 },
                 "3rd_dose": {
-                    "total": 15814891,
-                    "new": 1288
+                    "total": 15815038,
+                    "new": 147
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 11536975,
-                    "new": 525
+                    "total": 11537158,
+                    "new": 183
                 },
                 "1st_dose": {
-                    "total": 6222652,
-                    "new": 77
+                    "total": 6222667,
+                    "new": 15
                 },
                 "2nd_dose": {
-                    "total": 5314323,
-                    "new": 448
+                    "total": 5314491,
+                    "new": 168
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1128,15 +1128,15 @@
             "12-14": {
                 "all_doses": {
                     "total": 7690247,
-                    "new": 21
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 4287667,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 3402580,
-                    "new": 20
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1414,51 +1414,51 @@
             "centers": 93,
             "all_ages": {
                 "all_doses": {
-                    "total": 2280729,
-                    "new": 43
+                    "total": 2280731,
+                    "new": 2
                 },
                 "1st_dose": {
                     "total": 1184856,
-                    "new": 8
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 985164,
-                    "new": 24
+                    "total": 985166,
+                    "new": 2
                 },
                 "3rd_dose": {
                     "total": 110709,
-                    "new": 11
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2117024,
-                    "new": 38
+                    "total": 2117025,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 1089123,
-                    "new": 5
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 917192,
-                    "new": 22
+                    "total": 917193,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 110709,
-                    "new": 11
+                    "new": 0
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 99664,
-                    "new": 3
+                    "total": 99665,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 57625,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 42039,
+                    "total": 42040,
                     "new": 1
                 },
                 "3rd_dose": {
@@ -1469,15 +1469,15 @@
             "12-14": {
                 "all_doses": {
                     "total": 64041,
-                    "new": 2
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 38108,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 25933,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1533,52 +1533,52 @@
             "centers": 4668,
             "all_ages": {
                 "all_doses": {
-                    "total": 49059704,
-                    "new": 2371
+                    "total": 49060298,
+                    "new": 594
                 },
                 "1st_dose": {
-                    "total": 21263430,
-                    "new": 76
+                    "total": 21263543,
+                    "new": 113
                 },
                 "2nd_dose": {
-                    "total": 20315890,
-                    "new": 543
+                    "total": 20316077,
+                    "new": 187
                 },
                 "3rd_dose": {
-                    "total": 7480384,
-                    "new": 1752
+                    "total": 7480678,
+                    "new": 294
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 44956318,
-                    "new": 2256
+                    "total": 44956854,
+                    "new": 536
                 },
                 "1st_dose": {
-                    "total": 18953451,
-                    "new": 62
+                    "total": 18953564,
+                    "new": 113
                 },
                 "2nd_dose": {
-                    "total": 18522483,
-                    "new": 442
+                    "total": 18522612,
+                    "new": 129
                 },
                 "3rd_dose": {
-                    "total": 7480384,
-                    "new": 1752
+                    "total": 7480678,
+                    "new": 294
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2274898,
-                    "new": 115
+                    "total": 2274956,
+                    "new": 58
                 },
                 "1st_dose": {
                     "total": 1233932,
-                    "new": 14
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1040966,
-                    "new": 101
+                    "total": 1041024,
+                    "new": 58
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1815,15 +1815,15 @@
             "all_ages": {
                 "all_doses": {
                     "total": 1578295,
-                    "new": 2
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 782234,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 636787,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 159274,
@@ -1833,11 +1833,11 @@
             "18+": {
                 "all_doses": {
                     "total": 1484935,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 730740,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 594921,
@@ -1851,7 +1851,7 @@
             "15-18": {
                 "all_doses": {
                     "total": 58448,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 31507,
@@ -1859,7 +1859,7 @@
                 },
                 "2nd_dose": {
                     "total": 26941,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1945,52 +1945,52 @@
             "centers": 1595,
             "all_ages": {
                 "all_doses": {
-                    "total": 37347012,
-                    "new": 936
+                    "total": 37347067,
+                    "new": 55
                 },
                 "1st_dose": {
-                    "total": 18289813,
-                    "new": 80
+                    "total": 18289827,
+                    "new": 14
                 },
                 "2nd_dose": {
-                    "total": 15705402,
-                    "new": 211
+                    "total": 15705420,
+                    "new": 18
                 },
                 "3rd_dose": {
-                    "total": 3351797,
-                    "new": 645
+                    "total": 3351820,
+                    "new": 23
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 34296341,
-                    "new": 907
+                    "total": 34296388,
+                    "new": 47
                 },
                 "1st_dose": {
-                    "total": 16598754,
-                    "new": 71
+                    "total": 16598766,
+                    "new": 12
                 },
                 "2nd_dose": {
-                    "total": 14345790,
-                    "new": 191
+                    "total": 14345802,
+                    "new": 12
                 },
                 "3rd_dose": {
-                    "total": 3351797,
-                    "new": 645
+                    "total": 3351820,
+                    "new": 23
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1878526,
-                    "new": 12
+                    "total": 1878527,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1008352,
-                    "new": 5
+                    "total": 1008353,
+                    "new": 1
                 },
                 "2nd_dose": {
                     "total": 870174,
-                    "new": 7
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1999,16 +1999,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 1172145,
-                    "new": 17
+                    "total": 1172152,
+                    "new": 7
                 },
                 "1st_dose": {
-                    "total": 682707,
-                    "new": 4
+                    "total": 682708,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 489438,
-                    "new": 13
+                    "total": 489444,
+                    "new": 6
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2131,15 +2131,15 @@
             "all_ages": {
                 "all_doses": {
                     "total": 2872322,
-                    "new": 3
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1439793,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 1295340,
-                    "new": 2
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 137189,
@@ -2149,15 +2149,15 @@
             "18+": {
                 "all_doses": {
                     "total": 2716148,
-                    "new": 3
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1354802,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 1224157,
-                    "new": 2
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 137189,
@@ -2255,52 +2255,52 @@
             "centers": 9032,
             "all_ages": {
                 "all_doses": {
-                    "total": 127681684,
-                    "new": 4129
+                    "total": 127682037,
+                    "new": 353
                 },
                 "1st_dose": {
-                    "total": 54383277,
-                    "new": 109
+                    "total": 54383282,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 54001199,
-                    "new": 482
+                    "total": 54001240,
+                    "new": 41
                 },
                 "3rd_dose": {
-                    "total": 19297208,
-                    "new": 3538
+                    "total": 19297515,
+                    "new": 307
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 118028986,
-                    "new": 4123
+                    "total": 118029338,
+                    "new": 352
                 },
                 "1st_dose": {
-                    "total": 49311235,
-                    "new": 107
+                    "total": 49311239,
+                    "new": 4
                 },
                 "2nd_dose": {
-                    "total": 49420543,
-                    "new": 478
+                    "total": 49420584,
+                    "new": 41
                 },
                 "3rd_dose": {
-                    "total": 19297208,
-                    "new": 3538
+                    "total": 19297515,
+                    "new": 307
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 6034295,
-                    "new": 5
+                    "total": 6034296,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 3131192,
+                    "total": 3131193,
                     "new": 1
                 },
                 "2nd_dose": {
                     "total": 2903103,
-                    "new": 4
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2310,11 +2310,11 @@
             "12-14": {
                 "all_doses": {
                     "total": 3618403,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1940850,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 1677553,
@@ -2566,52 +2566,52 @@
             "centers": 2517,
             "all_ages": {
                 "all_doses": {
-                    "total": 45438952,
-                    "new": 419
+                    "total": 45438997,
+                    "new": 45
                 },
                 "1st_dose": {
-                    "total": 23670694,
-                    "new": 47
+                    "total": 23670699,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 19822959,
-                    "new": 153
+                    "total": 19822971,
+                    "new": 12
                 },
                 "3rd_dose": {
-                    "total": 1945299,
-                    "new": 219
+                    "total": 1945327,
+                    "new": 28
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 42628530,
-                    "new": 385
+                    "total": 42628573,
+                    "new": 43
                 },
                 "1st_dose": {
-                    "total": 21953907,
-                    "new": 39
+                    "total": 21953912,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 18729324,
-                    "new": 127
+                    "total": 18729334,
+                    "new": 10
                 },
                 "3rd_dose": {
-                    "total": 1945299,
-                    "new": 219
+                    "total": 1945327,
+                    "new": 28
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 1923861,
-                    "new": 20
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1157389,
-                    "new": 4
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 766472,
-                    "new": 16
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2620,16 +2620,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 886561,
-                    "new": 14
+                    "total": 886563,
+                    "new": 2
                 },
                 "1st_dose": {
                     "total": 559398,
-                    "new": 4
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 327163,
-                    "new": 10
+                    "total": 327165,
+                    "new": 2
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2811,52 +2811,52 @@
             "centers": 2231,
             "all_ages": {
                 "all_doses": {
-                    "total": 15238935,
-                    "new": 1709
+                    "total": 15238940,
+                    "new": 5
                 },
                 "1st_dose": {
                     "total": 6644751,
-                    "new": 80
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 6320120,
-                    "new": 164
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 2274064,
-                    "new": 1465
+                    "total": 2274069,
+                    "new": 5
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 14092382,
-                    "new": 1606
+                    "total": 14092387,
+                    "new": 5
                 },
                 "1st_dose": {
                     "total": 6041129,
-                    "new": 41
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 5777189,
-                    "new": 100
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 2274064,
-                    "new": 1465
+                    "total": 2274069,
+                    "new": 5
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 639487,
-                    "new": 103
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 331558,
-                    "new": 39
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 307929,
-                    "new": 64
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2996,48 +2996,48 @@
             "centers": 2079,
             "all_ages": {
                 "all_doses": {
-                    "total": 24723830,
-                    "new": 807
+                    "total": 24724226,
+                    "new": 396
                 },
                 "1st_dose": {
                     "total": 11370637,
-                    "new": 33
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 11765032,
-                    "new": 364
+                    "total": 11765341,
+                    "new": 309
                 },
                 "3rd_dose": {
-                    "total": 1588161,
-                    "new": 410
+                    "total": 1588248,
+                    "new": 87
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 21914717,
-                    "new": 805
+                    "total": 21915113,
+                    "new": 396
                 },
                 "1st_dose": {
                     "total": 9940781,
-                    "new": 31
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 10385775,
-                    "new": 364
+                    "total": 10386084,
+                    "new": 309
                 },
                 "3rd_dose": {
-                    "total": 1588161,
-                    "new": 410
+                    "total": 1588248,
+                    "new": 87
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 1737465,
-                    "new": 2
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 876015,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 861450,
@@ -3229,52 +3229,52 @@
             "centers": 3875,
             "all_ages": {
                 "all_doses": {
-                    "total": 43562335,
-                    "new": 4628
+                    "total": 43563339,
+                    "new": 1004
                 },
                 "1st_dose": {
-                    "total": 23923788,
-                    "new": 1527
+                    "total": 23924012,
+                    "new": 224
                 },
                 "2nd_dose": {
-                    "total": 17706858,
-                    "new": 1313
+                    "total": 17707298,
+                    "new": 440
                 },
                 "3rd_dose": {
-                    "total": 1931689,
-                    "new": 1788
+                    "total": 1932029,
+                    "new": 340
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 39240044,
-                    "new": 2907
+                    "total": 39240572,
+                    "new": 528
                 },
                 "1st_dose": {
-                    "total": 21292346,
-                    "new": 352
+                    "total": 21292368,
+                    "new": 22
                 },
                 "2nd_dose": {
-                    "total": 16016009,
-                    "new": 767
+                    "total": 16016175,
+                    "new": 166
                 },
                 "3rd_dose": {
-                    "total": 1931689,
-                    "new": 1788
+                    "total": 1932029,
+                    "new": 340
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2639236,
-                    "new": 1720
+                    "total": 2639708,
+                    "new": 472
                 },
                 "1st_dose": {
-                    "total": 1569956,
-                    "new": 1174
+                    "total": 1570154,
+                    "new": 198
                 },
                 "2nd_dose": {
-                    "total": 1069280,
-                    "new": 546
+                    "total": 1069554,
+                    "new": 274
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3283,12 +3283,12 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 1683055,
-                    "new": 1
+                    "total": 1683059,
+                    "new": 4
                 },
                 "1st_dose": {
-                    "total": 1061486,
-                    "new": 1
+                    "total": 1061490,
+                    "new": 4
                 },
                 "2nd_dose": {
                     "total": 621569,
@@ -3486,52 +3486,52 @@
             "centers": 7183,
             "all_ages": {
                 "all_doses": {
-                    "total": 120739182,
-                    "new": 2567
+                    "total": 120739540,
+                    "new": 358
                 },
                 "1st_dose": {
-                    "total": 55151379,
-                    "new": 93
+                    "total": 55151403,
+                    "new": 24
                 },
                 "2nd_dose": {
-                    "total": 55299976,
-                    "new": 684
+                    "total": 55300032,
+                    "new": 56
                 },
                 "3rd_dose": {
-                    "total": 10287827,
-                    "new": 1790
+                    "total": 10288105,
+                    "new": 278
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 110744134,
-                    "new": 2372
+                    "total": 110744489,
+                    "new": 355
                 },
                 "1st_dose": {
-                    "total": 50012801,
-                    "new": 74
+                    "total": 50012824,
+                    "new": 23
                 },
                 "2nd_dose": {
-                    "total": 50443506,
-                    "new": 508
+                    "total": 50443560,
+                    "new": 54
                 },
                 "3rd_dose": {
-                    "total": 10287827,
-                    "new": 1790
+                    "total": 10288105,
+                    "new": 278
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 5520861,
-                    "new": 167
+                    "total": 5520862,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 2814204,
-                    "new": 7
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 2706657,
-                    "new": 160
+                    "total": 2706658,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3540,16 +3540,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4474187,
-                    "new": 28
+                    "total": 4474189,
+                    "new": 2
                 },
                 "1st_dose": {
-                    "total": 2324374,
-                    "new": 12
+                    "total": 2324375,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 2149813,
-                    "new": 16
+                    "total": 2149814,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3779,52 +3779,52 @@
             "centers": 1187,
             "all_ages": {
                 "all_doses": {
-                    "total": 57465267,
-                    "new": 1191
+                    "total": 57465304,
+                    "new": 37
                 },
                 "1st_dose": {
-                    "total": 29145918,
-                    "new": 97
+                    "total": 29145919,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 25256672,
-                    "new": 419
+                    "total": 25256688,
+                    "new": 16
                 },
                 "3rd_dose": {
-                    "total": 3062677,
-                    "new": 675
+                    "total": 3062697,
+                    "new": 20
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 53864401,
-                    "new": 1053
+                    "total": 53864431,
+                    "new": 30
                 },
                 "1st_dose": {
                     "total": 27012768,
-                    "new": 74
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 23788956,
-                    "new": 304
+                    "total": 23788966,
+                    "new": 10
                 },
                 "3rd_dose": {
-                    "total": 3062677,
-                    "new": 675
+                    "total": 3062697,
+                    "new": 20
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2278042,
-                    "new": 138
+                    "total": 2278049,
+                    "new": 7
                 },
                 "1st_dose": {
-                    "total": 1322253,
-                    "new": 23
+                    "total": 1322254,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 955789,
-                    "new": 115
+                    "total": 955795,
+                    "new": 6
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3977,37 +3977,37 @@
             "all_ages": {
                 "all_doses": {
                     "total": 563239,
-                    "new": 28
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 238241,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 203818,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 121180,
-                    "new": 25
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
                     "total": 527558,
-                    "new": 28
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 219546,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 186832,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 121180,
-                    "new": 25
+                    "new": 0
                 }
             },
             "15-18": {
@@ -4226,52 +4226,52 @@
             "centers": 6589,
             "all_ages": {
                 "all_doses": {
-                    "total": 177585218,
-                    "new": 4780
+                    "total": 177585728,
+                    "new": 510
                 },
                 "1st_dose": {
-                    "total": 91635207,
-                    "new": 369
+                    "total": 91635278,
+                    "new": 71
                 },
                 "2nd_dose": {
-                    "total": 76532327,
-                    "new": 2025
+                    "total": 76532509,
+                    "new": 182
                 },
                 "3rd_dose": {
-                    "total": 9417684,
-                    "new": 2386
+                    "total": 9417941,
+                    "new": 257
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 165637329,
-                    "new": 4045
+                    "total": 165637795,
+                    "new": 466
                 },
                 "1st_dose": {
-                    "total": 84638339,
-                    "new": 259
+                    "total": 84638396,
+                    "new": 57
                 },
                 "2nd_dose": {
-                    "total": 71581306,
-                    "new": 1400
+                    "total": 71581458,
+                    "new": 152
                 },
                 "3rd_dose": {
-                    "total": 9417684,
-                    "new": 2386
+                    "total": 9417941,
+                    "new": 257
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 7191378,
-                    "new": 607
+                    "total": 7191389,
+                    "new": 11
                 },
                 "1st_dose": {
-                    "total": 4108226,
-                    "new": 88
+                    "total": 4108230,
+                    "new": 4
                 },
                 "2nd_dose": {
-                    "total": 3083152,
-                    "new": 519
+                    "total": 3083159,
+                    "new": 7
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4280,16 +4280,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4756511,
-                    "new": 128
+                    "total": 4756544,
+                    "new": 33
                 },
                 "1st_dose": {
-                    "total": 2888642,
-                    "new": 22
+                    "total": 2888652,
+                    "new": 10
                 },
                 "2nd_dose": {
-                    "total": 1867869,
-                    "new": 106
+                    "total": 1867892,
+                    "new": 23
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4549,52 +4549,52 @@
             "centers": 302,
             "all_ages": {
                 "all_doses": {
-                    "total": 3264382,
-                    "new": 40
+                    "total": 3264390,
+                    "new": 8
                 },
                 "1st_dose": {
-                    "total": 1648509,
-                    "new": 15
+                    "total": 1648510,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 1336892,
-                    "new": 11
+                    "total": 1336894,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 278981,
-                    "new": 14
+                    "total": 278986,
+                    "new": 5
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2968321,
-                    "new": 25
+                    "total": 2968329,
+                    "new": 8
                 },
                 "1st_dose": {
-                    "total": 1463929,
-                    "new": 4
+                    "total": 1463930,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 1225411,
-                    "new": 7
+                    "total": 1225413,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 278981,
-                    "new": 14
+                    "total": 278986,
+                    "new": 5
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 176314,
-                    "new": 15
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 109162,
-                    "new": 11
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 67152,
-                    "new": 4
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4758,52 +4758,52 @@
             "centers": 1431,
             "all_ages": {
                 "all_doses": {
-                    "total": 2619912,
-                    "new": 55
+                    "total": 2619902,
+                    "new": -10
                 },
                 "1st_dose": {
-                    "total": 1446294,
-                    "new": 18
+                    "total": 1446283,
+                    "new": -11
                 },
                 "2nd_dose": {
                     "total": 1086780,
-                    "new": 22
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 86838,
-                    "new": 15
+                    "total": 86839,
+                    "new": 1
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2443606,
-                    "new": 41
+                    "total": 2443596,
+                    "new": -10
                 },
                 "1st_dose": {
-                    "total": 1332071,
-                    "new": 13
+                    "total": 1332060,
+                    "new": -11
                 },
                 "2nd_dose": {
                     "total": 1024697,
-                    "new": 13
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 86838,
-                    "new": 15
+                    "total": 86839,
+                    "new": 1
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 119430,
-                    "new": 14
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 76859,
-                    "new": 5
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 42571,
-                    "new": 9
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4937,38 +4937,38 @@
             "centers": 286,
             "all_ages": {
                 "all_doses": {
-                    "total": 1790071,
-                    "new": 0
+                    "total": 1790101,
+                    "new": 30
                 },
                 "1st_dose": {
                     "total": 894118,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 749272,
-                    "new": 0
+                    "total": 749285,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 146681,
-                    "new": 0
+                    "total": 146698,
+                    "new": 17
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 1601008,
-                    "new": 0
+                    "total": 1601038,
+                    "new": 30
                 },
                 "1st_dose": {
                     "total": 785660,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 668667,
-                    "new": 0
+                    "total": 668680,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 146681,
-                    "new": 0
+                    "total": 146698,
+                    "new": 17
                 }
             },
             "15-18": {
@@ -5116,52 +5116,52 @@
             "centers": 8214,
             "all_ages": {
                 "all_doses": {
-                    "total": 133557694,
-                    "new": 1075
+                    "total": 133557999,
+                    "new": 305
                 },
                 "1st_dose": {
-                    "total": 60743912,
-                    "new": 24
+                    "total": 60743915,
+                    "new": 3
                 },
                 "2nd_dose": {
-                    "total": 59199566,
-                    "new": 113
+                    "total": 59199573,
+                    "new": 7
                 },
                 "3rd_dose": {
-                    "total": 13614216,
-                    "new": 938
+                    "total": 13614511,
+                    "new": 295
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 121786836,
-                    "new": 1004
+                    "total": 121787140,
+                    "new": 304
                 },
                 "1st_dose": {
-                    "total": 54139136,
-                    "new": 16
+                    "total": 54139139,
+                    "new": 3
                 },
                 "2nd_dose": {
-                    "total": 54033484,
-                    "new": 50
+                    "total": 54033490,
+                    "new": 6
                 },
                 "3rd_dose": {
-                    "total": 13614216,
-                    "new": 938
+                    "total": 13614511,
+                    "new": 295
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 7661348,
-                    "new": 71
+                    "total": 7661349,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 4193877,
-                    "new": 8
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 3467471,
-                    "new": 63
+                    "total": 3467472,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -5547,52 +5547,52 @@
             "centers": 510,
             "all_ages": {
                 "all_doses": {
-                    "total": 1737113,
-                    "new": 39
+                    "total": 1737121,
+                    "new": 8
                 },
                 "1st_dose": {
                     "total": 923486,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 744176,
-                    "new": 16
+                    "total": 744184,
+                    "new": 8
                 },
                 "3rd_dose": {
                     "total": 69451,
-                    "new": 21
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 1591377,
-                    "new": 39
+                    "total": 1591378,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 837751,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 684175,
-                    "new": 16
+                    "total": 684176,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 69451,
-                    "new": 21
+                    "new": 0
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 99839,
-                    "new": 0
+                    "total": 99846,
+                    "new": 7
                 },
                 "1st_dose": {
                     "total": 59723,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 40116,
-                    "new": 0
+                    "total": 40123,
+                    "new": 7
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -5726,52 +5726,52 @@
             "centers": 2414,
             "all_ages": {
                 "all_doses": {
-                    "total": 81439599,
-                    "new": 78
+                    "total": 81439613,
+                    "new": 14
                 },
                 "1st_dose": {
-                    "total": 35249779,
-                    "new": 6
+                    "total": 35249783,
+                    "new": 4
                 },
                 "2nd_dose": {
-                    "total": 33000270,
-                    "new": 18
+                    "total": 33000275,
+                    "new": 5
                 },
                 "3rd_dose": {
-                    "total": 13189550,
-                    "new": 54
+                    "total": 13189555,
+                    "new": 5
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 74592392,
-                    "new": 76
+                    "total": 74592405,
+                    "new": 13
                 },
                 "1st_dose": {
-                    "total": 31453448,
-                    "new": 6
+                    "total": 31453452,
+                    "new": 4
                 },
                 "2nd_dose": {
-                    "total": 29949394,
-                    "new": 16
+                    "total": 29949398,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 13189550,
-                    "new": 54
+                    "total": 13189555,
+                    "new": 5
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 4039863,
-                    "new": 2
+                    "total": 4039864,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 2195500,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1844363,
-                    "new": 2
+                    "total": 1844364,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6025,38 +6025,38 @@
             "centers": 73,
             "all_ages": {
                 "all_doses": {
-                    "total": 2266417,
-                    "new": 432
+                    "total": 2266437,
+                    "new": 20
                 },
                 "1st_dose": {
                     "total": 994239,
-                    "new": 9
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 865989,
-                    "new": 97
+                    "total": 866004,
+                    "new": 15
                 },
                 "3rd_dose": {
-                    "total": 406189,
-                    "new": 326
+                    "total": 406194,
+                    "new": 5
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2118985,
-                    "new": 432
+                    "total": 2119005,
+                    "new": 20
                 },
                 "1st_dose": {
                     "total": 912672,
-                    "new": 9
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 800124,
-                    "new": 97
+                    "total": 800139,
+                    "new": 15
                 },
                 "3rd_dose": {
-                    "total": 406189,
-                    "new": 326
+                    "total": 406194,
+                    "new": 5
                 }
             },
             "15-18": {
@@ -6135,79 +6135,79 @@
         "helpline": "104",
         "donate": "https://cmrf.punjab.gov.in/",
         "confirmed": {
-            "current": 785364,
-            "previous": 785364,
+            "current": 784140,
+            "previous": 784140,
             "delta": 0
         },
         "active": {
-            "current": 1245,
-            "previous": 1247,
+            "current": 21,
+            "previous": 23,
             "delta": -2,
-            "ratio_pc": 0.15853
+            "ratio_pc": 0.00268
         },
         "recovered": {
             "current": 764830,
             "previous": 764828,
             "delta": 2,
-            "ratio_pc": 97.38542
+            "ratio_pc": 97.53743
         },
         "deaths": {
             "current": 19289,
             "previous": 19289,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 2.45606
+            "ratio_pc": 2.45989
         },
         "vaccination": {
             "centers": 3094,
             "all_ages": {
                 "all_doses": {
-                    "total": 46945889,
-                    "new": 639
+                    "total": 46945952,
+                    "new": 63
                 },
                 "1st_dose": {
-                    "total": 24150838,
-                    "new": 72
+                    "total": 24150879,
+                    "new": 41
                 },
                 "2nd_dose": {
-                    "total": 20967459,
-                    "new": 256
+                    "total": 20967466,
+                    "new": 7
                 },
                 "3rd_dose": {
-                    "total": 1827592,
-                    "new": 311
+                    "total": 1827607,
+                    "new": 15
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 43775709,
-                    "new": 515
+                    "total": 43775771,
+                    "new": 62
                 },
                 "1st_dose": {
-                    "total": 22350399,
-                    "new": 48
+                    "total": 22350439,
+                    "new": 40
                 },
                 "2nd_dose": {
-                    "total": 19597718,
-                    "new": 156
+                    "total": 19597725,
+                    "new": 7
                 },
                 "3rd_dose": {
-                    "total": 1827592,
-                    "new": 311
+                    "total": 1827607,
+                    "new": 15
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1988679,
-                    "new": 124
+                    "total": 1988680,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1116314,
-                    "new": 24
+                    "total": 1116315,
+                    "new": 1
                 },
                 "2nd_dose": {
                     "total": 872365,
-                    "new": 100
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6407,52 +6407,52 @@
             "centers": 9424,
             "all_ages": {
                 "all_doses": {
-                    "total": 115174048,
-                    "new": 6205
+                    "total": 115174551,
+                    "new": 503
                 },
                 "1st_dose": {
-                    "total": 57009779,
-                    "new": 213
+                    "total": 57009788,
+                    "new": 9
                 },
                 "2nd_dose": {
-                    "total": 50865543,
-                    "new": 2257
+                    "total": 50865611,
+                    "new": 68
                 },
                 "3rd_dose": {
-                    "total": 7298726,
-                    "new": 3735
+                    "total": 7299152,
+                    "new": 426
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 104880834,
-                    "new": 5346
+                    "total": 104881327,
+                    "new": 493
                 },
                 "1st_dose": {
-                    "total": 51098236,
-                    "new": 154
+                    "total": 51098244,
+                    "new": 8
                 },
                 "2nd_dose": {
-                    "total": 46483872,
-                    "new": 1457
+                    "total": 46483931,
+                    "new": 59
                 },
                 "3rd_dose": {
-                    "total": 7298726,
-                    "new": 3735
+                    "total": 7299152,
+                    "new": 426
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 6453043,
-                    "new": 857
+                    "total": 6453053,
+                    "new": 10
                 },
                 "1st_dose": {
-                    "total": 3567775,
-                    "new": 57
+                    "total": 3567776,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 2885268,
-                    "new": 800
+                    "total": 2885277,
+                    "new": 9
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6462,11 +6462,11 @@
             "12-14": {
                 "all_doses": {
                     "total": 3840171,
-                    "new": 2
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 2343768,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 1496403,
@@ -6737,7 +6737,7 @@
             "all_ages": {
                 "all_doses": {
                     "total": 1360218,
-                    "new": 9
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 591874,
@@ -6749,13 +6749,13 @@
                 },
                 "3rd_dose": {
                     "total": 213692,
-                    "new": 9
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
                     "total": 1262748,
-                    "new": 9
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 539926,
@@ -6767,7 +6767,7 @@
                 },
                 "3rd_dose": {
                     "total": 213692,
-                    "new": 9
+                    "new": 0
                 }
             },
             "15-18": {
@@ -6873,52 +6873,52 @@
             "centers": 4442,
             "all_ages": {
                 "all_doses": {
-                    "total": 127366613,
-                    "new": 2882
+                    "total": 127367476,
+                    "new": 863
                 },
                 "1st_dose": {
-                    "total": 61192375,
-                    "new": 207
+                    "total": 61192408,
+                    "new": 33
                 },
                 "2nd_dose": {
-                    "total": 57150558,
-                    "new": 1636
+                    "total": 57150785,
+                    "new": 227
                 },
                 "3rd_dose": {
-                    "total": 9023680,
-                    "new": 1039
+                    "total": 9024283,
+                    "new": 603
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 119152506,
-                    "new": 2709
+                    "total": 119153186,
+                    "new": 680
                 },
                 "1st_dose": {
-                    "total": 56651203,
-                    "new": 201
+                    "total": 56651233,
+                    "new": 30
                 },
                 "2nd_dose": {
-                    "total": 53477623,
-                    "new": 1469
+                    "total": 53477670,
+                    "new": 47
                 },
                 "3rd_dose": {
-                    "total": 9023680,
-                    "new": 1039
+                    "total": 9024283,
+                    "new": 603
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 4843441,
-                    "new": 9
+                    "total": 4843446,
+                    "new": 5
                 },
                 "1st_dose": {
-                    "total": 2626894,
-                    "new": 1
+                    "total": 2626896,
+                    "new": 2
                 },
                 "2nd_dose": {
-                    "total": 2216547,
-                    "new": 8
+                    "total": 2216550,
+                    "new": 3
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6927,16 +6927,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 3370666,
-                    "new": 164
+                    "total": 3370844,
+                    "new": 178
                 },
                 "1st_dose": {
-                    "total": 1914278,
-                    "new": 5
+                    "total": 1914279,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 1456388,
-                    "new": 159
+                    "total": 1456565,
+                    "new": 177
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7226,52 +7226,52 @@
             "centers": 1971,
             "all_ages": {
                 "all_doses": {
-                    "total": 77161737,
-                    "new": 2162
+                    "total": 77162047,
+                    "new": 310
                 },
                 "1st_dose": {
-                    "total": 32435830,
-                    "new": 125
+                    "total": 32435839,
+                    "new": 9
                 },
                 "2nd_dose": {
-                    "total": 31527688,
-                    "new": 442
+                    "total": 31527765,
+                    "new": 77
                 },
                 "3rd_dose": {
-                    "total": 13198219,
-                    "new": 1595
+                    "total": 13198443,
+                    "new": 224
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 71850528,
-                    "new": 2041
+                    "total": 71850831,
+                    "new": 303
                 },
                 "1st_dose": {
-                    "total": 29605545,
-                    "new": 109
+                    "total": 29605554,
+                    "new": 9
                 },
                 "2nd_dose": {
-                    "total": 29046764,
-                    "new": 337
+                    "total": 29046834,
+                    "new": 70
                 },
                 "3rd_dose": {
-                    "total": 13198219,
-                    "new": 1595
+                    "total": 13198443,
+                    "new": 224
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 3304014,
-                    "new": 63
+                    "total": 3304015,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 1723530,
-                    "new": 5
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1580484,
-                    "new": 58
+                    "total": 1580485,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7280,16 +7280,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 2007195,
-                    "new": 58
+                    "total": 2007201,
+                    "new": 6
                 },
                 "1st_dose": {
                     "total": 1106755,
-                    "new": 11
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 900440,
-                    "new": 47
+                    "total": 900446,
+                    "new": 6
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7537,52 +7537,52 @@
             "centers": 1281,
             "all_ages": {
                 "all_doses": {
-                    "total": 5910521,
-                    "new": 235
+                    "total": 5910523,
+                    "new": 2
                 },
                 "1st_dose": {
                     "total": 2916299,
-                    "new": 20
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 2521104,
-                    "new": 51
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 473118,
-                    "new": 164
+                    "total": 473120,
+                    "new": 2
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 5459466,
-                    "new": 211
+                    "total": 5459468,
+                    "new": 2
                 },
                 "1st_dose": {
                     "total": 2658653,
-                    "new": 17
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 2327695,
-                    "new": 30
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 473118,
-                    "new": 164
+                    "total": 473120,
+                    "new": 2
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 258479,
-                    "new": 24
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 144682,
-                    "new": 3
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 113797,
-                    "new": 21
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7698,52 +7698,52 @@
             "centers": 9550,
             "all_ages": {
                 "all_doses": {
-                    "total": 390480014,
-                    "new": 3882
+                    "total": 390480753,
+                    "new": 739
                 },
                 "1st_dose": {
-                    "total": 176949191,
-                    "new": 287
+                    "total": 176949249,
+                    "new": 58
                 },
                 "2nd_dose": {
-                    "total": 168785920,
-                    "new": 748
+                    "total": 168786037,
+                    "new": 117
                 },
                 "3rd_dose": {
-                    "total": 44744903,
-                    "new": 2847
+                    "total": 44745467,
+                    "new": 564
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 346489889,
-                    "new": 3762
+                    "total": 346490598,
+                    "new": 709
                 },
                 "1st_dose": {
-                    "total": 154050004,
-                    "new": 260
+                    "total": 154050049,
+                    "new": 45
                 },
                 "2nd_dose": {
-                    "total": 147694982,
-                    "new": 655
+                    "total": 147695082,
+                    "new": 100
                 },
                 "3rd_dose": {
-                    "total": 44744903,
-                    "new": 2847
+                    "total": 44745467,
+                    "new": 564
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 27406825,
-                    "new": 104
+                    "total": 27406835,
+                    "new": 10
                 },
                 "1st_dose": {
-                    "total": 14190687,
-                    "new": 21
+                    "total": 14190692,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 13216138,
-                    "new": 83
+                    "total": 13216143,
+                    "new": 5
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7752,16 +7752,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 16583300,
-                    "new": 16
+                    "total": 16583320,
+                    "new": 20
                 },
                 "1st_dose": {
-                    "total": 8708500,
-                    "new": 6
+                    "total": 8708508,
+                    "new": 8
                 },
                 "2nd_dose": {
-                    "total": 7874800,
-                    "new": 10
+                    "total": 7874812,
+                    "new": 12
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8261,52 +8261,52 @@
             "centers": 1698,
             "all_ages": {
                 "all_doses": {
-                    "total": 20033205,
-                    "new": 1034
+                    "total": 20033216,
+                    "new": 11
                 },
                 "1st_dose": {
                     "total": 9114410,
-                    "new": 22
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 8720965,
-                    "new": 109
+                    "total": 8720967,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 2197830,
-                    "new": 903
+                    "total": 2197839,
+                    "new": 9
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 18316355,
-                    "new": 966
+                    "total": 18316366,
+                    "new": 11
                 },
                 "1st_dose": {
                     "total": 8179538,
-                    "new": 14
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 7938987,
-                    "new": 49
+                    "total": 7938989,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 2197830,
-                    "new": 903
+                    "total": 2197839,
+                    "new": 9
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 998557,
-                    "new": 68
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 532563,
-                    "new": 8
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 465994,
-                    "new": 60
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8452,52 +8452,52 @@
             "centers": 3648,
             "all_ages": {
                 "all_doses": {
-                    "total": 155929507,
-                    "new": 911
+                    "total": 155929703,
+                    "new": 196
                 },
                 "1st_dose": {
-                    "total": 73519473,
-                    "new": 48
+                    "total": 73519484,
+                    "new": 11
                 },
                 "2nd_dose": {
-                    "total": 66686957,
-                    "new": 142
+                    "total": 66687010,
+                    "new": 53
                 },
                 "3rd_dose": {
-                    "total": 15723077,
-                    "new": 721
+                    "total": 15723209,
+                    "new": 132
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 144612428,
-                    "new": 878
+                    "total": 144612616,
+                    "new": 188
                 },
                 "1st_dose": {
-                    "total": 67298669,
-                    "new": 41
+                    "total": 67298674,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 61590682,
-                    "new": 116
+                    "total": 61590733,
+                    "new": 51
                 },
                 "3rd_dose": {
-                    "total": 15723077,
-                    "new": 721
+                    "total": 15723209,
+                    "new": 132
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 6636318,
-                    "new": 18
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 3598876,
-                    "new": 3
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 3037442,
-                    "new": 15
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8506,16 +8506,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4680761,
-                    "new": 15
+                    "total": 4680769,
+                    "new": 8
                 },
                 "1st_dose": {
-                    "total": 2621928,
-                    "new": 4
+                    "total": 2621934,
+                    "new": 6
                 },
                 "2nd_dose": {
-                    "total": 2058833,
-                    "new": 11
+                    "total": 2058835,
+                    "new": 2
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8667,119 +8667,6 @@
                 "rat_pc": 43.56522,
                 "rtpcr_pc": 56.43478,
                 "positivity_rate": 0.18957
-            }
-        }
-    },
-    "null": {
-        "abbr": null,
-        "hindi": null,
-        "helpline": null,
-        "donate": null,
-        "confirmed": {
-            "current": 44674842,
-            "previous": 44674616,
-            "delta": 226
-        },
-        "active": {
-            "current": 5658,
-            "previous": 5753,
-            "delta": -95,
-            "ratio_pc": 0.01266
-        },
-        "recovered": {
-            "current": 44138554,
-            "previous": 44138235,
-            "delta": 319,
-            "ratio_pc": 98.79957
-        },
-        "deaths": {
-            "current": 530630,
-            "previous": 530628,
-            "delta": 2,
-            "reconciled": 0,
-            "ratio_pc": 1.18776
-        },
-        "vaccination": {
-            "centers": 0,
-            "all_ages": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "18+": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "15-18": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "12-14": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            }
-        },
-        "districts": {
-            "Aggregate": {
-                "centers": 0,
-                "rat_pc": 0,
-                "rtpcr_pc": 0,
-                "positivity_rate": 0
             }
         }
     },
