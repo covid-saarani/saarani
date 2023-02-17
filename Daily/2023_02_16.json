@@ -4,19 +4,19 @@
             "primary_source": "mygov",
             "date": "16 Feb 2023",
             "as_on": "17 Feb 2023, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1676608211,
-            "last_fetched_unix": 1676609538
+            "last_updated_unix": 1676612620,
+            "last_fetched_unix": 1676613147
         },
         "vaccination": {
             "primary_source": "mygov",
             "date": "15 Feb 2023",
             "as_on": "Feb 16 2023 11:46:02",
-            "last_fetched_unix": 1676609543
+            "last_fetched_unix": 1676613152
         },
         "districts": {
             "primary_source": "mohfw",
             "week": "09th Febuary to 15th February",
-            "last_fetched_unix": 1676609546
+            "last_fetched_unix": 1676613156
         }
     },
     "All": {
@@ -25,28 +25,28 @@
         "helpline": "1075, 011-23978046",
         "donate": "https://www.pmcares.gov.in/",
         "confirmed": {
-            "current": 89371768,
-            "previous": 89371454,
-            "delta": 314
+            "current": 44684658,
+            "previous": 44684502,
+            "delta": 156
         },
         "active": {
-            "current": 6176,
-            "previous": 6120,
-            "delta": 56,
-            "ratio_pc": 0.00691
+            "current": 1862,
+            "previous": 1835,
+            "delta": 27,
+            "ratio_pc": 0.00417
         },
         "recovered": {
-            "current": 88304078,
-            "previous": 88303820,
-            "delta": 258,
-            "ratio_pc": 98.80534
+            "current": 44152039,
+            "previous": 44151910,
+            "delta": 129,
+            "ratio_pc": 98.80805
         },
         "deaths": {
-            "current": 1061514,
-            "previous": 1061514,
+            "current": 530757,
+            "previous": 530757,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.18775
+            "ratio_pc": 1.18778
         },
         "vaccination": {
             "centers": 107450,
@@ -6135,28 +6135,28 @@
         "helpline": "104",
         "donate": "https://cmrf.punjab.gov.in/",
         "confirmed": {
-            "current": 785622,
-            "previous": 785615,
-            "delta": 7
+            "current": 784396,
+            "previous": 784390,
+            "delta": 6
         },
         "active": {
-            "current": 1243,
-            "previous": 1242,
-            "delta": 1,
-            "ratio_pc": 0.15822
+            "current": 17,
+            "previous": 17,
+            "delta": 0,
+            "ratio_pc": 0.00217
         },
         "recovered": {
             "current": 765090,
             "previous": 765084,
             "delta": 6,
-            "ratio_pc": 97.38653
+            "ratio_pc": 97.53874
         },
         "deaths": {
             "current": 19289,
             "previous": 19289,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 2.45525
+            "ratio_pc": 2.45909
         },
         "vaccination": {
             "centers": 3094,
@@ -8667,119 +8667,6 @@
                 "rat_pc": 40.3913,
                 "rtpcr_pc": 59.6087,
                 "positivity_rate": 0.0887
-            }
-        }
-    },
-    "null": {
-        "abbr": null,
-        "hindi": null,
-        "helpline": null,
-        "donate": null,
-        "confirmed": {
-            "current": 44685884,
-            "previous": 44685727,
-            "delta": 157
-        },
-        "active": {
-            "current": 3088,
-            "previous": 3060,
-            "delta": 28,
-            "ratio_pc": 0.00691
-        },
-        "recovered": {
-            "current": 44152039,
-            "previous": 44151910,
-            "delta": 129,
-            "ratio_pc": 98.80534
-        },
-        "deaths": {
-            "current": 530757,
-            "previous": 530757,
-            "delta": 0,
-            "reconciled": 0,
-            "ratio_pc": 1.18775
-        },
-        "vaccination": {
-            "centers": 0,
-            "all_ages": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "18+": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "15-18": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            },
-            "12-14": {
-                "all_doses": {
-                    "total": 0,
-                    "new": 0
-                },
-                "1st_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "2nd_dose": {
-                    "total": 0,
-                    "new": 0
-                },
-                "3rd_dose": {
-                    "total": 0,
-                    "new": 0
-                }
-            }
-        },
-        "districts": {
-            "Aggregate": {
-                "centers": 0,
-                "rat_pc": 0,
-                "rtpcr_pc": 0,
-                "positivity_rate": 0
             }
         }
     },
