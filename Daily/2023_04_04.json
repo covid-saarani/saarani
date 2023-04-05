@@ -3,20 +3,20 @@
         "cases": {
             "primary_source": "mygov",
             "date": "04 Apr 2023",
-            "as_on": "01 Apr 2023, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1680355814,
-            "last_fetched_unix": 1680702759
+            "as_on": "05 Apr 2023, 08:00 IST (GMT+5:30)",
+            "last_updated_unix": 1680705013,
+            "last_fetched_unix": 1680706349
         },
         "vaccination": {
             "primary_source": "mygov",
-            "date": "31 Mar 2023",
-            "as_on": "Apr 01 2023 10:34:32",
-            "last_fetched_unix": 1680702821
+            "date": "04 Apr 2023",
+            "as_on": "Apr 05 2023 10:04:44",
+            "last_fetched_unix": 1680706358
         },
         "districts": {
             "primary_source": "mohfw",
             "week": "27th March to 02nd April",
-            "last_fetched_unix": 1680702864
+            "last_fetched_unix": 1680706363
         }
     },
     "All": {
@@ -25,79 +25,79 @@
         "helpline": "1075, 011-23978046",
         "donate": "https://www.pmcares.gov.in/",
         "confirmed": {
-            "current": 44718781,
-            "previous": 44715786,
-            "delta": 2995
+            "current": 44733719,
+            "previous": 44729284,
+            "delta": 4435
         },
         "active": {
-            "current": 16354,
-            "previous": 15208,
-            "delta": 1146,
-            "ratio_pc": 0.03657
+            "current": 23091,
+            "previous": 21179,
+            "delta": 1912,
+            "ratio_pc": 0.05162
         },
         "recovered": {
-            "current": 44171551,
-            "previous": 44169711,
-            "delta": 1840,
-            "ratio_pc": 98.77629
+            "current": 44179712,
+            "previous": 44177204,
+            "delta": 2508,
+            "ratio_pc": 98.76154
         },
         "deaths": {
-            "current": 530876,
-            "previous": 530867,
-            "delta": 9,
+            "current": 530916,
+            "previous": 530901,
+            "delta": 15,
             "reconciled": 4,
-            "ratio_pc": 1.18714
+            "ratio_pc": 1.18684
         },
         "vaccination": {
             "centers": 107450,
             "all_ages": {
                 "all_doses": {
-                    "total": 2206609015,
-                    "new": 9981
+                    "total": 2206616373,
+                    "new": 1979
                 },
                 "1st_dose": {
-                    "total": 1025811479,
-                    "new": 1394
+                    "total": 1025812520,
+                    "new": 279
                 },
                 "2nd_dose": {
-                    "total": 952102222,
-                    "new": 3203
+                    "total": 952104638,
+                    "new": 625
                 },
                 "3rd_dose": {
-                    "total": 228695314,
-                    "new": 5384
+                    "total": 228699215,
+                    "new": 1075
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2016818183,
-                    "new": 8461
+                    "total": 2016825022,
+                    "new": 1903
                 },
                 "1st_dose": {
-                    "total": 922353706,
-                    "new": 1050
+                    "total": 922354541,
+                    "new": 241
                 },
                 "2nd_dose": {
-                    "total": 865769163,
-                    "new": 2027
+                    "total": 865771266,
+                    "new": 587
                 },
                 "3rd_dose": {
-                    "total": 228695314,
-                    "new": 5384
+                    "total": 228699215,
+                    "new": 1075
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 115964507,
-                    "new": 1452
+                    "total": 115964737,
+                    "new": 22
                 },
                 "1st_dose": {
-                    "total": 62161431,
-                    "new": 303
+                    "total": 62161489,
+                    "new": 16
                 },
                 "2nd_dose": {
-                    "total": 53803076,
-                    "new": 1149
+                    "total": 53803248,
+                    "new": 6
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -106,16 +106,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 73826325,
-                    "new": 68
+                    "total": 73826614,
+                    "new": 54
                 },
                 "1st_dose": {
-                    "total": 41296342,
-                    "new": 41
+                    "total": 41296490,
+                    "new": 22
                 },
                 "2nd_dose": {
-                    "total": 32529983,
-                    "new": 27
+                    "total": 32530124,
+                    "new": 32
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -126,9 +126,9 @@
         "districts": {
             "Aggregate": {
                 "centers": 107450,
-                "rat_pc": 43.85101,
-                "rtpcr_pc": 48.50336,
-                "positivity_rate": 3.2445
+                "rat_pc": 43.85638,
+                "rtpcr_pc": 48.49799,
+                "positivity_rate": 3.24487
             }
         }
     },
@@ -269,65 +269,65 @@
         "helpline": "104, 8297104104",
         "donate": "https://apcmrf.ap.gov.in/",
         "confirmed": {
-            "current": 2339197,
-            "previous": 2339186,
-            "delta": 11
+            "current": 2339287,
+            "previous": 2339261,
+            "delta": 26
         },
         "active": {
-            "current": 71,
-            "previous": 71,
-            "delta": 0,
-            "ratio_pc": 0.00304
+            "current": 115,
+            "previous": 104,
+            "delta": 11,
+            "ratio_pc": 0.00492
         },
         "recovered": {
-            "current": 2324393,
-            "previous": 2324382,
-            "delta": 11,
-            "ratio_pc": 99.36713
+            "current": 2324439,
+            "previous": 2324424,
+            "delta": 15,
+            "ratio_pc": 99.36528
         },
         "deaths": {
             "current": 14733,
             "previous": 14733,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.62983
+            "ratio_pc": 0.62981
         },
         "vaccination": {
             "centers": 3650,
             "all_ages": {
                 "all_doses": {
-                    "total": 110956778,
-                    "new": 22
+                    "total": 110956833,
+                    "new": 15
                 },
                 "1st_dose": {
-                    "total": 44704201,
-                    "new": 8
+                    "total": 44704215,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 47578690,
-                    "new": 6
+                    "total": 47578708,
+                    "new": 1
                 },
                 "3rd_dose": {
-                    "total": 18673887,
-                    "new": 8
+                    "total": 18673910,
+                    "new": 9
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 102875027,
-                    "new": 22
+                    "total": 102875081,
+                    "new": 14
                 },
                 "1st_dose": {
-                    "total": 40645496,
-                    "new": 8
+                    "total": 40645510,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 43555644,
-                    "new": 6
+                    "total": 43555661,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 18673887,
-                    "new": 8
+                    "total": 18673910,
+                    "new": 9
                 }
             },
             "15-18": {
@@ -350,16 +350,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 3018799,
-                    "new": 0
+                    "total": 3018800,
+                    "new": 1
                 },
                 "1st_dose": {
                     "total": 1523365,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1495434,
-                    "new": 0
+                    "total": 1495435,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -740,16 +740,16 @@
             "delta": 0
         },
         "active": {
-            "current": 4,
+            "current": 1,
             "previous": 4,
-            "delta": 0,
-            "ratio_pc": 0.00054
+            "delta": -3,
+            "ratio_pc": 0.00013
         },
         "recovered": {
-            "current": 738065,
+            "current": 738068,
             "previous": 738065,
-            "delta": 0,
-            "ratio_pc": 98.92254
+            "delta": 3,
+            "ratio_pc": 98.92294
         },
         "deaths": {
             "current": 8035,
@@ -762,51 +762,51 @@
             "centers": 3853,
             "all_ages": {
                 "all_doses": {
-                    "total": 50335764,
-                    "new": 16
+                    "total": 50335776,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 24813010,
-                    "new": 1
+                    "total": 24813012,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 22150247,
-                    "new": 3
+                    "total": 22150253,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 3372507,
-                    "new": 12
+                    "total": 3372511,
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 46499014,
-                    "new": 16
+                    "total": 46499019,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 22550940,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 20575567,
-                    "new": 3
+                    "total": 20575568,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 3372507,
-                    "new": 12
+                    "total": 3372511,
+                    "new": 0
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2234915,
+                    "total": 2234922,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 1262518,
+                    "total": 1262520,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 972397,
+                    "total": 972402,
                     "new": 0
                 },
                 "3rd_dose": {
@@ -1046,79 +1046,79 @@
         "helpline": "104",
         "donate": "http://www.cmrf.bih.nic.in/users/quickdonate.aspx",
         "confirmed": {
-            "current": 851478,
-            "previous": 851468,
-            "delta": 10
+            "current": 851508,
+            "previous": 851499,
+            "delta": 9
         },
         "active": {
-            "current": 30,
-            "previous": 26,
-            "delta": 4,
-            "ratio_pc": 0.00352
+            "current": 47,
+            "previous": 45,
+            "delta": 2,
+            "ratio_pc": 0.00552
         },
         "recovered": {
-            "current": 839145,
-            "previous": 839139,
-            "delta": 6,
-            "ratio_pc": 98.55158
+            "current": 839158,
+            "previous": 839151,
+            "delta": 7,
+            "ratio_pc": 98.54963
         },
         "deaths": {
             "current": 12303,
             "previous": 12303,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.4449
+            "ratio_pc": 1.44485
         },
         "vaccination": {
             "centers": 9658,
             "all_ages": {
                 "all_doses": {
-                    "total": 157282765,
-                    "new": 1780
+                    "total": 157283016,
+                    "new": 7
                 },
                 "1st_dose": {
-                    "total": 73484894,
-                    "new": 550
+                    "total": 73484943,
+                    "new": 2
                 },
                 "2nd_dose": {
-                    "total": 67911842,
-                    "new": 767
+                    "total": 67912017,
+                    "new": 3
                 },
                 "3rd_dose": {
-                    "total": 15886029,
-                    "new": 463
+                    "total": 15886056,
+                    "new": 2
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 138003435,
-                    "new": 1074
+                    "total": 138003559,
+                    "new": 6
                 },
                 "1st_dose": {
-                    "total": 62956567,
-                    "new": 343
+                    "total": 62956599,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 59160839,
-                    "new": 268
+                    "total": 59160904,
+                    "new": 3
                 },
                 "3rd_dose": {
-                    "total": 15886029,
-                    "new": 463
+                    "total": 15886056,
+                    "new": 2
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 11589003,
-                    "new": 706
+                    "total": 11589130,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 6240633,
-                    "new": 207
+                    "total": 6240650,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 5348370,
-                    "new": 499
+                    "total": 5348480,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1387,71 +1387,71 @@
         "helpline": "9779558282",
         "donate": "http://chandigarh.gov.in/",
         "confirmed": {
-            "current": 99482,
-            "previous": 99461,
-            "delta": 21
+            "current": 99577,
+            "previous": 99548,
+            "delta": 29
         },
         "active": {
-            "current": 70,
-            "previous": 54,
-            "delta": 16,
-            "ratio_pc": 0.07036
+            "current": 142,
+            "previous": 120,
+            "delta": 22,
+            "ratio_pc": 0.1426
         },
         "recovered": {
-            "current": 98229,
-            "previous": 98224,
-            "delta": 5,
-            "ratio_pc": 98.74048
+            "current": 98252,
+            "previous": 98245,
+            "delta": 7,
+            "ratio_pc": 98.66937
         },
         "deaths": {
             "current": 1183,
             "previous": 1183,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.18916
+            "ratio_pc": 1.18803
         },
         "vaccination": {
             "centers": 93,
             "all_ages": {
                 "all_doses": {
-                    "total": 2290660,
-                    "new": 97
+                    "total": 2290761,
+                    "new": 30
                 },
                 "1st_dose": {
-                    "total": 1185602,
-                    "new": 12
+                    "total": 1185616,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 990890,
-                    "new": 76
+                    "total": 990942,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 114168,
-                    "new": 9
+                    "total": 114203,
+                    "new": 12
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2124927,
-                    "new": 34
+                    "total": 2125025,
+                    "new": 30
                 },
                 "1st_dose": {
-                    "total": 1089749,
-                    "new": 10
+                    "total": 1089760,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 921010,
-                    "new": 15
+                    "total": 921062,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 114168,
-                    "new": 9
+                    "total": 114203,
+                    "new": 12
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 101579,
-                    "new": 61
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 57684,
@@ -1459,7 +1459,7 @@
                 },
                 "2nd_dose": {
                     "total": 43895,
-                    "new": 61
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -1468,12 +1468,12 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 64154,
-                    "new": 2
+                    "total": 64157,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 38169,
-                    "new": 2
+                    "total": 38172,
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 25985,
@@ -1506,65 +1506,65 @@
         "helpline": "104, 0771-2235091",
         "donate": "http://cmrf.cg.gov.in/",
         "confirmed": {
-            "current": 1177891,
-            "previous": 1177879,
-            "delta": 12
+            "current": 1178043,
+            "previous": 1177995,
+            "delta": 48
         },
         "active": {
-            "current": 62,
-            "previous": 64,
-            "delta": -2,
-            "ratio_pc": 0.00526
+            "current": 190,
+            "previous": 155,
+            "delta": 35,
+            "ratio_pc": 0.01613
         },
         "recovered": {
-            "current": 1163682,
-            "previous": 1163668,
-            "delta": 14,
-            "ratio_pc": 98.79369
+            "current": 1163705,
+            "previous": 1163693,
+            "delta": 12,
+            "ratio_pc": 98.7829
         },
         "deaths": {
-            "current": 14147,
+            "current": 14148,
             "previous": 14147,
-            "delta": 0,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 1.20104
+            "ratio_pc": 1.20097
         },
         "vaccination": {
             "centers": 4668,
             "all_ages": {
                 "all_doses": {
-                    "total": 49167582,
-                    "new": 6
+                    "total": 49167618,
+                    "new": 13
                 },
                 "1st_dose": {
-                    "total": 21267671,
+                    "total": 21267676,
                     "new": 3
                 },
                 "2nd_dose": {
-                    "total": 20343672,
-                    "new": 2
+                    "total": 20343676,
+                    "new": 1
                 },
                 "3rd_dose": {
-                    "total": 7556239,
-                    "new": 1
+                    "total": 7556266,
+                    "new": 9
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 45050646,
-                    "new": 5
+                    "total": 45050682,
+                    "new": 13
                 },
                 "1st_dose": {
-                    "total": 18956627,
-                    "new": 2
+                    "total": 18956632,
+                    "new": 3
                 },
                 "2nd_dose": {
-                    "total": 18537780,
-                    "new": 2
+                    "total": 18537784,
+                    "new": 1
                 },
                 "3rd_dose": {
-                    "total": 7556239,
-                    "new": 1
+                    "total": 7556266,
+                    "new": 9
                 }
             },
             "15-18": {
@@ -1588,11 +1588,11 @@
             "12-14": {
                 "all_doses": {
                     "total": 1828611,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1076056,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 752555,
@@ -1814,38 +1814,38 @@
             "centers": 179,
             "all_ages": {
                 "all_doses": {
-                    "total": 1579855,
-                    "new": 13
+                    "total": 1579860,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 782345,
-                    "new": 2
+                    "total": 782346,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 636957,
-                    "new": 1
+                    "total": 636958,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 160553,
-                    "new": 10
+                    "total": 160556,
+                    "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 1486485,
-                    "new": 13
+                    "total": 1486490,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 730847,
-                    "new": 2
+                    "total": 730848,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 595085,
-                    "new": 1
+                    "total": 595086,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 160553,
-                    "new": 10
+                    "total": 160556,
+                    "new": 0
                 }
             },
             "15-18": {
@@ -1918,78 +1918,78 @@
         "helpline": "011-22307145, 1800-111-747, 8800007722",
         "donate": "https://lgcmrelieffund.delhi.gov.in/Home.aspx",
         "confirmed": {
-            "current": 2009896,
-            "previous": 2009656,
-            "delta": 240
+            "current": 2011555,
+            "previous": 2011034,
+            "delta": 521
         },
         "active": {
-            "current": 945,
-            "previous": 932,
-            "delta": 13,
-            "ratio_pc": 0.04702
+            "current": 1710,
+            "previous": 1406,
+            "delta": 304,
+            "ratio_pc": 0.08501
         },
         "recovered": {
-            "current": 1982423,
-            "previous": 1982198,
-            "delta": 225,
-            "ratio_pc": 98.63311
+            "current": 1983312,
+            "previous": 1983096,
+            "delta": 216,
+            "ratio_pc": 98.59596
         },
         "deaths": {
-            "current": 26528,
-            "previous": 26526,
-            "delta": 2,
+            "current": 26533,
+            "previous": 26532,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 1.31987
+            "ratio_pc": 1.31903
         },
         "vaccination": {
             "centers": 1595,
             "all_ages": {
                 "all_doses": {
-                    "total": 37405098,
-                    "new": 157
+                    "total": 37405595,
+                    "new": 142
                 },
                 "1st_dose": {
-                    "total": 18296411,
-                    "new": 35
+                    "total": 18296509,
+                    "new": 27
                 },
                 "2nd_dose": {
-                    "total": 15716506,
-                    "new": 43
+                    "total": 15716639,
+                    "new": 38
                 },
                 "3rd_dose": {
-                    "total": 3392181,
-                    "new": 79
+                    "total": 3392447,
+                    "new": 77
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 34351757,
-                    "new": 141
+                    "total": 34352180,
+                    "new": 128
                 },
                 "1st_dose": {
-                    "total": 16604080,
-                    "new": 23
+                    "total": 16604144,
+                    "new": 21
                 },
                 "2nd_dose": {
-                    "total": 14355496,
-                    "new": 39
+                    "total": 14355589,
+                    "new": 30
                 },
                 "3rd_dose": {
-                    "total": 3392181,
-                    "new": 79
+                    "total": 3392447,
+                    "new": 77
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1879642,
-                    "new": 3
-                },
-                "1st_dose": {
-                    "total": 1008892,
+                    "total": 1879650,
                     "new": 2
                 },
+                "1st_dose": {
+                    "total": 1008897,
+                    "new": 1
+                },
                 "2nd_dose": {
-                    "total": 870750,
+                    "total": 870753,
                     "new": 1
                 },
                 "3rd_dose": {
@@ -1999,16 +1999,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 1173699,
-                    "new": 13
+                    "total": 1173765,
+                    "new": 12
                 },
                 "1st_dose": {
-                    "total": 683439,
-                    "new": 10
+                    "total": 683468,
+                    "new": 5
                 },
                 "2nd_dose": {
-                    "total": 490260,
-                    "new": 3
+                    "total": 490297,
+                    "new": 7
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2103,64 +2103,64 @@
         "helpline": "104",
         "donate": "https://www.goa.gov.in/covid-19/",
         "confirmed": {
-            "current": 259933,
-            "previous": 259813,
-            "delta": 120
+            "current": 260403,
+            "previous": 260234,
+            "delta": 169
         },
         "active": {
-            "current": 518,
-            "previous": 453,
-            "delta": 65,
-            "ratio_pc": 0.19928
+            "current": 795,
+            "previous": 713,
+            "delta": 82,
+            "ratio_pc": 0.3053
         },
         "recovered": {
-            "current": 255401,
-            "previous": 255346,
-            "delta": 55,
-            "ratio_pc": 98.25647
+            "current": 255594,
+            "previous": 255507,
+            "delta": 87,
+            "ratio_pc": 98.15325
         },
         "deaths": {
             "current": 4014,
             "previous": 4014,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.54424
+            "ratio_pc": 1.54146
         },
         "vaccination": {
             "centers": 128,
             "all_ages": {
                 "all_doses": {
-                    "total": 2874432,
+                    "total": 2874457,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 1440039,
+                    "total": 1440043,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1295731,
+                    "total": 1295733,
                     "new": 0
                 },
                 "3rd_dose": {
-                    "total": 138662,
+                    "total": 138681,
                     "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 2718242,
+                    "total": 2718267,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 1355040,
+                    "total": 1355044,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1224540,
+                    "total": 1224542,
                     "new": 0
                 },
                 "3rd_dose": {
-                    "total": 138662,
+                    "total": 138681,
                     "new": 0
                 }
             },
@@ -2228,79 +2228,79 @@
         "helpline": "104, 079-23250818, 079-23251900",
         "donate": "https://iora.gujarat.gov.in/cmrf/",
         "confirmed": {
-            "current": 1282202,
-            "previous": 1281864,
-            "delta": 338
+            "current": 1283430,
+            "previous": 1283106,
+            "delta": 324
         },
         "active": {
-            "current": 2310,
-            "previous": 2247,
-            "delta": 63,
-            "ratio_pc": 0.18016
+            "current": 2220,
+            "previous": 2214,
+            "delta": 6,
+            "ratio_pc": 0.17297
         },
         "recovered": {
-            "current": 1268837,
-            "previous": 1268563,
-            "delta": 274,
-            "ratio_pc": 98.95765
+            "current": 1270154,
+            "previous": 1269837,
+            "delta": 317,
+            "ratio_pc": 98.96558
         },
         "deaths": {
-            "current": 11055,
-            "previous": 11054,
+            "current": 11056,
+            "previous": 11055,
             "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 0.86219
+            "ratio_pc": 0.86144
         },
         "vaccination": {
             "centers": 9032,
             "all_ages": {
                 "all_doses": {
-                    "total": 128102003,
-                    "new": 190
+                    "total": 128102388,
+                    "new": 88
                 },
                 "1st_dose": {
-                    "total": 54397590,
-                    "new": 23
+                    "total": 54397657,
+                    "new": 21
                 },
                 "2nd_dose": {
-                    "total": 54031950,
-                    "new": 47
+                    "total": 54032003,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 19672463,
-                    "new": 120
+                    "total": 19672728,
+                    "new": 54
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 118444159,
-                    "new": 186
+                    "total": 118444537,
+                    "new": 85
                 },
                 "1st_dose": {
-                    "total": 49324179,
-                    "new": 20
+                    "total": 49324241,
+                    "new": 18
                 },
                 "2nd_dose": {
-                    "total": 49447517,
-                    "new": 46
+                    "total": 49447568,
+                    "new": 13
                 },
                 "3rd_dose": {
-                    "total": 19672463,
-                    "new": 120
+                    "total": 19672728,
+                    "new": 54
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 6038540,
+                    "total": 6038542,
                     "new": 1
                 },
                 "1st_dose": {
-                    "total": 3131876,
-                    "new": 0
+                    "total": 3131878,
+                    "new": 1
                 },
                 "2nd_dose": {
                     "total": 2906664,
-                    "new": 1
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2309,15 +2309,15 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 3619304,
-                    "new": 3
+                    "total": 3619309,
+                    "new": 2
                 },
                 "1st_dose": {
-                    "total": 1941535,
-                    "new": 3
+                    "total": 1941538,
+                    "new": 2
                 },
                 "2nd_dose": {
-                    "total": 1677769,
+                    "total": 1677771,
                     "new": 0
                 },
                 "3rd_dose": {
@@ -2539,79 +2539,79 @@
         "helpline": "8558893911",
         "donate": "https://haryana.gov.in/",
         "confirmed": {
-            "current": 1057662,
-            "previous": 1057534,
-            "delta": 128
+            "current": 1058352,
+            "previous": 1058159,
+            "delta": 193
         },
         "active": {
-            "current": 522,
-            "previous": 464,
-            "delta": 58,
-            "ratio_pc": 0.04935
+            "current": 863,
+            "previous": 785,
+            "delta": 78,
+            "ratio_pc": 0.08154
         },
         "recovered": {
-            "current": 1046426,
-            "previous": 1046356,
-            "delta": 70,
-            "ratio_pc": 98.93766
+            "current": 1046773,
+            "previous": 1046659,
+            "delta": 114,
+            "ratio_pc": 98.90594
         },
         "deaths": {
-            "current": 10714,
-            "previous": 10714,
-            "delta": 0,
+            "current": 10716,
+            "previous": 10715,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 1.01299
+            "ratio_pc": 1.01252
         },
         "vaccination": {
             "centers": 2517,
             "all_ages": {
                 "all_doses": {
-                    "total": 45543318,
-                    "new": 2829
+                    "total": 45543628,
+                    "new": 52
                 },
                 "1st_dose": {
-                    "total": 23681225,
-                    "new": 236
+                    "total": 23681278,
+                    "new": 9
                 },
                 "2nd_dose": {
-                    "total": 19848705,
-                    "new": 565
+                    "total": 19848797,
+                    "new": 17
                 },
                 "3rd_dose": {
-                    "total": 2013388,
-                    "new": 2028
+                    "total": 2013553,
+                    "new": 26
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 42725665,
-                    "new": 2654
+                    "total": 42725936,
+                    "new": 47
                 },
                 "1st_dose": {
-                    "total": 21962979,
-                    "new": 203
+                    "total": 21963013,
+                    "new": 6
                 },
                 "2nd_dose": {
-                    "total": 18749298,
-                    "new": 423
+                    "total": 18749370,
+                    "new": 15
                 },
                 "3rd_dose": {
-                    "total": 2013388,
-                    "new": 2028
+                    "total": 2013553,
+                    "new": 26
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1930341,
-                    "new": 164
+                    "total": 1930350,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 1158485,
-                    "new": 27
+                    "total": 1158486,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 771856,
-                    "new": 137
+                    "total": 771864,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2620,16 +2620,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 887312,
-                    "new": 11
+                    "total": 887342,
+                    "new": 5
                 },
                 "1st_dose": {
-                    "total": 559761,
-                    "new": 6
+                    "total": 559779,
+                    "new": 3
                 },
                 "2nd_dose": {
-                    "total": 327551,
-                    "new": 5
+                    "total": 327563,
+                    "new": 2
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2784,71 +2784,71 @@
         "helpline": "104",
         "donate": "https://cmhimachal.nic.in/",
         "confirmed": {
-            "current": 314259,
-            "previous": 314076,
-            "delta": 183
+            "current": 315331,
+            "previous": 315025,
+            "delta": 306
         },
         "active": {
-            "current": 873,
-            "previous": 798,
-            "delta": 75,
-            "ratio_pc": 0.2778
+            "current": 1493,
+            "previous": 1379,
+            "delta": 114,
+            "ratio_pc": 0.47347
         },
         "recovered": {
-            "current": 309169,
-            "previous": 309061,
-            "delta": 108,
-            "ratio_pc": 98.38032
+            "current": 309621,
+            "previous": 309429,
+            "delta": 192,
+            "ratio_pc": 98.1892
         },
         "deaths": {
             "current": 4217,
             "previous": 4217,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.34189
+            "ratio_pc": 1.33732
         },
         "vaccination": {
             "centers": 2231,
             "all_ages": {
                 "all_doses": {
-                    "total": 15325456,
-                    "new": 118
+                    "total": 15325466,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 6646546,
+                    "total": 6646547,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 6328307,
-                    "new": 55
+                    "total": 6328308,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 2350603,
-                    "new": 63
+                    "total": 2350611,
+                    "new": 1
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 14176951,
-                    "new": 93
+                    "total": 14176961,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 6042656,
+                    "total": 6042657,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 5783692,
-                    "new": 30
+                    "total": 5783693,
+                    "new": 0
                 },
                 "3rd_dose": {
-                    "total": 2350603,
-                    "new": 63
+                    "total": 2350611,
+                    "new": 1
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 641439,
-                    "new": 25
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 331826,
@@ -2856,7 +2856,7 @@
                 },
                 "2nd_dose": {
                     "total": 309613,
-                    "new": 25
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -2969,65 +2969,65 @@
         "helpline": "0191-2520982, 0194-2440283",
         "donate": "https://jammu.nic.in/covid19/",
         "confirmed": {
-            "current": 479708,
-            "previous": 479685,
-            "delta": 23
+            "current": 479831,
+            "previous": 479800,
+            "delta": 31
         },
         "active": {
-            "current": 110,
-            "previous": 94,
-            "delta": 16,
-            "ratio_pc": 0.02293
+            "current": 156,
+            "previous": 166,
+            "delta": -10,
+            "ratio_pc": 0.03251
         },
         "recovered": {
-            "current": 474813,
-            "previous": 474806,
-            "delta": 7,
-            "ratio_pc": 98.97959
+            "current": 474889,
+            "previous": 474848,
+            "delta": 41,
+            "ratio_pc": 98.97005
         },
         "deaths": {
-            "current": 4785,
-            "previous": 4785,
+            "current": 4786,
+            "previous": 4786,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.99748
+            "ratio_pc": 0.99743
         },
         "vaccination": {
             "centers": 2079,
             "all_ages": {
                 "all_doses": {
-                    "total": 24782117,
-                    "new": 4
+                    "total": 24782131,
+                    "new": 5
                 },
                 "1st_dose": {
-                    "total": 11372575,
+                    "total": 11372578,
                     "new": 1
                 },
                 "2nd_dose": {
-                    "total": 11768107,
+                    "total": 11768114,
                     "new": 2
                 },
                 "3rd_dose": {
-                    "total": 1641435,
-                    "new": 1
+                    "total": 1641439,
+                    "new": 2
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 21972677,
-                    "new": 4
+                    "total": 21972691,
+                    "new": 5
                 },
                 "1st_dose": {
-                    "total": 9942683,
+                    "total": 9942686,
                     "new": 1
                 },
                 "2nd_dose": {
-                    "total": 10388559,
+                    "total": 10388566,
                     "new": 2
                 },
                 "3rd_dose": {
-                    "total": 1641435,
-                    "new": 1
+                    "total": 1641439,
+                    "new": 2
                 }
             },
             "15-18": {
@@ -3202,79 +3202,79 @@
         "helpline": "104",
         "donate": "http://jharkhand.gov.in/",
         "confirmed": {
-            "current": 442627,
-            "previous": 442619,
-            "delta": 8
+            "current": 442649,
+            "previous": 442642,
+            "delta": 7
         },
         "active": {
-            "current": 27,
-            "previous": 25,
-            "delta": 2,
-            "ratio_pc": 0.0061
+            "current": 41,
+            "previous": 37,
+            "delta": 4,
+            "ratio_pc": 0.00926
         },
         "recovered": {
-            "current": 437268,
-            "previous": 437262,
-            "delta": 6,
-            "ratio_pc": 98.78927
+            "current": 437276,
+            "previous": 437273,
+            "delta": 3,
+            "ratio_pc": 98.78617
         },
         "deaths": {
             "current": 5332,
             "previous": 5332,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.20463
+            "ratio_pc": 1.20457
         },
         "vaccination": {
             "centers": 3875,
             "all_ages": {
                 "all_doses": {
-                    "total": 43867143,
-                    "new": 178
+                    "total": 43867605,
+                    "new": 104
                 },
                 "1st_dose": {
-                    "total": 23968614,
-                    "new": 33
+                    "total": 23968628,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 17856984,
-                    "new": 100
+                    "total": 17857330,
+                    "new": 94
                 },
                 "3rd_dose": {
-                    "total": 2041545,
-                    "new": 45
+                    "total": 2041647,
+                    "new": 10
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 39460522,
-                    "new": 159
+                    "total": 39460966,
+                    "new": 104
                 },
                 "1st_dose": {
-                    "total": 21309931,
-                    "new": 33
+                    "total": 21309945,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 16109046,
-                    "new": 81
+                    "total": 16109374,
+                    "new": 94
                 },
                 "3rd_dose": {
-                    "total": 2041545,
-                    "new": 45
+                    "total": 2041647,
+                    "new": 10
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 2721409,
-                    "new": 19
+                    "total": 2721427,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1596092,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1125317,
-                    "new": 19
+                    "total": 1125335,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3459,78 +3459,78 @@
         "helpline": "104, 1075, 080-46848600, 080-66692000, 9745697456, 080-1070",
         "donate": "https://cmrf.karnataka.gov.in/English/index.html",
         "confirmed": {
-            "current": 4077389,
-            "previous": 4077103,
-            "delta": 286
+            "current": 4078419,
+            "previous": 4078095,
+            "delta": 324
         },
         "active": {
-            "current": 1108,
-            "previous": 1037,
-            "delta": 71,
-            "ratio_pc": 0.02717
+            "current": 1411,
+            "previous": 1372,
+            "delta": 39,
+            "ratio_pc": 0.0346
         },
         "recovered": {
-            "current": 4035957,
-            "previous": 4035744,
-            "delta": 213,
-            "ratio_pc": 98.98386
+            "current": 4036682,
+            "previous": 4036398,
+            "delta": 284,
+            "ratio_pc": 98.97664
         },
         "deaths": {
-            "current": 40324,
-            "previous": 40322,
-            "delta": 2,
+            "current": 40326,
+            "previous": 40325,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 0.98897
+            "ratio_pc": 0.98877
         },
         "vaccination": {
             "centers": 7183,
             "all_ages": {
                 "all_doses": {
-                    "total": 122147278,
-                    "new": 92
+                    "total": 122147662,
+                    "new": 109
                 },
                 "1st_dose": {
-                    "total": 55174150,
-                    "new": 19
+                    "total": 55174196,
+                    "new": 15
                 },
                 "2nd_dose": {
-                    "total": 55391063,
-                    "new": 13
+                    "total": 55391131,
+                    "new": 14
                 },
                 "3rd_dose": {
-                    "total": 11582065,
-                    "new": 60
+                    "total": 11582335,
+                    "new": 80
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 112135127,
-                    "new": 79
+                    "total": 112135481,
+                    "new": 99
                 },
                 "1st_dose": {
-                    "total": 50032551,
+                    "total": 50032584,
                     "new": 11
                 },
                 "2nd_dose": {
-                    "total": 50520511,
+                    "total": 50520562,
                     "new": 8
                 },
                 "3rd_dose": {
-                    "total": 11582065,
-                    "new": 60
+                    "total": 11582335,
+                    "new": 80
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 5536239,
-                    "new": 3
+                    "total": 5536244,
+                    "new": 4
                 },
                 "1st_dose": {
-                    "total": 2816407,
-                    "new": 2
+                    "total": 2816411,
+                    "new": 3
                 },
                 "2nd_dose": {
-                    "total": 2719832,
+                    "total": 2719833,
                     "new": 1
                 },
                 "3rd_dose": {
@@ -3540,16 +3540,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4475912,
-                    "new": 10
-                },
-                "1st_dose": {
-                    "total": 2325192,
+                    "total": 4475937,
                     "new": 6
                 },
+                "1st_dose": {
+                    "total": 2325201,
+                    "new": 1
+                },
                 "2nd_dose": {
-                    "total": 2150720,
-                    "new": 4
+                    "total": 2150736,
+                    "new": 5
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3578,9 +3578,9 @@
             },
             "Vijayapura": {
                 "centers": 333,
-                "rat_pc": 18.0,
-                "rtpcr_pc": 82.0,
-                "positivity_rate": 0.405
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
+                "positivity_rate": 0.81
             },
             "Dharwad": {
                 "centers": 118,
@@ -3716,9 +3716,9 @@
             },
             "Ramanagara": {
                 "centers": 215,
-                "rat_pc": 28,
-                "rtpcr_pc": 72,
-                "positivity_rate": 0.26
+                "rat_pc": 14.0,
+                "rtpcr_pc": 86.0,
+                "positivity_rate": 0.13
             },
             "Mandya": {
                 "centers": 193,
@@ -3740,9 +3740,9 @@
             },
             "Aggregate": {
                 "centers": 7183,
-                "rat_pc": 44.86667,
-                "rtpcr_pc": 55.13333,
-                "positivity_rate": 2.33217
+                "rat_pc": 45.0,
+                "rtpcr_pc": 55.0,
+                "positivity_rate": 2.34133
             }
         }
     },
@@ -3752,71 +3752,71 @@
         "helpline": "0471-2552056",
         "donate": "https://donation.cmdrf.kerala.gov.in/",
         "confirmed": {
-            "current": 6836683,
-            "previous": 6835918,
-            "delta": 765
+            "current": 6840554,
+            "previous": 6839529,
+            "delta": 1025
         },
         "active": {
-            "current": 4375,
-            "previous": 3852,
-            "delta": 523,
-            "ratio_pc": 0.06399
+            "current": 6825,
+            "previous": 6229,
+            "delta": 596,
+            "ratio_pc": 0.09977
         },
         "recovered": {
-            "current": 6760686,
-            "previous": 6760446,
-            "delta": 240,
-            "ratio_pc": 98.88839
+            "current": 6762094,
+            "previous": 6761669,
+            "delta": 425,
+            "ratio_pc": 98.85302
         },
         "deaths": {
-            "current": 71622,
-            "previous": 71620,
-            "delta": 2,
+            "current": 71635,
+            "previous": 71631,
+            "delta": 4,
             "reconciled": 4,
-            "ratio_pc": 1.04761
+            "ratio_pc": 1.04721
         },
         "vaccination": {
             "centers": 1187,
             "all_ages": {
                 "all_doses": {
-                    "total": 57507197,
-                    "new": 216
+                    "total": 57508049,
+                    "new": 329
                 },
                 "1st_dose": {
-                    "total": 29150605,
-                    "new": 21
+                    "total": 29150699,
+                    "new": 30
                 },
                 "2nd_dose": {
-                    "total": 25271277,
-                    "new": 88
+                    "total": 25271624,
+                    "new": 125
                 },
                 "3rd_dose": {
-                    "total": 3085315,
-                    "new": 107
+                    "total": 3085726,
+                    "new": 174
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 53904200,
-                    "new": 207
+                    "total": 53905052,
+                    "new": 329
                 },
                 "1st_dose": {
-                    "total": 27016833,
-                    "new": 20
+                    "total": 27016927,
+                    "new": 30
                 },
                 "2nd_dose": {
-                    "total": 23802052,
-                    "new": 80
+                    "total": 23802399,
+                    "new": 125
                 },
                 "3rd_dose": {
-                    "total": 3085315,
-                    "new": 107
+                    "total": 3085726,
+                    "new": 174
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 2280092,
-                    "new": 8
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1322833,
@@ -3824,7 +3824,7 @@
                 },
                 "2nd_dose": {
                     "total": 957259,
-                    "new": 8
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -3834,11 +3834,11 @@
             "12-14": {
                 "all_doses": {
                     "total": 1322905,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 810939,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 511966,
@@ -3949,28 +3949,28 @@
         "helpline": "0198-2256462",
         "donate": "http://covid.ladakh.gov.in/",
         "confirmed": {
-            "current": 29446,
-            "previous": 29445,
-            "delta": 1
+            "current": 29464,
+            "previous": 29461,
+            "delta": 3
         },
         "active": {
-            "current": 13,
-            "previous": 12,
-            "delta": 1,
-            "ratio_pc": 0.04415
+            "current": 24,
+            "previous": 28,
+            "delta": -4,
+            "ratio_pc": 0.08146
         },
         "recovered": {
-            "current": 29202,
+            "current": 29209,
             "previous": 29202,
-            "delta": 0,
-            "ratio_pc": 99.17136
+            "delta": 7,
+            "ratio_pc": 99.13454
         },
         "deaths": {
             "current": 231,
             "previous": 231,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.78449
+            "ratio_pc": 0.78401
         },
         "vaccination": {
             "centers": 61,
@@ -4199,79 +4199,79 @@
         "helpline": "020-26127394",
         "donate": "https://cmrf.maharashtra.gov.in/CMRFCitizen/DonationOnlineForm.action",
         "confirmed": {
-            "current": 8144111,
-            "previous": 8143686,
-            "delta": 425
+            "current": 8146301,
+            "previous": 8145590,
+            "delta": 711
         },
         "active": {
-            "current": 3090,
-            "previous": 3016,
-            "delta": 74,
-            "ratio_pc": 0.03794
+            "current": 3792,
+            "previous": 3532,
+            "delta": 260,
+            "ratio_pc": 0.04655
         },
         "recovered": {
-            "current": 7992580,
-            "previous": 7992229,
-            "delta": 351,
-            "ratio_pc": 98.13938
+            "current": 7994060,
+            "previous": 7993613,
+            "delta": 447,
+            "ratio_pc": 98.13116
         },
         "deaths": {
-            "current": 148441,
-            "previous": 148441,
-            "delta": 0,
+            "current": 148449,
+            "previous": 148445,
+            "delta": 4,
             "reconciled": 0,
-            "ratio_pc": 1.82268
+            "ratio_pc": 1.82229
         },
         "vaccination": {
             "centers": 6589,
             "all_ages": {
                 "all_doses": {
-                    "total": 177955713,
-                    "new": 1412
+                    "total": 177957412,
+                    "new": 550
                 },
                 "1st_dose": {
-                    "total": 91671081,
-                    "new": 162
+                    "total": 91671290,
+                    "new": 60
                 },
                 "2nd_dose": {
-                    "total": 76626141,
-                    "new": 507
+                    "total": 76626560,
+                    "new": 112
                 },
                 "3rd_dose": {
-                    "total": 9658491,
-                    "new": 743
+                    "total": 9659562,
+                    "new": 378
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 165967367,
-                    "new": 1230
+                    "total": 165968941,
+                    "new": 523
                 },
                 "1st_dose": {
-                    "total": 84661421,
-                    "new": 133
+                    "total": 84661555,
+                    "new": 43
                 },
                 "2nd_dose": {
-                    "total": 71647455,
-                    "new": 354
+                    "total": 71647824,
+                    "new": 102
                 },
                 "3rd_dose": {
-                    "total": 9658491,
-                    "new": 743
+                    "total": 9659562,
+                    "new": 378
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 7227557,
-                    "new": 162
+                    "total": 7227585,
+                    "new": 10
                 },
                 "1st_dose": {
-                    "total": 4118903,
-                    "new": 20
+                    "total": 4118922,
+                    "new": 8
                 },
                 "2nd_dose": {
-                    "total": 3108654,
-                    "new": 142
+                    "total": 3108663,
+                    "new": 2
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4280,16 +4280,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4760789,
-                    "new": 20
+                    "total": 4760886,
+                    "new": 17
                 },
                 "1st_dose": {
-                    "total": 2890757,
+                    "total": 2890813,
                     "new": 9
                 },
                 "2nd_dose": {
-                    "total": 1870032,
-                    "new": 11
+                    "total": 1870073,
+                    "new": 8
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4522,35 +4522,35 @@
         "helpline": "0385-2411668, 1800-345-3818",
         "donate": "https://manipur.gov.in/?p=16980",
         "confirmed": {
-            "current": 139924,
-            "previous": 139924,
-            "delta": 0
+            "current": 139929,
+            "previous": 139927,
+            "delta": 2
         },
         "active": {
-            "current": 0,
-            "previous": 0,
-            "delta": 0,
-            "ratio_pc": 0.0
+            "current": 5,
+            "previous": 3,
+            "delta": 2,
+            "ratio_pc": 0.00357
         },
         "recovered": {
             "current": 137775,
             "previous": 137775,
             "delta": 0,
-            "ratio_pc": 98.46417
+            "ratio_pc": 98.46065
         },
         "deaths": {
             "current": 2149,
             "previous": 2149,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.53583
+            "ratio_pc": 1.53578
         },
         "vaccination": {
             "centers": 302,
             "all_ages": {
                 "all_doses": {
                     "total": 3269104,
-                    "new": 5
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1649469,
@@ -4558,7 +4558,7 @@
                 },
                 "2nd_dose": {
                     "total": 1339219,
-                    "new": 5
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 280416,
@@ -4568,7 +4568,7 @@
             "18+": {
                 "all_doses": {
                     "total": 2971150,
-                    "new": 3
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1464399,
@@ -4576,7 +4576,7 @@
                 },
                 "2nd_dose": {
                     "total": 1226335,
-                    "new": 3
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 280416,
@@ -4586,7 +4586,7 @@
             "15-18": {
                 "all_doses": {
                     "total": 178207,
-                    "new": 2
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 109652,
@@ -4594,7 +4594,7 @@
                 },
                 "2nd_dose": {
                     "total": 68555,
-                    "new": 2
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4731,43 +4731,43 @@
         "helpline": "108, 1070",
         "donate": "http://megcmrf.gov.in/index.htm",
         "confirmed": {
-            "current": 96791,
-            "previous": 96791,
+            "current": 96793,
+            "previous": 96793,
             "delta": 0
         },
         "active": {
-            "current": 1,
-            "previous": 1,
+            "current": 2,
+            "previous": 2,
             "delta": 0,
-            "ratio_pc": 0.00103
+            "ratio_pc": 0.00207
         },
         "recovered": {
-            "current": 95165,
-            "previous": 95165,
+            "current": 95166,
+            "previous": 95166,
             "delta": 0,
-            "ratio_pc": 98.32009
+            "ratio_pc": 98.31909
         },
         "deaths": {
             "current": 1625,
             "previous": 1625,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.67888
+            "ratio_pc": 1.67884
         },
         "vaccination": {
             "centers": 1431,
             "all_ages": {
                 "all_doses": {
-                    "total": 2625667,
-                    "new": 11
+                    "total": 2625670,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 1446863,
-                    "new": 10
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1087782,
-                    "new": 1
+                    "total": 1087785,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 91022,
@@ -4776,7 +4776,7 @@
             },
             "18+": {
                 "all_doses": {
-                    "total": 2448816,
+                    "total": 2448818,
                     "new": 0
                 },
                 "1st_dose": {
@@ -4784,7 +4784,7 @@
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1025427,
+                    "total": 1025429,
                     "new": 0
                 },
                 "3rd_dose": {
@@ -4794,16 +4794,16 @@
             },
             "15-18": {
                 "all_doses": {
-                    "total": 119975,
-                    "new": 11
+                    "total": 119976,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 77132,
-                    "new": 10
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 42843,
-                    "new": 1
+                    "total": 42844,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -4910,28 +4910,28 @@
         "helpline": "102",
         "donate": "http://mizoram.nic.in/",
         "confirmed": {
-            "current": 238969,
-            "previous": 238969,
+            "current": 238970,
+            "previous": 238970,
             "delta": 0
         },
         "active": {
-            "current": 0,
-            "previous": 0,
+            "current": 1,
+            "previous": 1,
             "delta": 0,
-            "ratio_pc": 0.0
+            "ratio_pc": 0.00042
         },
         "recovered": {
             "current": 238243,
             "previous": 238243,
             "delta": 0,
-            "ratio_pc": 99.69619
+            "ratio_pc": 99.69578
         },
         "deaths": {
             "current": 726,
             "previous": 726,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.30381
+            "ratio_pc": 0.3038
         },
         "vaccination": {
             "centers": 286,
@@ -5089,65 +5089,65 @@
         "helpline": "104",
         "donate": "https://mapit.gov.in/cmrf/",
         "confirmed": {
-            "current": 1055102,
-            "previous": 1055088,
-            "delta": 14
+            "current": 1055202,
+            "previous": 1055173,
+            "delta": 29
         },
         "active": {
-            "current": 52,
-            "previous": 45,
-            "delta": 7,
-            "ratio_pc": 0.00493
+            "current": 126,
+            "previous": 101,
+            "delta": 25,
+            "ratio_pc": 0.01194
         },
         "recovered": {
-            "current": 1044273,
-            "previous": 1044266,
-            "delta": 7,
-            "ratio_pc": 98.97365
+            "current": 1044299,
+            "previous": 1044295,
+            "delta": 4,
+            "ratio_pc": 98.96674
         },
         "deaths": {
             "current": 10777,
             "previous": 10777,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.02142
+            "ratio_pc": 1.02132
         },
         "vaccination": {
             "centers": 8214,
             "all_ages": {
                 "all_doses": {
-                    "total": 133937251,
-                    "new": 2
+                    "total": 133937275,
+                    "new": 13
                 },
                 "1st_dose": {
-                    "total": 60749266,
-                    "new": 0
+                    "total": 60749268,
+                    "new": 2
                 },
                 "2nd_dose": {
-                    "total": 59232023,
-                    "new": 0
+                    "total": 59232030,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 13955962,
-                    "new": 2
+                    "total": 13955977,
+                    "new": 9
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 122160238,
-                    "new": 2
+                    "total": 122160262,
+                    "new": 13
                 },
                 "1st_dose": {
-                    "total": 54143717,
-                    "new": 0
+                    "total": 54143719,
+                    "new": 2
                 },
                 "2nd_dose": {
-                    "total": 54060559,
-                    "new": 0
+                    "total": 54060566,
+                    "new": 2
                 },
                 "3rd_dose": {
-                    "total": 13955962,
-                    "new": 2
+                    "total": 13955977,
+                    "new": 9
                 }
             },
             "15-18": {
@@ -5547,16 +5547,16 @@
             "centers": 510,
             "all_ages": {
                 "all_doses": {
-                    "total": 1739798,
-                    "new": 37
+                    "total": 1739799,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 923954,
-                    "new": 5
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 744945,
-                    "new": 32
+                    "total": 744946,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 70899,
@@ -5565,16 +5565,16 @@
             },
             "18+": {
                 "all_doses": {
-                    "total": 1593611,
-                    "new": 16
+                    "total": 1593612,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 837968,
-                    "new": 3
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 684744,
-                    "new": 13
+                    "total": 684745,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 70899,
@@ -5584,15 +5584,15 @@
             "15-18": {
                 "all_doses": {
                     "total": 100286,
-                    "new": 21
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 59974,
-                    "new": 2
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 40312,
-                    "new": 19
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -5699,75 +5699,75 @@
         "helpline": "9439994859",
         "donate": "https://cmrfodisha.gov.in/",
         "confirmed": {
-            "current": 1336957,
-            "previous": 1336923,
-            "delta": 34
+            "current": 1337128,
+            "previous": 1337060,
+            "delta": 68
         },
         "active": {
-            "current": 182,
-            "previous": 158,
-            "delta": 24,
-            "ratio_pc": 0.01361
+            "current": 292,
+            "previous": 245,
+            "delta": 47,
+            "ratio_pc": 0.02184
         },
         "recovered": {
-            "current": 1327570,
-            "previous": 1327560,
-            "delta": 10,
-            "ratio_pc": 99.29788
+            "current": 1327631,
+            "previous": 1327610,
+            "delta": 21,
+            "ratio_pc": 99.28975
         },
         "deaths": {
             "current": 9205,
             "previous": 9205,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.6885
+            "ratio_pc": 0.68842
         },
         "vaccination": {
             "centers": 2414,
             "all_ages": {
                 "all_doses": {
-                    "total": 81545463,
-                    "new": 35
+                    "total": 81545488,
+                    "new": 12
                 },
                 "1st_dose": {
-                    "total": 35250740,
-                    "new": 9
+                    "total": 35250743,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 33012096,
-                    "new": 6
+                    "total": 33012105,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 13282627,
-                    "new": 20
+                    "total": 13282640,
+                    "new": 7
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 74697850,
-                    "new": 32
+                    "total": 74697873,
+                    "new": 11
                 },
                 "1st_dose": {
-                    "total": 31454208,
-                    "new": 6
+                    "total": 31454210,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 29961015,
-                    "new": 6
+                    "total": 29961023,
+                    "new": 3
                 },
                 "3rd_dose": {
-                    "total": 13282627,
-                    "new": 20
+                    "total": 13282640,
+                    "new": 7
                 }
             },
             "15-18": {
                 "all_doses": {
                     "total": 4039986,
-                    "new": 1
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 2195557,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
                     "total": 1844429,
@@ -5780,16 +5780,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 2807627,
-                    "new": 2
+                    "total": 2807629,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1600975,
-                    "new": 2
+                    "total": 1600976,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1206652,
-                    "new": 0
+                    "total": 1206653,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -5998,28 +5998,28 @@
         "helpline": "104",
         "donate": "https://covid19dashboard.py.gov.in",
         "confirmed": {
-            "current": 176059,
-            "previous": 176049,
-            "delta": 10
+            "current": 176130,
+            "previous": 176099,
+            "delta": 31
         },
         "active": {
-            "current": 53,
-            "previous": 50,
-            "delta": 3,
-            "ratio_pc": 0.0301
+            "current": 105,
+            "previous": 84,
+            "delta": 21,
+            "ratio_pc": 0.05962
         },
         "recovered": {
-            "current": 174030,
-            "previous": 174023,
-            "delta": 7,
-            "ratio_pc": 98.84755
+            "current": 174048,
+            "previous": 174039,
+            "delta": 9,
+            "ratio_pc": 98.81792
         },
         "deaths": {
-            "current": 1976,
+            "current": 1977,
             "previous": 1976,
-            "delta": 0,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 1.12235
+            "ratio_pc": 1.12247
         },
         "vaccination": {
             "centers": 73,
@@ -6135,79 +6135,79 @@
         "helpline": "104",
         "donate": "https://cmrf.punjab.gov.in/",
         "confirmed": {
-            "current": 784977,
-            "previous": 784936,
-            "delta": 41
+            "current": 785215,
+            "previous": 785142,
+            "delta": 73
         },
         "active": {
-            "current": 291,
-            "previous": 279,
-            "delta": 12,
-            "ratio_pc": 0.03707
+            "current": 396,
+            "previous": 369,
+            "delta": 27,
+            "ratio_pc": 0.05043
         },
         "recovered": {
-            "current": 765395,
-            "previous": 765368,
-            "delta": 27,
-            "ratio_pc": 97.5054
+            "current": 765526,
+            "previous": 765480,
+            "delta": 46,
+            "ratio_pc": 97.49253
         },
         "deaths": {
-            "current": 19291,
-            "previous": 19289,
-            "delta": 2,
+            "current": 19293,
+            "previous": 19293,
+            "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 2.45752
+            "ratio_pc": 2.45703
         },
         "vaccination": {
             "centers": 3094,
             "all_ages": {
                 "all_doses": {
-                    "total": 47048380,
-                    "new": 250
+                    "total": 47048696,
+                    "new": 96
                 },
                 "1st_dose": {
-                    "total": 24162366,
-                    "new": 42
+                    "total": 24162422,
+                    "new": 21
                 },
                 "2nd_dose": {
-                    "total": 20995715,
-                    "new": 119
+                    "total": 20995868,
+                    "new": 47
                 },
                 "3rd_dose": {
-                    "total": 1890299,
-                    "new": 89
+                    "total": 1890406,
+                    "new": 28
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 43871342,
-                    "new": 195
+                    "total": 43871654,
+                    "new": 95
                 },
                 "1st_dose": {
-                    "total": 22360751,
-                    "new": 40
+                    "total": 22360805,
+                    "new": 20
                 },
                 "2nd_dose": {
-                    "total": 19620292,
-                    "new": 66
+                    "total": 19620443,
+                    "new": 47
                 },
                 "3rd_dose": {
-                    "total": 1890299,
-                    "new": 89
+                    "total": 1890406,
+                    "new": 28
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1995520,
-                    "new": 55
+                    "total": 1995523,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1117482,
-                    "new": 2
+                    "total": 1117484,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 878038,
-                    "new": 53
+                    "total": 878039,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6216,7 +6216,7 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 1181518,
+                    "total": 1181519,
                     "new": 0
                 },
                 "1st_dose": {
@@ -6224,7 +6224,7 @@
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 497385,
+                    "total": 497386,
                     "new": 0
                 },
                 "3rd_dose": {
@@ -6380,79 +6380,79 @@
         "helpline": "104, 108",
         "donate": "https://cmrelief.rajasthan.gov.in/Covid-19.aspx",
         "confirmed": {
-            "current": 1316083,
-            "previous": 1316061,
-            "delta": 22
+            "current": 1316192,
+            "previous": 1316163,
+            "delta": 29
         },
         "active": {
-            "current": 209,
-            "previous": 210,
-            "delta": -1,
-            "ratio_pc": 0.01588
+            "current": 189,
+            "previous": 189,
+            "delta": 0,
+            "ratio_pc": 0.01436
         },
         "recovered": {
-            "current": 1306213,
-            "previous": 1306190,
-            "delta": 23,
-            "ratio_pc": 99.25005
+            "current": 1306339,
+            "previous": 1306311,
+            "delta": 28,
+            "ratio_pc": 99.2514
         },
         "deaths": {
-            "current": 9661,
-            "previous": 9661,
-            "delta": 0,
+            "current": 9664,
+            "previous": 9663,
+            "delta": 1,
             "reconciled": 0,
-            "ratio_pc": 0.73407
+            "ratio_pc": 0.73424
         },
         "vaccination": {
             "centers": 9424,
             "all_ages": {
                 "all_doses": {
-                    "total": 115717969,
-                    "new": 1025
+                    "total": 115718135,
+                    "new": 26
                 },
                 "1st_dose": {
-                    "total": 57035013,
-                    "new": 89
+                    "total": 57035033,
+                    "new": 11
                 },
                 "2nd_dose": {
-                    "total": 51038198,
-                    "new": 164
+                    "total": 51038237,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 7644758,
-                    "new": 772
+                    "total": 7644865,
+                    "new": 11
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 105346346,
-                    "new": 964
+                    "total": 105346503,
+                    "new": 26
                 },
                 "1st_dose": {
-                    "total": 51115095,
-                    "new": 69
+                    "total": 51115114,
+                    "new": 11
                 },
                 "2nd_dose": {
-                    "total": 46586493,
-                    "new": 123
+                    "total": 46586524,
+                    "new": 4
                 },
                 "3rd_dose": {
-                    "total": 7644758,
-                    "new": 772
+                    "total": 7644865,
+                    "new": 11
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 6531034,
-                    "new": 61
+                    "total": 6531042,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 3576018,
-                    "new": 20
+                    "total": 3576019,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 2955016,
-                    "new": 41
+                    "total": 2955023,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6461,7 +6461,7 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 3840589,
+                    "total": 3840590,
                     "new": 0
                 },
                 "1st_dose": {
@@ -6469,7 +6469,7 @@
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1496689,
+                    "total": 1496690,
                     "new": 0
                 },
                 "3rd_dose": {
@@ -6709,38 +6709,38 @@
         "helpline": "104",
         "donate": "https://cmdrf.sikkim.gov.in/",
         "confirmed": {
-            "current": 44354,
-            "previous": 44351,
-            "delta": 3
+            "current": 44362,
+            "previous": 44360,
+            "delta": 2
         },
         "active": {
-            "current": 21,
-            "previous": 18,
-            "delta": 3,
-            "ratio_pc": 0.04735
+            "current": 20,
+            "previous": 20,
+            "delta": 0,
+            "ratio_pc": 0.04508
         },
         "recovered": {
-            "current": 43833,
-            "previous": 43833,
-            "delta": 0,
-            "ratio_pc": 98.82536
+            "current": 43842,
+            "previous": 43840,
+            "delta": 2,
+            "ratio_pc": 98.82783
         },
         "deaths": {
             "current": 500,
             "previous": 500,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.12729
+            "ratio_pc": 1.12709
         },
         "vaccination": {
             "centers": 98,
             "all_ages": {
                 "all_doses": {
-                    "total": 1360447,
+                    "total": 1360477,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 591875,
+                    "total": 591877,
                     "new": 0
                 },
                 "2nd_dose": {
@@ -6748,17 +6748,17 @@
                     "new": 0
                 },
                 "3rd_dose": {
-                    "total": 213916,
+                    "total": 213944,
                     "new": 0
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 1262977,
+                    "total": 1263007,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 539927,
+                    "total": 539929,
                     "new": 0
                 },
                 "2nd_dose": {
@@ -6766,7 +6766,7 @@
                     "new": 0
                 },
                 "3rd_dose": {
-                    "total": 213916,
+                    "total": 213944,
                     "new": 0
                 }
             },
@@ -6846,79 +6846,79 @@
         "helpline": "044-29510500",
         "donate": "https://ereceipt.tn.gov.in/cmprf/Cmprf",
         "confirmed": {
-            "current": 3596790,
-            "previous": 3596651,
-            "delta": 139
+            "current": 3597502,
+            "previous": 3597304,
+            "delta": 198
         },
         "active": {
-            "current": 777,
-            "previous": 726,
-            "delta": 51,
-            "ratio_pc": 0.0216
+            "current": 1086,
+            "previous": 993,
+            "delta": 93,
+            "ratio_pc": 0.03019
         },
         "recovered": {
-            "current": 3557963,
-            "previous": 3557875,
-            "delta": 88,
-            "ratio_pc": 98.92051
+            "current": 3558366,
+            "previous": 3558261,
+            "delta": 105,
+            "ratio_pc": 98.91213
         },
         "deaths": {
             "current": 38050,
             "previous": 38050,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.05789
+            "ratio_pc": 1.05768
         },
         "vaccination": {
             "centers": 4442,
             "all_ages": {
                 "all_doses": {
-                    "total": 127529632,
-                    "new": 229
+                    "total": 127530091,
+                    "new": 82
                 },
                 "1st_dose": {
-                    "total": 61215068,
-                    "new": 37
+                    "total": 61215146,
+                    "new": 15
                 },
                 "2nd_dose": {
-                    "total": 57220433,
-                    "new": 63
+                    "total": 57220553,
+                    "new": 27
                 },
                 "3rd_dose": {
-                    "total": 9094131,
-                    "new": 129
+                    "total": 9094392,
+                    "new": 40
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 119295703,
-                    "new": 224
+                    "total": 119296140,
+                    "new": 81
                 },
                 "1st_dose": {
-                    "total": 56670297,
-                    "new": 35
+                    "total": 56670363,
+                    "new": 15
                 },
                 "2nd_dose": {
-                    "total": 53531275,
-                    "new": 60
+                    "total": 53531385,
+                    "new": 26
                 },
                 "3rd_dose": {
-                    "total": 9094131,
-                    "new": 129
+                    "total": 9094392,
+                    "new": 40
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 4851696,
-                    "new": 3
+                    "total": 4851699,
+                    "new": 0
                 },
                 "1st_dose": {
-                    "total": 2627703,
-                    "new": 2
+                    "total": 2627704,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 2223993,
-                    "new": 1
+                    "total": 2223995,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -6927,16 +6927,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 3382233,
-                    "new": 2
+                    "total": 3382252,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1917068,
+                    "total": 1917079,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 1465165,
-                    "new": 2
+                    "total": 1465173,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7199,79 +7199,79 @@
         "helpline": "104",
         "donate": "https://ts.meeseva.telangana.gov.in/Covid/CovidContribution.htm",
         "confirmed": {
-            "current": 842500,
-            "previous": 842479,
-            "delta": 21
+            "current": 842578,
+            "previous": 842559,
+            "delta": 19
         },
         "active": {
-            "current": 152,
-            "previous": 155,
-            "delta": -3,
-            "ratio_pc": 0.01804
+            "current": 139,
+            "previous": 143,
+            "delta": -4,
+            "ratio_pc": 0.0165
         },
         "recovered": {
-            "current": 838237,
-            "previous": 838213,
-            "delta": 24,
-            "ratio_pc": 99.49401
+            "current": 838328,
+            "previous": 838305,
+            "delta": 23,
+            "ratio_pc": 99.4956
         },
         "deaths": {
             "current": 4111,
             "previous": 4111,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 0.48795
+            "ratio_pc": 0.48791
         },
         "vaccination": {
             "centers": 1971,
             "all_ages": {
                 "all_doses": {
-                    "total": 77554632,
-                    "new": 284
+                    "total": 77554956,
+                    "new": 81
                 },
                 "1st_dose": {
-                    "total": 32447446,
-                    "new": 40
+                    "total": 32447520,
+                    "new": 14
                 },
                 "2nd_dose": {
-                    "total": 31559544,
-                    "new": 66
+                    "total": 31559698,
+                    "new": 53
                 },
                 "3rd_dose": {
-                    "total": 13547642,
-                    "new": 178
+                    "total": 13547738,
+                    "new": 14
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 72239715,
-                    "new": 272
+                    "total": 72240008,
+                    "new": 75
                 },
                 "1st_dose": {
-                    "total": 29616018,
-                    "new": 35
+                    "total": 29616077,
+                    "new": 12
                 },
                 "2nd_dose": {
-                    "total": 29076055,
-                    "new": 59
+                    "total": 29076193,
+                    "new": 49
                 },
                 "3rd_dose": {
-                    "total": 13547642,
-                    "new": 178
+                    "total": 13547738,
+                    "new": 14
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 3306404,
-                    "new": 9
+                    "total": 3306408,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 1724030,
-                    "new": 4
+                    "total": 1724032,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 1582374,
-                    "new": 5
+                    "total": 1582376,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7280,16 +7280,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 2008513,
-                    "new": 3
+                    "total": 2008540,
+                    "new": 5
                 },
                 "1st_dose": {
-                    "total": 1107398,
+                    "total": 1107411,
                     "new": 1
                 },
                 "2nd_dose": {
-                    "total": 901115,
-                    "new": 2
+                    "total": 901129,
+                    "new": 4
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7671,79 +7671,79 @@
         "helpline": "1800-180-5145, 6389300137, 0522-4523000, 0522-2610145",
         "donate": "https://rahatup.in/Home/Donate",
         "confirmed": {
-            "current": 2128888,
-            "previous": 2128776,
-            "delta": 112
+            "current": 2129396,
+            "previous": 2129217,
+            "delta": 179
         },
         "active": {
-            "current": 352,
-            "previous": 286,
-            "delta": 66,
-            "ratio_pc": 0.01653
+            "current": 640,
+            "previous": 543,
+            "delta": 97,
+            "ratio_pc": 0.03006
         },
         "recovered": {
-            "current": 2104886,
-            "previous": 2104840,
-            "delta": 46,
-            "ratio_pc": 98.87256
+            "current": 2105106,
+            "previous": 2105024,
+            "delta": 82,
+            "ratio_pc": 98.8593
         },
         "deaths": {
             "current": 23650,
             "previous": 23650,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.11091
+            "ratio_pc": 1.11064
         },
         "vaccination": {
             "centers": 9550,
             "all_ages": {
                 "all_doses": {
-                    "total": 392005721,
-                    "new": 86
+                    "total": 392006245,
+                    "new": 125
                 },
                 "1st_dose": {
-                    "total": 176998813,
-                    "new": 12
+                    "total": 176998900,
+                    "new": 29
                 },
                 "2nd_dose": {
-                    "total": 168969181,
-                    "new": 25
+                    "total": 168969292,
+                    "new": 28
                 },
                 "3rd_dose": {
-                    "total": 46037727,
-                    "new": 49
+                    "total": 46038053,
+                    "new": 68
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 347999570,
-                    "new": 86
+                    "total": 348000085,
+                    "new": 120
                 },
                 "1st_dose": {
-                    "total": 154095713,
-                    "new": 12
+                    "total": 154095796,
+                    "new": 28
                 },
                 "2nd_dose": {
-                    "total": 147866130,
-                    "new": 25
+                    "total": 147866236,
+                    "new": 24
                 },
                 "3rd_dose": {
-                    "total": 46037727,
-                    "new": 49
+                    "total": 46038053,
+                    "new": 68
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 27420968,
-                    "new": 0
+                    "total": 27420970,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 14193585,
+                    "total": 14193586,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 13227383,
-                    "new": 0
+                    "total": 13227384,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -7752,16 +7752,16 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 16585183,
-                    "new": 0
+                    "total": 16585190,
+                    "new": 4
                 },
                 "1st_dose": {
-                    "total": 8709515,
-                    "new": 0
+                    "total": 8709518,
+                    "new": 1
                 },
                 "2nd_dose": {
-                    "total": 7875668,
-                    "new": 0
+                    "total": 7875672,
+                    "new": 3
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8234,79 +8234,79 @@
         "helpline": "104, 0135-2722100, 0135-2724506",
         "donate": "https://cmrf.uk.gov.in/",
         "confirmed": {
-            "current": 449630,
-            "previous": 449617,
-            "delta": 13
+            "current": 449746,
+            "previous": 449701,
+            "delta": 45
         },
         "active": {
-            "current": 23,
-            "previous": 27,
-            "delta": -4,
-            "ratio_pc": 0.00512
+            "current": 96,
+            "previous": 58,
+            "delta": 38,
+            "ratio_pc": 0.02135
         },
         "recovered": {
-            "current": 441852,
-            "previous": 441835,
-            "delta": 17,
-            "ratio_pc": 98.27013
+            "current": 441894,
+            "previous": 441887,
+            "delta": 7,
+            "ratio_pc": 98.25413
         },
         "deaths": {
-            "current": 7755,
-            "previous": 7755,
+            "current": 7756,
+            "previous": 7756,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.72475
+            "ratio_pc": 1.72453
         },
         "vaccination": {
             "centers": 1698,
             "all_ages": {
                 "all_doses": {
-                    "total": 20143333,
-                    "new": 93
+                    "total": 20143362,
+                    "new": 8
                 },
                 "1st_dose": {
-                    "total": 9118592,
-                    "new": 13
+                    "total": 9118598,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 8733028,
-                    "new": 50
+                    "total": 8733035,
+                    "new": 1
                 },
                 "3rd_dose": {
-                    "total": 2291713,
-                    "new": 30
+                    "total": 2291729,
+                    "new": 7
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 18424224,
-                    "new": 90
+                    "total": 18424252,
+                    "new": 8
                 },
                 "1st_dose": {
-                    "total": 8183301,
-                    "new": 12
+                    "total": 8183307,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 7949210,
-                    "new": 48
+                    "total": 7949216,
+                    "new": 1
                 },
                 "3rd_dose": {
-                    "total": 2291713,
-                    "new": 30
+                    "total": 2291729,
+                    "new": 7
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 1000813,
-                    "new": 3
+                    "total": 1000814,
+                    "new": 0
                 },
                 "1st_dose": {
                     "total": 532980,
-                    "new": 1
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 467833,
-                    "new": 2
+                    "total": 467834,
+                    "new": 0
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8425,79 +8425,79 @@
         "helpline": "1800-313-444-222, 033-23412600",
         "donate": "https://wb.gov.in/COVID-19.aspx",
         "confirmed": {
-            "current": 2119019,
-            "previous": 2119004,
-            "delta": 15
+            "current": 2119098,
+            "previous": 2119064,
+            "delta": 34
         },
         "active": {
-            "current": 113,
-            "previous": 104,
-            "delta": 9,
-            "ratio_pc": 0.00533
+            "current": 169,
+            "previous": 139,
+            "delta": 30,
+            "ratio_pc": 0.00798
         },
         "recovered": {
-            "current": 2097373,
-            "previous": 2097367,
-            "delta": 6,
-            "ratio_pc": 98.97849
+            "current": 2097396,
+            "previous": 2097392,
+            "delta": 4,
+            "ratio_pc": 98.97589
         },
         "deaths": {
             "current": 21533,
             "previous": 21533,
             "delta": 0,
             "reconciled": 0,
-            "ratio_pc": 1.01618
+            "ratio_pc": 1.01614
         },
         "vaccination": {
             "centers": 3648,
             "all_ages": {
                 "all_doses": {
-                    "total": 156098134,
-                    "new": 794
+                    "total": 156098493,
+                    "new": 91
                 },
                 "1st_dose": {
-                    "total": 73527528,
-                    "new": 31
+                    "total": 73527567,
+                    "new": 8
                 },
                 "2nd_dose": {
-                    "total": 66707345,
-                    "new": 397
+                    "total": 66707433,
+                    "new": 26
                 },
                 "3rd_dose": {
-                    "total": 15863261,
-                    "new": 366
+                    "total": 15863493,
+                    "new": 57
                 }
             },
             "18+": {
                 "all_doses": {
-                    "total": 144774918,
-                    "new": 660
+                    "total": 144775268,
+                    "new": 90
                 },
                 "1st_dose": {
-                    "total": 67305144,
-                    "new": 28
+                    "total": 67305180,
+                    "new": 8
                 },
                 "2nd_dose": {
-                    "total": 61606513,
-                    "new": 266
+                    "total": 61606595,
+                    "new": 25
                 },
                 "3rd_dose": {
-                    "total": 15863261,
-                    "new": 366
+                    "total": 15863493,
+                    "new": 57
                 }
             },
             "15-18": {
                 "all_doses": {
-                    "total": 6641479,
-                    "new": 134
+                    "total": 6641483,
+                    "new": 1
                 },
                 "1st_dose": {
-                    "total": 3599966,
-                    "new": 3
+                    "total": 3599967,
+                    "new": 0
                 },
                 "2nd_dose": {
-                    "total": 3041513,
-                    "new": 131
+                    "total": 3041516,
+                    "new": 1
                 },
                 "3rd_dose": {
                     "total": 0,
@@ -8506,15 +8506,15 @@
             },
             "12-14": {
                 "all_doses": {
-                    "total": 4681737,
+                    "total": 4681742,
                     "new": 0
                 },
                 "1st_dose": {
-                    "total": 2622418,
+                    "total": 2622420,
                     "new": 0
                 },
                 "2nd_dose": {
-                    "total": 2059319,
+                    "total": 2059322,
                     "new": 0
                 },
                 "3rd_dose": {
