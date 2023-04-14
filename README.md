@@ -16,3 +16,20 @@ for the file.
 
 The pushing of data is done using a GitHub action, invoking a dedicated
 program - the [लिपिक](https://github.com/covid-saarani/lipik).
+
+---
+
+## Note about some discrepancies
+
+Had missed many 12-14 age group vaccination stats till Oct 2022 (Situation
+improved and life went back to normal, so didn't really pay attention...
+Apologies). This happened due to change / addition in PDF format and API keys
+for vaccination, which I did not account in time.
+
+Also, from Oct 2022 till 11th April 2023, there was a parsing error for 18+ 3rd
+dose delta *if the primary source was MoHFW*. For data with primary source as
+MyGov, which is most of the data, there would *not* be any problems.
+
+***All other data can be relied upon.***
+
+---
