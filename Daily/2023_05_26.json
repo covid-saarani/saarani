@@ -4,19 +4,19 @@
             "primary_source": "mygov",
             "date": "26 May 2023",
             "as_on": "27 May 2023, 08:00 IST (GMT+5:30)",
-            "last_updated_unix": 1685241024,
-            "last_fetched_unix": 1685242558
+            "last_updated_unix": 1685244612,
+            "last_fetched_unix": 1685245853
         },
         "vaccination": {
             "primary_source": "mygov",
             "date": "26 May 2023",
             "as_on": "May 27 2023 11:04:33",
-            "last_fetched_unix": 1685242566
+            "last_fetched_unix": 1685245862
         },
         "districts": {
             "primary_source": "mohfw",
-            "week": "19th May to 25th May",
-            "last_fetched_unix": 1685242570
+            "week": "20th May to 26th May",
+            "last_fetched_unix": 1685245869
         }
     },
     "All": {
@@ -45,7 +45,7 @@
             "current": 531859,
             "previous": 531856,
             "delta": 3,
-            "reconciled": 1,
+            "reconciled": 3,
             "ratio_pc": 1.18219
         },
         "vaccination": {
@@ -126,9 +126,9 @@
         "districts": {
             "Aggregate": {
                 "centers": 107450,
-                "rat_pc": 43.3745,
-                "rtpcr_pc": 48.30872,
-                "positivity_rate": 2.02279
+                "rat_pc": 43.13154,
+                "rtpcr_pc": 48.54899,
+                "positivity_rate": 1.9575
             }
         }
     },
@@ -370,75 +370,75 @@
         "districts": {
             "Visakhapatnam": {
                 "centers": 307,
-                "rat_pc": 66,
-                "rtpcr_pc": 34,
-                "positivity_rate": 0.36
+                "rat_pc": 68,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0.38
             },
             "Vizianagaram": {
                 "centers": 107,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 0.08
+                "positivity_rate": 0
             },
             "Guntur": {
                 "centers": 195,
-                "rat_pc": 76,
-                "rtpcr_pc": 24,
-                "positivity_rate": 0.46
+                "rat_pc": 73,
+                "rtpcr_pc": 27,
+                "positivity_rate": 0.12
             },
             "West Godavari": {
                 "centers": 94,
-                "rat_pc": 84,
-                "rtpcr_pc": 16,
-                "positivity_rate": 0.73
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
+                "positivity_rate": 0.56
             },
             "East Godavari": {
                 "centers": 451,
                 "rat_pc": 59,
                 "rtpcr_pc": 41,
-                "positivity_rate": 1.18
+                "positivity_rate": 1.6
             },
             "Chittoor": {
                 "centers": 180,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
-                "positivity_rate": 0.48
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.52
             },
             "Kurnool": {
                 "centers": 148,
                 "rat_pc": 96,
                 "rtpcr_pc": 4,
-                "positivity_rate": 0.07
+                "positivity_rate": 0.08
             },
             "S.P.S. Nellore": {
                 "centers": 124,
                 "rat_pc": 45,
                 "rtpcr_pc": 55,
-                "positivity_rate": 1.35
+                "positivity_rate": 0
             },
             "Prakasam": {
                 "centers": 94,
-                "rat_pc": 71,
-                "rtpcr_pc": 29,
-                "positivity_rate": 1.57
+                "rat_pc": 74,
+                "rtpcr_pc": 26,
+                "positivity_rate": 0.85
             },
             "Anantapur": {
                 "centers": 155,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
                 "positivity_rate": 0
             },
             "Krishna": {
                 "centers": 649,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
-                "positivity_rate": 0.51
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
+                "positivity_rate": 0.79
             },
             "Y.S.R. Kadapa": {
                 "centers": 140,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 0
+                "rat_pc": 81,
+                "rtpcr_pc": 19,
+                "positivity_rate": 0.41
             },
             "Foreign Evacuees": {
                 "centers": 0,
@@ -448,15 +448,15 @@
             },
             "Srikakulam": {
                 "centers": 1006,
-                "rat_pc": 81,
-                "rtpcr_pc": 19,
+                "rat_pc": 78,
+                "rtpcr_pc": 22,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 3650,
                 "rat_pc": 64.07143,
-                "rtpcr_pc": 28.78571,
-                "positivity_rate": 0.485
+                "rtpcr_pc": 28.85714,
+                "positivity_rate": 0.37929
             }
         }
     },
@@ -639,8 +639,8 @@
             },
             "Papum Pare": {
                 "centers": 4,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
                 "positivity_rate": 0
             },
             "Namsai": {
@@ -664,7 +664,7 @@
             "Changlang": {
                 "centers": 14,
                 "rat_pc": 0,
-                "rtpcr_pc": 100,
+                "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
             "Lohit": {
@@ -695,7 +695,7 @@
                 "centers": 11,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 21.43
+                "positivity_rate": 10
             },
             "West Kameng": {
                 "centers": 21,
@@ -723,9 +723,9 @@
             },
             "Aggregate": {
                 "centers": 309,
-                "rat_pc": 17.96154,
-                "rtpcr_pc": 5.11538,
-                "positivity_rate": 4.67038
+                "rat_pc": 16.65385,
+                "rtpcr_pc": 2.57692,
+                "positivity_rate": 4.23077
             }
         }
     },
@@ -838,18 +838,18 @@
                 "centers": 227,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 43.75
+                "positivity_rate": 46.67
             },
             "Kamrup Metropolitan": {
                 "centers": 180,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
-                "positivity_rate": 6.76
+                "rat_pc": 51,
+                "rtpcr_pc": 49,
+                "positivity_rate": 4.6
             },
             "Nalbari": {
                 "centers": 81,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
                 "positivity_rate": 0
             },
             "West Karbi Anglong": {
@@ -866,9 +866,9 @@
             },
             "Cachar": {
                 "centers": 142,
-                "rat_pc": 92,
-                "rtpcr_pc": 8,
-                "positivity_rate": 1.96
+                "rat_pc": 89,
+                "rtpcr_pc": 11,
+                "positivity_rate": 3.8
             },
             "South Salmara Mankachar": {
                 "centers": 22,
@@ -890,8 +890,8 @@
             },
             "Hojai": {
                 "centers": 65,
-                "rat_pc": 75,
-                "rtpcr_pc": 25,
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
                 "positivity_rate": 0
             },
             "Hailakandi": {
@@ -904,13 +904,13 @@
                 "centers": 142,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 25
+                "positivity_rate": 33.33
             },
             "Sonitpur": {
                 "centers": 117,
                 "rat_pc": 70,
                 "rtpcr_pc": 30,
-                "positivity_rate": 10
+                "positivity_rate": 20
             },
             "Tinsukia": {
                 "centers": 187,
@@ -928,7 +928,7 @@
                 "centers": 180,
                 "rat_pc": 98,
                 "rtpcr_pc": 2,
-                "positivity_rate": 5.91
+                "positivity_rate": 6.22
             },
             "Majuli": {
                 "centers": 215,
@@ -938,7 +938,7 @@
             },
             "Biswanath": {
                 "centers": 51,
-                "rat_pc": 100,
+                "rat_pc": 0,
                 "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
@@ -956,21 +956,21 @@
             },
             "Barpeta": {
                 "centers": 139,
-                "rat_pc": 88,
-                "rtpcr_pc": 13,
-                "positivity_rate": 2.5
+                "rat_pc": 91,
+                "rtpcr_pc": 9,
+                "positivity_rate": 0
             },
             "Kamrup": {
                 "centers": 202,
                 "rat_pc": 83,
                 "rtpcr_pc": 17,
-                "positivity_rate": 23.08
+                "positivity_rate": 17.02
             },
             "Golaghat": {
                 "centers": 146,
-                "rat_pc": 90,
-                "rtpcr_pc": 10,
-                "positivity_rate": 3.33
+                "rat_pc": 96,
+                "rtpcr_pc": 4,
+                "positivity_rate": 0
             },
             "Karbi Anglong": {
                 "centers": 88,
@@ -982,7 +982,7 @@
                 "centers": 35,
                 "rat_pc": 97,
                 "rtpcr_pc": 3,
-                "positivity_rate": 5.88
+                "positivity_rate": 6.67
             },
             "Lakhimpur": {
                 "centers": 134,
@@ -998,14 +998,14 @@
             },
             "Sivasagar": {
                 "centers": 57,
-                "rat_pc": 92,
-                "rtpcr_pc": 8,
+                "rat_pc": 93,
+                "rtpcr_pc": 7,
                 "positivity_rate": 0
             },
             "Karimganj": {
                 "centers": 36,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
                 "positivity_rate": 0
             },
             "Chirang": {
@@ -1016,15 +1016,15 @@
             },
             "Bongaigaon": {
                 "centers": 39,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
+                "rat_pc": 79,
+                "rtpcr_pc": 21,
                 "positivity_rate": 0
             },
             "Jorhat": {
                 "centers": 99,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
-                "positivity_rate": 6.41
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
+                "positivity_rate": 5.45
             },
             "Dhubri": {
                 "centers": 97,
@@ -1034,9 +1034,9 @@
             },
             "Aggregate": {
                 "centers": 3853,
-                "rat_pc": 64.63636,
-                "rtpcr_pc": 23.27273,
-                "positivity_rate": 12.41152
+                "rat_pc": 61.15152,
+                "rtpcr_pc": 23.69697,
+                "positivity_rate": 12.6897
             }
         }
     },
@@ -1147,45 +1147,45 @@
         "districts": {
             "Vaishali": {
                 "centers": 150,
-                "rat_pc": 36,
-                "rtpcr_pc": 64,
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
                 "positivity_rate": 0.02
             },
             "Supaul": {
                 "centers": 63,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
+                "rat_pc": 66,
+                "rtpcr_pc": 34,
                 "positivity_rate": 0
             },
             "Samastipur": {
                 "centers": 92,
-                "rat_pc": 30,
-                "rtpcr_pc": 70,
-                "positivity_rate": 0.03
+                "rat_pc": 24,
+                "rtpcr_pc": 76,
+                "positivity_rate": 0.02
             },
             "Sitamarhi": {
                 "centers": 151,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
-                "positivity_rate": 0.04
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
+                "positivity_rate": 0.07
             },
             "Purnia": {
                 "centers": 338,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
+                "rat_pc": 53,
+                "rtpcr_pc": 47,
                 "positivity_rate": 0
             },
             "Rohtas": {
                 "centers": 475,
-                "rat_pc": 55,
-                "rtpcr_pc": 45,
-                "positivity_rate": 0.08
+                "rat_pc": 61,
+                "rtpcr_pc": 39,
+                "positivity_rate": 0.09
             },
             "Bhagalpur": {
                 "centers": 201,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
-                "positivity_rate": 0.29
+                "rat_pc": 44,
+                "rtpcr_pc": 56,
+                "positivity_rate": 0.28
             },
             "Katihar": {
                 "centers": 83,
@@ -1201,87 +1201,87 @@
             },
             "Lakhisarai": {
                 "centers": 58,
-                "rat_pc": 33,
-                "rtpcr_pc": 67,
+                "rat_pc": 34,
+                "rtpcr_pc": 66,
                 "positivity_rate": 0
             },
             "Jamui": {
                 "centers": 102,
-                "rat_pc": 33,
-                "rtpcr_pc": 67,
+                "rat_pc": 35,
+                "rtpcr_pc": 65,
                 "positivity_rate": 0
             },
             "Khagaria": {
                 "centers": 114,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 0.15
+                "rat_pc": 14,
+                "rtpcr_pc": 86,
+                "positivity_rate": 0.13
             },
             "Nawada": {
                 "centers": 276,
-                "rat_pc": 66,
-                "rtpcr_pc": 34,
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
                 "positivity_rate": 0
             },
             "Arwal": {
                 "centers": 141,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
+                "rat_pc": 92,
+                "rtpcr_pc": 8,
                 "positivity_rate": 0
             },
             "Aurangabad": {
                 "centers": 1598,
-                "rat_pc": 37,
-                "rtpcr_pc": 63,
+                "rat_pc": 32,
+                "rtpcr_pc": 68,
                 "positivity_rate": 0
             },
             "East Champaran": {
                 "centers": 266,
-                "rat_pc": 56,
-                "rtpcr_pc": 44,
-                "positivity_rate": 0.12
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 0.08
             },
             "Araria": {
                 "centers": 64,
-                "rat_pc": 55,
-                "rtpcr_pc": 45,
-                "positivity_rate": 0
-            },
-            "Siwan": {
-                "centers": 111,
                 "rat_pc": 57,
                 "rtpcr_pc": 43,
                 "positivity_rate": 0
             },
+            "Siwan": {
+                "centers": 111,
+                "rat_pc": 56,
+                "rtpcr_pc": 44,
+                "positivity_rate": 0
+            },
             "Kishanganj": {
                 "centers": 147,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
                 "positivity_rate": 0
             },
             "Gopalganj": {
                 "centers": 353,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
                 "positivity_rate": 0
             },
             "Madhepura": {
                 "centers": 158,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
                 "positivity_rate": 0.02
             },
             "West Champaran": {
                 "centers": 123,
-                "rat_pc": 54,
-                "rtpcr_pc": 46,
+                "rat_pc": 53,
+                "rtpcr_pc": 47,
                 "positivity_rate": 0.07
             },
             "Saharsa": {
                 "centers": 250,
-                "rat_pc": 39,
-                "rtpcr_pc": 61,
-                "positivity_rate": 0.12
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
+                "positivity_rate": 0.11
             },
             "Darbhanga": {
                 "centers": 193,
@@ -1291,57 +1291,57 @@
             },
             "Sheikhpura": {
                 "centers": 21,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
+                "rat_pc": 19,
+                "rtpcr_pc": 81,
                 "positivity_rate": 0
             },
             "Kaimur": {
                 "centers": 37,
-                "rat_pc": 88,
-                "rtpcr_pc": 12,
-                "positivity_rate": 0.04
+                "rat_pc": 86,
+                "rtpcr_pc": 14,
+                "positivity_rate": 0
             },
             "Madhubani": {
                 "centers": 207,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
+                "rat_pc": 56,
+                "rtpcr_pc": 44,
                 "positivity_rate": 0
             },
             "Munger": {
                 "centers": 204,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
                 "positivity_rate": 0.15
             },
             "Muzaffarpur": {
                 "centers": 1549,
-                "rat_pc": 28,
-                "rtpcr_pc": 72,
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
                 "positivity_rate": 0.05
             },
             "Banka": {
                 "centers": 78,
-                "rat_pc": 77,
-                "rtpcr_pc": 23,
+                "rat_pc": 78,
+                "rtpcr_pc": 22,
                 "positivity_rate": 0.02
             },
             "Bhojpur": {
                 "centers": 62,
-                "rat_pc": 87,
-                "rtpcr_pc": 13,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0.15
             },
             "Begusarai": {
                 "centers": 26,
                 "rat_pc": 16,
                 "rtpcr_pc": 84,
-                "positivity_rate": 0.01
+                "positivity_rate": 0
             },
             "Gaya": {
                 "centers": 139,
                 "rat_pc": 70,
                 "rtpcr_pc": 30,
-                "positivity_rate": 3.02
+                "positivity_rate": 2.73
             },
             "Sheohar": {
                 "centers": 71,
@@ -1351,21 +1351,21 @@
             },
             "Saran": {
                 "centers": 887,
-                "rat_pc": 24,
-                "rtpcr_pc": 76,
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
                 "positivity_rate": 0.1
             },
             "Nalanda": {
                 "centers": 131,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
-                "positivity_rate": 0.06
+                "rat_pc": 37,
+                "rtpcr_pc": 63,
+                "positivity_rate": 0.2
             },
             "Patna": {
                 "centers": 310,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
-                "positivity_rate": 0.42
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
+                "positivity_rate": 0.46
             },
             "Buxar": {
                 "centers": 359,
@@ -1375,9 +1375,9 @@
             },
             "Aggregate": {
                 "centers": 9658,
-                "rat_pc": 51.0,
-                "rtpcr_pc": 49.0,
-                "positivity_rate": 0.13237
+                "rat_pc": 50.28947,
+                "rtpcr_pc": 49.71053,
+                "positivity_rate": 0.12684
             }
         }
     },
@@ -1490,13 +1490,13 @@
                 "centers": 93,
                 "rat_pc": 16,
                 "rtpcr_pc": 84,
-                "positivity_rate": 0.71
+                "positivity_rate": 0.66
             },
             "Aggregate": {
                 "centers": 93,
                 "rat_pc": 16.0,
                 "rtpcr_pc": 84.0,
-                "positivity_rate": 0.71
+                "positivity_rate": 0.66
             }
         }
     },
@@ -1607,62 +1607,62 @@
         "districts": {
             "Dhamtari": {
                 "centers": 21,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
-                "positivity_rate": 1.19
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
+                "positivity_rate": 1.13
             },
             "Raipur": {
                 "centers": 333,
-                "rat_pc": 71,
-                "rtpcr_pc": 29,
-                "positivity_rate": 2.1
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
+                "positivity_rate": 1.88
             },
             "Balrampur": {
                 "centers": 166,
-                "rat_pc": 90,
-                "rtpcr_pc": 10,
+                "rat_pc": 91,
+                "rtpcr_pc": 9,
                 "positivity_rate": 0
             },
             "Balod": {
                 "centers": 131,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 1.39
+                "positivity_rate": 1.62
             },
             "Gaurela Pendra Marwahi": {
                 "centers": 100,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 0.83
+                "positivity_rate": 0.8
             },
             "Bastar": {
                 "centers": 49,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 0.39
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
+                "positivity_rate": 0.38
             },
             "Baloda Bazar": {
                 "centers": 254,
-                "rat_pc": 39,
-                "rtpcr_pc": 61,
-                "positivity_rate": 3.46
+                "rat_pc": 43,
+                "rtpcr_pc": 57,
+                "positivity_rate": 3.92
             },
             "Narayanpur": {
                 "centers": 38,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
-                "positivity_rate": 0.5
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
+                "positivity_rate": 0.46
             },
             "Surajpur": {
                 "centers": 146,
-                "rat_pc": 70,
-                "rtpcr_pc": 30,
-                "positivity_rate": 1.06
+                "rat_pc": 71,
+                "rtpcr_pc": 29,
+                "positivity_rate": 1.16
             },
             "Raigarh": {
                 "centers": 359,
-                "rat_pc": 78,
-                "rtpcr_pc": 22,
+                "rat_pc": 74,
+                "rtpcr_pc": 26,
                 "positivity_rate": 0
             },
             "Sukma": {
@@ -1673,51 +1673,51 @@
             },
             "Surguja": {
                 "centers": 265,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
-                "positivity_rate": 0.5
+                "rat_pc": 76,
+                "rtpcr_pc": 24,
+                "positivity_rate": 0.37
             },
             "Uttar Bastar Kanker": {
                 "centers": 351,
                 "rat_pc": 94,
                 "rtpcr_pc": 6,
-                "positivity_rate": 6.55
+                "positivity_rate": 6.41
             },
             "Mahasamund": {
                 "centers": 447,
                 "rat_pc": 97,
                 "rtpcr_pc": 3,
-                "positivity_rate": 1.51
+                "positivity_rate": 1.6
             },
             "Bijapur": {
                 "centers": 85,
-                "rat_pc": 78,
-                "rtpcr_pc": 22,
-                "positivity_rate": 1.49
+                "rat_pc": 77,
+                "rtpcr_pc": 23,
+                "positivity_rate": 1.52
             },
             "Koriya": {
                 "centers": 47,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 1.01
+                "rat_pc": 96,
+                "rtpcr_pc": 4,
+                "positivity_rate": 0.98
             },
             "Gariaband": {
                 "centers": 190,
-                "rat_pc": 99,
-                "rtpcr_pc": 1,
-                "positivity_rate": 0
+                "rat_pc": 100,
+                "rtpcr_pc": 0,
+                "positivity_rate": 0.4
             },
             "Durg": {
                 "centers": 177,
-                "rat_pc": 72,
-                "rtpcr_pc": 28,
-                "positivity_rate": 4.35
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
+                "positivity_rate": 4.38
             },
             "Bilaspur": {
                 "centers": 86,
-                "rat_pc": 86,
-                "rtpcr_pc": 14,
-                "positivity_rate": 0.61
+                "rat_pc": 89,
+                "rtpcr_pc": 11,
+                "positivity_rate": 0.72
             },
             "Kabeerdham": {
                 "centers": 57,
@@ -1727,9 +1727,9 @@
             },
             "Jashpur": {
                 "centers": 374,
-                "rat_pc": 81,
-                "rtpcr_pc": 19,
-                "positivity_rate": 0.35
+                "rat_pc": 79,
+                "rtpcr_pc": 21,
+                "positivity_rate": 0.39
             },
             "Kondagaon": {
                 "centers": 349,
@@ -1741,19 +1741,19 @@
                 "centers": 17,
                 "rat_pc": 90,
                 "rtpcr_pc": 10,
-                "positivity_rate": 4.02
+                "positivity_rate": 3.84
             },
             "Rajnandgaon": {
                 "centers": 90,
                 "rat_pc": 97,
                 "rtpcr_pc": 3,
-                "positivity_rate": 1.47
+                "positivity_rate": 1.25
             },
             "Janjgir Champa": {
                 "centers": 154,
-                "rat_pc": 73,
-                "rtpcr_pc": 27,
-                "positivity_rate": 0.77
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
+                "positivity_rate": 0.71
             },
             "Mungeli": {
                 "centers": 117,
@@ -1763,21 +1763,21 @@
             },
             "Korba": {
                 "centers": 81,
-                "rat_pc": 90,
-                "rtpcr_pc": 10,
+                "rat_pc": 89,
+                "rtpcr_pc": 11,
                 "positivity_rate": 0
             },
             "Bametara": {
                 "centers": 162,
                 "rat_pc": 98,
                 "rtpcr_pc": 2,
-                "positivity_rate": 0.31
+                "positivity_rate": 0.3
             },
             "Aggregate": {
                 "centers": 4668,
-                "rat_pc": 86.60714,
-                "rtpcr_pc": 13.39286,
-                "positivity_rate": 1.20929
+                "rat_pc": 86.17857,
+                "rtpcr_pc": 13.82143,
+                "positivity_rate": 1.22214
             }
         }
     },
@@ -1888,26 +1888,26 @@
         "districts": {
             "Diu": {
                 "centers": 26,
-                "rat_pc": 60,
-                "rtpcr_pc": 40,
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
                 "positivity_rate": 0
             },
             "Dadra and Nagar Haveli": {
                 "centers": 115,
-                "rat_pc": 1,
-                "rtpcr_pc": 99,
-                "positivity_rate": 0
-            },
-            "Daman": {
-                "centers": 38,
                 "rat_pc": 2,
                 "rtpcr_pc": 98,
                 "positivity_rate": 0
             },
+            "Daman": {
+                "centers": 38,
+                "rat_pc": 1,
+                "rtpcr_pc": 99,
+                "positivity_rate": 0
+            },
             "Aggregate": {
                 "centers": 179,
-                "rat_pc": 21.0,
-                "rtpcr_pc": 79.0,
+                "rat_pc": 10.66667,
+                "rtpcr_pc": 89.33333,
                 "positivity_rate": 0.0
             }
         }
@@ -2027,73 +2027,73 @@
                 "centers": 184,
                 "rat_pc": 20,
                 "rtpcr_pc": 80,
-                "positivity_rate": 1.1
+                "positivity_rate": 0.92
             },
             "East Delhi": {
                 "centers": 108,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 0.26
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
+                "positivity_rate": 0.27
             },
             "New Delhi": {
                 "centers": 89,
                 "rat_pc": 22,
                 "rtpcr_pc": 78,
-                "positivity_rate": 1.21
+                "positivity_rate": 1.29
             },
             "North Delhi": {
                 "centers": 237,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
                 "positivity_rate": 0
             },
             "North East Delhi": {
                 "centers": 89,
-                "rat_pc": 42,
-                "rtpcr_pc": 58,
+                "rat_pc": 47,
+                "rtpcr_pc": 54,
                 "positivity_rate": 0.5
             },
             "North West Delhi": {
                 "centers": 137,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
-                "positivity_rate": 0.75
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
+                "positivity_rate": 1
             },
             "Shahdara": {
                 "centers": 112,
-                "rat_pc": 30,
-                "rtpcr_pc": 70,
-                "positivity_rate": 0.47
+                "rat_pc": 26,
+                "rtpcr_pc": 74,
+                "positivity_rate": 0.42
             },
             "South Delhi": {
                 "centers": 142,
                 "rat_pc": 19,
                 "rtpcr_pc": 81,
-                "positivity_rate": 1.6
+                "positivity_rate": 1.35
             },
             "South East Delhi": {
                 "centers": 186,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
-                "positivity_rate": 0.64
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0.74
             },
             "South West Delhi": {
                 "centers": 193,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
-                "positivity_rate": 0.11
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
+                "positivity_rate": 0.14
             },
             "West Delhi": {
                 "centers": 118,
-                "rat_pc": 56,
-                "rtpcr_pc": 44,
-                "positivity_rate": 0.66
+                "rat_pc": 57,
+                "rtpcr_pc": 43,
+                "positivity_rate": 0.78
             },
             "Aggregate": {
                 "centers": 1595,
-                "rat_pc": 36.08333,
-                "rtpcr_pc": 55.58333,
-                "positivity_rate": 0.60833
+                "rat_pc": 35.83333,
+                "rtpcr_pc": 55.91667,
+                "positivity_rate": 0.6175
             }
         }
     },
@@ -2206,19 +2206,19 @@
                 "centers": 55,
                 "rat_pc": 26,
                 "rtpcr_pc": 74,
-                "positivity_rate": 4.03
+                "positivity_rate": 3.35
             },
             "South Goa": {
                 "centers": 73,
-                "rat_pc": 32,
-                "rtpcr_pc": 68,
-                "positivity_rate": 6.9
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
+                "positivity_rate": 6.07
             },
             "Aggregate": {
                 "centers": 128,
-                "rat_pc": 29.0,
-                "rtpcr_pc": 71.0,
-                "positivity_rate": 5.465
+                "rat_pc": 28.5,
+                "rtpcr_pc": 71.5,
+                "positivity_rate": 4.71
             }
         }
     },
@@ -2341,39 +2341,39 @@
             },
             "Chhota Udaipur": {
                 "centers": 109,
-                "rat_pc": 4,
-                "rtpcr_pc": 96,
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
                 "positivity_rate": 0
             },
             "Kheda": {
                 "centers": 416,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
                 "positivity_rate": 0
             },
             "Mahisagar": {
                 "centers": 203,
-                "rat_pc": 34,
-                "rtpcr_pc": 66,
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
                 "positivity_rate": 0
             },
             "Devbhumi Dwarka": {
                 "centers": 136,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
                 "positivity_rate": 0
             },
             "Banaskantha": {
                 "centers": 226,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0
             },
             "Ahmedabad": {
                 "centers": 702,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
-                "positivity_rate": 0.56
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
+                "positivity_rate": 0.61
             },
             "Bhavnagar": {
                 "centers": 477,
@@ -2383,21 +2383,21 @@
             },
             "Navsari": {
                 "centers": 286,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
-                "positivity_rate": 0.27
+                "rat_pc": 24,
+                "rtpcr_pc": 76,
+                "positivity_rate": 0.3
             },
             "Surat": {
                 "centers": 555,
-                "rat_pc": 26,
-                "rtpcr_pc": 74,
-                "positivity_rate": 0.1
+                "rat_pc": 24,
+                "rtpcr_pc": 76,
+                "positivity_rate": 0.07
             },
             "Anand": {
                 "centers": 175,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
-                "positivity_rate": 0.12
+                "rat_pc": 26,
+                "rtpcr_pc": 74,
+                "positivity_rate": 0.06
             },
             "Kutch": {
                 "centers": 356,
@@ -2407,39 +2407,39 @@
             },
             "Patan": {
                 "centers": 493,
-                "rat_pc": 2,
-                "rtpcr_pc": 98,
+                "rat_pc": 3,
+                "rtpcr_pc": 97,
                 "positivity_rate": 0
             },
             "Mehsana": {
                 "centers": 376,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
-                "positivity_rate": 0.12
+                "rat_pc": 10,
+                "rtpcr_pc": 90,
+                "positivity_rate": 0.08
             },
             "Valsad": {
                 "centers": 270,
                 "rat_pc": 11,
                 "rtpcr_pc": 89,
-                "positivity_rate": 0.2
+                "positivity_rate": 0.25
             },
             "Sabarkantha": {
                 "centers": 154,
-                "rat_pc": 7,
-                "rtpcr_pc": 93,
+                "rat_pc": 5,
+                "rtpcr_pc": 95,
                 "positivity_rate": 0
             },
             "Surendranagar": {
                 "centers": 86,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
+                "rat_pc": 34,
+                "rtpcr_pc": 66,
                 "positivity_rate": 0
             },
             "Porbandar": {
                 "centers": 142,
                 "rat_pc": 5,
                 "rtpcr_pc": 95,
-                "positivity_rate": 0.07
+                "positivity_rate": 0.08
             },
             "Jamnagar": {
                 "centers": 300,
@@ -2455,44 +2455,44 @@
             },
             "Botad": {
                 "centers": 47,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
                 "positivity_rate": 0
             },
             "Junagadh": {
                 "centers": 249,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
+                "rat_pc": 13,
+                "rtpcr_pc": 87,
                 "positivity_rate": 0
             },
             "Gandhinagar": {
                 "centers": 302,
                 "rat_pc": 23,
                 "rtpcr_pc": 77,
-                "positivity_rate": 0.11
+                "positivity_rate": 0.12
             },
             "Morbi": {
                 "centers": 109,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
+                "rat_pc": 64,
+                "rtpcr_pc": 36,
                 "positivity_rate": 0
             },
             "Vadodara": {
                 "centers": 476,
-                "rat_pc": 20,
-                "rtpcr_pc": 80,
-                "positivity_rate": 0.73
+                "rat_pc": 22,
+                "rtpcr_pc": 78,
+                "positivity_rate": 0.88
             },
             "Bharuch": {
                 "centers": 288,
-                "rat_pc": 19,
-                "rtpcr_pc": 81,
-                "positivity_rate": 1
+                "rat_pc": 16,
+                "rtpcr_pc": 84,
+                "positivity_rate": 0.71
             },
             "Panchmahal": {
                 "centers": 122,
-                "rat_pc": 33,
-                "rtpcr_pc": 67,
+                "rat_pc": 30,
+                "rtpcr_pc": 70,
                 "positivity_rate": 0.16
             },
             "Dang": {
@@ -2503,33 +2503,33 @@
             },
             "Amreli": {
                 "centers": 74,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
+                "rat_pc": 13,
+                "rtpcr_pc": 87,
                 "positivity_rate": 0
             },
             "Rajkot": {
                 "centers": 722,
-                "rat_pc": 17,
-                "rtpcr_pc": 83,
-                "positivity_rate": 0.3
+                "rat_pc": 18,
+                "rtpcr_pc": 82,
+                "positivity_rate": 0.13
             },
             "Gir Somnath": {
                 "centers": 148,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
-                "positivity_rate": 0.19
+                "rat_pc": 5,
+                "rtpcr_pc": 95,
+                "positivity_rate": 0.33
             },
             "Tapi": {
                 "centers": 76,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
+                "rat_pc": 5,
+                "rtpcr_pc": 95,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 9032,
-                "rat_pc": 21.39394,
-                "rtpcr_pc": 78.60606,
-                "positivity_rate": 0.12091
+                "rat_pc": 21.30303,
+                "rtpcr_pc": 78.69697,
+                "positivity_rate": 0.11636
             }
         }
     },
@@ -2640,81 +2640,81 @@
         "districts": {
             "Panchkula": {
                 "centers": 70,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
-                "positivity_rate": 1.54
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
+                "positivity_rate": 1.01
             },
             "Faridabad": {
                 "centers": 91,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
-                "positivity_rate": 1.07
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 1.09
             },
             "Kaithal": {
                 "centers": 305,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
-                "positivity_rate": 0.05
+                "rat_pc": 6,
+                "rtpcr_pc": 94,
+                "positivity_rate": 0
             },
             "Rewari": {
                 "centers": 44,
-                "rat_pc": 42,
-                "rtpcr_pc": 58,
+                "rat_pc": 41,
+                "rtpcr_pc": 59,
                 "positivity_rate": 0
             },
             "Panipat": {
                 "centers": 163,
-                "rat_pc": 2,
-                "rtpcr_pc": 98,
+                "rat_pc": 1,
+                "rtpcr_pc": 99,
                 "positivity_rate": 0
             },
             "Fatehabad": {
                 "centers": 199,
-                "rat_pc": 8,
-                "rtpcr_pc": 92,
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
                 "positivity_rate": 0
             },
             "Nuh": {
                 "centers": 117,
-                "rat_pc": 7,
-                "rtpcr_pc": 93,
+                "rat_pc": 12,
+                "rtpcr_pc": 88,
                 "positivity_rate": 0
             },
             "Yamunanagar": {
                 "centers": 151,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
-                "positivity_rate": 4.07
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
+                "positivity_rate": 2.23
             },
             "Hisar": {
                 "centers": 162,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
-                "positivity_rate": 0.79
+                "rat_pc": 6,
+                "rtpcr_pc": 94,
+                "positivity_rate": 0.96
             },
             "Charkhi Dadri": {
                 "centers": 36,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.15
+                "positivity_rate": 0
             },
             "Jind": {
                 "centers": 119,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.26
+                "positivity_rate": 0.27
             },
             "Sonipat": {
                 "centers": 94,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
-                "positivity_rate": 0.74
+                "rat_pc": 8,
+                "rtpcr_pc": 92,
+                "positivity_rate": 0
             },
             "Bhiwani": {
                 "centers": 38,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
-                "positivity_rate": 0.54
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
+                "positivity_rate": 0.6
             },
             "Palwal": {
                 "centers": 80,
@@ -2724,27 +2724,27 @@
             },
             "Jhajjar": {
                 "centers": 186,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
-                "positivity_rate": 0.35
+                "rat_pc": 5,
+                "rtpcr_pc": 95,
+                "positivity_rate": 0.16
             },
             "Sirsa": {
                 "centers": 117,
                 "rat_pc": 2,
                 "rtpcr_pc": 98,
-                "positivity_rate": 0.74
+                "positivity_rate": 1.02
             },
             "Gurugram": {
                 "centers": 168,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 1.09
+                "rat_pc": 30,
+                "rtpcr_pc": 70,
+                "positivity_rate": 1.02
             },
             "Karnal": {
                 "centers": 92,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 0.1
+                "rat_pc": 14,
+                "rtpcr_pc": 86,
+                "positivity_rate": 0.09
             },
             "Mahendragarh": {
                 "centers": 49,
@@ -2756,25 +2756,25 @@
                 "centers": 65,
                 "rat_pc": 10,
                 "rtpcr_pc": 90,
-                "positivity_rate": 1.49
+                "positivity_rate": 1.06
             },
             "Ambala": {
                 "centers": 96,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
-                "positivity_rate": 0.39
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
+                "positivity_rate": 0.25
             },
             "Rohtak": {
                 "centers": 75,
-                "rat_pc": 63,
-                "rtpcr_pc": 37,
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 2517,
-                "rat_pc": 16.22727,
-                "rtpcr_pc": 83.77273,
-                "positivity_rate": 0.60773
+                "rat_pc": 16.5,
+                "rtpcr_pc": 83.5,
+                "positivity_rate": 0.44364
             }
         }
     },
@@ -2885,81 +2885,81 @@
         "districts": {
             "Kullu": {
                 "centers": 25,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
-                "positivity_rate": 2.7
+                "rat_pc": 8,
+                "rtpcr_pc": 92,
+                "positivity_rate": 2.95
             },
             "Una": {
                 "centers": 163,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
-                "positivity_rate": 0.57
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
+                "positivity_rate": 1.18
             },
             "Kinnaur": {
                 "centers": 58,
                 "rat_pc": 98,
                 "rtpcr_pc": 2,
-                "positivity_rate": 4.58
+                "positivity_rate": 4.64
             },
             "Mandi": {
                 "centers": 316,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 2.14
+                "rat_pc": 94,
+                "rtpcr_pc": 6,
+                "positivity_rate": 1.91
             },
             "Lahaul and Spiti": {
                 "centers": 35,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 1.61
+                "positivity_rate": 2.04
             },
             "Chamba": {
                 "centers": 249,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
-                "positivity_rate": 4.81
+                "rat_pc": 81,
+                "rtpcr_pc": 19,
+                "positivity_rate": 4.59
             },
             "Solan": {
                 "centers": 251,
-                "rat_pc": 64,
-                "rtpcr_pc": 36,
-                "positivity_rate": 1.32
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
+                "positivity_rate": 1.08
             },
             "Shimla": {
                 "centers": 323,
-                "rat_pc": 45,
-                "rtpcr_pc": 55,
-                "positivity_rate": 1.14
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 1.37
             },
             "Sirmaur": {
                 "centers": 176,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 6.02
+                "rat_pc": 16,
+                "rtpcr_pc": 84,
+                "positivity_rate": 5.65
             },
             "Bilaspur": {
                 "centers": 161,
-                "rat_pc": 36,
-                "rtpcr_pc": 64,
+                "rat_pc": 41,
+                "rtpcr_pc": 59,
                 "positivity_rate": 1.71
             },
             "Hamirpur": {
                 "centers": 151,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 0.88
+                "rat_pc": 91,
+                "rtpcr_pc": 9,
+                "positivity_rate": 1.1
             },
             "Kangra": {
                 "centers": 323,
-                "rat_pc": 60,
-                "rtpcr_pc": 40,
-                "positivity_rate": 1.97
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
+                "positivity_rate": 1.82
             },
             "Aggregate": {
                 "centers": 2231,
-                "rat_pc": 61.0,
-                "rtpcr_pc": 39.0,
-                "positivity_rate": 2.45417
+                "rat_pc": 62.33333,
+                "rtpcr_pc": 37.66667,
+                "positivity_rate": 2.50333
             }
         }
     },
@@ -3070,45 +3070,45 @@
         "districts": {
             "Kathua": {
                 "centers": 112,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
                 "positivity_rate": 0
             },
             "Budgam": {
                 "centers": 158,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
-                "positivity_rate": 0.28
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0.27
             },
             "Reasi": {
                 "centers": 143,
-                "rat_pc": 93,
-                "rtpcr_pc": 7,
-                "positivity_rate": 0.95
+                "rat_pc": 96,
+                "rtpcr_pc": 4,
+                "positivity_rate": 0.91
             },
             "Srinagar": {
                 "centers": 117,
-                "rat_pc": 46,
-                "rtpcr_pc": 54,
-                "positivity_rate": 1.47
+                "rat_pc": 43,
+                "rtpcr_pc": 57,
+                "positivity_rate": 0
             },
             "Anantnag": {
                 "centers": 102,
-                "rat_pc": 7,
-                "rtpcr_pc": 93,
-                "positivity_rate": 3.45
+                "rat_pc": 12,
+                "rtpcr_pc": 88,
+                "positivity_rate": 3.03
             },
             "Rajouri": {
                 "centers": 111,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
                 "positivity_rate": 0
             },
             "Ganderbal": {
                 "centers": 98,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 24.39
+                "positivity_rate": 16.13
             },
             "Kulgam": {
                 "centers": 105,
@@ -3120,79 +3120,79 @@
                 "centers": 55,
                 "rat_pc": 1,
                 "rtpcr_pc": 99,
-                "positivity_rate": 0.24
+                "positivity_rate": 0.25
             },
             "Kupwara": {
                 "centers": 120,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
-                "positivity_rate": 0.27
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
+                "positivity_rate": 0.3
             },
             "Udhampur": {
                 "centers": 72,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 1.36
+                "positivity_rate": 1.2
             },
             "Punch": {
                 "centers": 86,
-                "rat_pc": 95,
-                "rtpcr_pc": 5,
-                "positivity_rate": 0.44
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
+                "positivity_rate": 0.23
             },
             "Samba": {
                 "centers": 49,
-                "rat_pc": 72,
-                "rtpcr_pc": 28,
+                "rat_pc": 84,
+                "rtpcr_pc": 16,
                 "positivity_rate": 0
             },
             "Pulwama": {
                 "centers": 101,
-                "rat_pc": 99,
-                "rtpcr_pc": 1,
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
                 "positivity_rate": 0
             },
             "Bandipora": {
                 "centers": 71,
-                "rat_pc": 42,
-                "rtpcr_pc": 58,
+                "rat_pc": 44,
+                "rtpcr_pc": 56,
                 "positivity_rate": 0
             },
             "Baramulla": {
                 "centers": 166,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
                 "positivity_rate": 0
             },
             "Kishtwar": {
                 "centers": 125,
-                "rat_pc": 81,
-                "rtpcr_pc": 19,
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
                 "positivity_rate": 0
             },
             "Jammu": {
                 "centers": 81,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 0.85
+                "rat_pc": 84,
+                "rtpcr_pc": 16,
+                "positivity_rate": 0.84
             },
             "Ramban": {
                 "centers": 130,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
-                "positivity_rate": 1.74
+                "rat_pc": 95,
+                "rtpcr_pc": 5,
+                "positivity_rate": 1.82
             },
             "Shopiyan": {
                 "centers": 77,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
-                "positivity_rate": 4.35
+                "rat_pc": 92,
+                "rtpcr_pc": 8,
+                "positivity_rate": 8.33
             },
             "Aggregate": {
                 "centers": 2079,
-                "rat_pc": 63.45,
-                "rtpcr_pc": 36.55,
-                "positivity_rate": 1.9895
+                "rat_pc": 65.75,
+                "rtpcr_pc": 34.25,
+                "positivity_rate": 1.6655
             }
         }
     },
@@ -3303,14 +3303,14 @@
         "districts": {
             "Deoghar": {
                 "centers": 189,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
-                "positivity_rate": 0.76
+                "rat_pc": 88,
+                "rtpcr_pc": 12,
+                "positivity_rate": 0.19
             },
             "West Singhbhum": {
                 "centers": 216,
-                "rat_pc": 0,
-                "rtpcr_pc": 100,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "Godda": {
@@ -3321,9 +3321,9 @@
             },
             "Dhanbad": {
                 "centers": 297,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 5.56
+                "rat_pc": 56,
+                "rtpcr_pc": 44,
+                "positivity_rate": 1.02
             },
             "Bokaro": {
                 "centers": 324,
@@ -3351,8 +3351,8 @@
             },
             "Gumla": {
                 "centers": 146,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
                 "positivity_rate": 0
             },
             "Giridih": {
@@ -3363,21 +3363,21 @@
             },
             "Saraikela-Kharsawan": {
                 "centers": 161,
-                "rat_pc": 80,
-                "rtpcr_pc": 20,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "Garhwa": {
                 "centers": 58,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 0.26
+                "positivity_rate": 0.42
             },
             "Dumka": {
                 "centers": 316,
                 "rat_pc": 97,
                 "rtpcr_pc": 3,
-                "positivity_rate": 0.42
+                "positivity_rate": 0.43
             },
             "Khunti": {
                 "centers": 107,
@@ -3387,56 +3387,56 @@
             },
             "Jamtara": {
                 "centers": 86,
-                "rat_pc": 97,
-                "rtpcr_pc": 3,
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
                 "positivity_rate": 0
             },
             "Koderma": {
                 "centers": 185,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
+                "rat_pc": 25,
+                "rtpcr_pc": 75,
                 "positivity_rate": 0
             },
             "Ramgarh": {
                 "centers": 39,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
+                "rat_pc": 81,
+                "rtpcr_pc": 19,
                 "positivity_rate": 0
             },
             "Hazaribagh": {
                 "centers": 262,
-                "rat_pc": 88,
-                "rtpcr_pc": 13,
+                "rat_pc": 86,
+                "rtpcr_pc": 14,
                 "positivity_rate": 0
             },
             "Ranchi": {
                 "centers": 100,
-                "rat_pc": 64,
-                "rtpcr_pc": 36,
-                "positivity_rate": 0.74
+                "rat_pc": 53,
+                "rtpcr_pc": 47,
+                "positivity_rate": 0.41
             },
             "Latehar": {
                 "centers": 87,
-                "rat_pc": 94,
-                "rtpcr_pc": 6,
-                "positivity_rate": 3.7
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
+                "positivity_rate": 3.03
             },
             "Palamu": {
                 "centers": 120,
-                "rat_pc": 95,
-                "rtpcr_pc": 5,
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
                 "positivity_rate": 0
             },
             "East Singhbhum": {
                 "centers": 327,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
-                "positivity_rate": 1.16
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
+                "positivity_rate": 0.99
             },
             "Sahibganj": {
                 "centers": 75,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
                 "positivity_rate": 0
             },
             "Lohardaga": {
@@ -3447,9 +3447,9 @@
             },
             "Aggregate": {
                 "centers": 3875,
-                "rat_pc": 76.08333,
-                "rtpcr_pc": 23.95833,
-                "positivity_rate": 1.12375
+                "rat_pc": 77.29167,
+                "rtpcr_pc": 22.70833,
+                "positivity_rate": 0.86917
             }
         }
     },
@@ -3560,57 +3560,57 @@
         "districts": {
             "Uttara Kannada": {
                 "centers": 252,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
-                "positivity_rate": 0.94
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
+                "positivity_rate": 0.83
             },
             "Belagavi": {
                 "centers": 469,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
-                "positivity_rate": 0.07
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
+                "positivity_rate": 0.05
             },
             "Bengaluru Urban": {
                 "centers": 737,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
+                "rat_pc": 51,
+                "rtpcr_pc": 49,
                 "positivity_rate": 0.74
             },
             "Vijayapura": {
                 "centers": 333,
-                "rat_pc": 46,
-                "rtpcr_pc": 54,
-                "positivity_rate": 0.05
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
+                "positivity_rate": 0.04
             },
             "Dharwad": {
                 "centers": 118,
-                "rat_pc": 63,
-                "rtpcr_pc": 37,
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
                 "positivity_rate": 0
             },
             "Tumakuru": {
                 "centers": 181,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
-                "positivity_rate": 0.41
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0.33
             },
             "Gadag": {
                 "centers": 233,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
+                "rat_pc": 15,
+                "rtpcr_pc": 85,
                 "positivity_rate": 0
             },
             "Davanagere": {
                 "centers": 262,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
-                "positivity_rate": 0.06
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
+                "positivity_rate": 0
             },
             "Yadgir": {
                 "centers": 332,
-                "rat_pc": 70,
-                "rtpcr_pc": 30,
-                "positivity_rate": 0.62
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
+                "positivity_rate": 0.33
             },
             "Haveri": {
                 "centers": 114,
@@ -3620,15 +3620,15 @@
             },
             "Koppal": {
                 "centers": 301,
-                "rat_pc": 28,
-                "rtpcr_pc": 72,
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
                 "positivity_rate": 0
             },
             "Raichur": {
                 "centers": 204,
-                "rat_pc": 41,
-                "rtpcr_pc": 59,
-                "positivity_rate": 0.34
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
+                "positivity_rate": 0.49
             },
             "Dakshina Kannada": {
                 "centers": 339,
@@ -3638,21 +3638,21 @@
             },
             "Kalaburagi": {
                 "centers": 267,
-                "rat_pc": 49,
-                "rtpcr_pc": 51,
-                "positivity_rate": 0.07
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
+                "positivity_rate": 0.06
             },
             "Ballari": {
                 "centers": 317,
-                "rat_pc": 26,
-                "rtpcr_pc": 74,
-                "positivity_rate": 0.81
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
+                "positivity_rate": 0.65
             },
             "Hassan": {
                 "centers": 310,
                 "rat_pc": 86,
                 "rtpcr_pc": 14,
-                "positivity_rate": 0.49
+                "positivity_rate": 0.33
             },
             "Bagalkote": {
                 "centers": 270,
@@ -3662,15 +3662,15 @@
             },
             "Kolar": {
                 "centers": 30,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
-                "positivity_rate": 0.24
+                "rat_pc": 66,
+                "rtpcr_pc": 34,
+                "positivity_rate": 0.17
             },
             "Bengaluru Rural": {
                 "centers": 105,
-                "rat_pc": 36,
-                "rtpcr_pc": 64,
-                "positivity_rate": 0.25
+                "rat_pc": 41,
+                "rtpcr_pc": 59,
+                "positivity_rate": 0.17
             },
             "Chamarajanagara": {
                 "centers": 167,
@@ -3680,69 +3680,69 @@
             },
             "Mysuru": {
                 "centers": 298,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
-                "positivity_rate": 0.63
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
+                "positivity_rate": 0.56
             },
             "Udupi": {
                 "centers": 203,
-                "rat_pc": 76,
-                "rtpcr_pc": 24,
+                "rat_pc": 77,
+                "rtpcr_pc": 23,
                 "positivity_rate": 0.33
             },
             "Kodagu": {
                 "centers": 75,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
-                "positivity_rate": 0.16
+                "rat_pc": 13,
+                "rtpcr_pc": 87,
+                "positivity_rate": 0.11
             },
             "Chikkamagaluru": {
                 "centers": 83,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
+                "rat_pc": 11,
+                "rtpcr_pc": 89,
                 "positivity_rate": 0
             },
             "Chitradurga": {
                 "centers": 335,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
-                "positivity_rate": 0.12
+                "rat_pc": 10,
+                "rtpcr_pc": 90,
+                "positivity_rate": 0.24
             },
             "Chikkaballapura": {
                 "centers": 115,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
                 "positivity_rate": 0
             },
             "Ramanagara": {
                 "centers": 215,
-                "rat_pc": 17.0,
-                "rtpcr_pc": 83.0,
+                "rat_pc": 16.0,
+                "rtpcr_pc": 84.0,
                 "positivity_rate": 0.0
             },
             "Mandya": {
                 "centers": 193,
-                "rat_pc": 94,
-                "rtpcr_pc": 6,
-                "positivity_rate": 0.13
+                "rat_pc": 93,
+                "rtpcr_pc": 7,
+                "positivity_rate": 0.07
             },
             "Bidar": {
                 "centers": 157,
-                "rat_pc": 22,
-                "rtpcr_pc": 78,
+                "rat_pc": 20,
+                "rtpcr_pc": 80,
                 "positivity_rate": 0
             },
             "Shivamogga": {
                 "centers": 168,
-                "rat_pc": 43,
-                "rtpcr_pc": 57,
-                "positivity_rate": 2.39
+                "rat_pc": 44,
+                "rtpcr_pc": 56,
+                "positivity_rate": 2.18
             },
             "Aggregate": {
                 "centers": 7183,
-                "rat_pc": 43.8,
-                "rtpcr_pc": 56.2,
-                "positivity_rate": 0.298
+                "rat_pc": 44.73333,
+                "rtpcr_pc": 55.26667,
+                "positivity_rate": 0.259
             }
         }
     },
@@ -3772,7 +3772,7 @@
             "current": 71924,
             "previous": 71923,
             "delta": 1,
-            "reconciled": 1,
+            "reconciled": 3,
             "ratio_pc": 1.04151
         },
         "vaccination": {
@@ -3853,93 +3853,93 @@
         "districts": {
             "Malappuram": {
                 "centers": 62,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
-                "positivity_rate": 0.91
+                "rat_pc": 30,
+                "rtpcr_pc": 70,
+                "positivity_rate": 1.02
             },
             "Kozhikode": {
                 "centers": 117,
                 "rat_pc": 44,
                 "rtpcr_pc": 56,
-                "positivity_rate": 1.59
+                "positivity_rate": 1.64
             },
             "Kasaragod": {
                 "centers": 60,
                 "rat_pc": 46,
                 "rtpcr_pc": 54,
-                "positivity_rate": 6.19
+                "positivity_rate": 6.1
             },
             "Palakkad": {
                 "centers": 55,
-                "rat_pc": 61,
-                "rtpcr_pc": 39,
-                "positivity_rate": 1.59
+                "rat_pc": 62,
+                "rtpcr_pc": 38,
+                "positivity_rate": 1.61
             },
             "Wayanad": {
                 "centers": 63,
                 "rat_pc": 49,
                 "rtpcr_pc": 51,
-                "positivity_rate": 6.7
+                "positivity_rate": 6.85
             },
             "Kannur": {
                 "centers": 21,
                 "rat_pc": 18,
                 "rtpcr_pc": 82,
-                "positivity_rate": 3.37
+                "positivity_rate": 2.63
             },
             "Kollam": {
                 "centers": 12,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
-                "positivity_rate": 2.77
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
+                "positivity_rate": 2.42
             },
             "Kottayam": {
                 "centers": 153,
                 "rat_pc": 64,
                 "rtpcr_pc": 36,
-                "positivity_rate": 4.9
+                "positivity_rate": 4.91
             },
             "Thiruvananthapuram": {
                 "centers": 89,
                 "rat_pc": 50,
                 "rtpcr_pc": 50,
-                "positivity_rate": 2.42
+                "positivity_rate": 2.13
             },
             "Pathanamthitta": {
                 "centers": 65,
                 "rat_pc": 55,
                 "rtpcr_pc": 45,
-                "positivity_rate": 5.62
+                "positivity_rate": 4.76
             },
             "Alappuzha": {
                 "centers": 120,
                 "rat_pc": 64,
                 "rtpcr_pc": 36,
-                "positivity_rate": 2.3
+                "positivity_rate": 2
             },
             "Idukki": {
                 "centers": 38,
                 "rat_pc": 64,
                 "rtpcr_pc": 36,
-                "positivity_rate": 4.84
+                "positivity_rate": 4.95
             },
             "Thrissur": {
                 "centers": 265,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 1.97
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 1.69
             },
             "Ernakulam": {
                 "centers": 67,
-                "rat_pc": 47,
-                "rtpcr_pc": 53,
-                "positivity_rate": 3.66
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 3.4
             },
             "Aggregate": {
                 "centers": 1187,
-                "rat_pc": 50.57143,
-                "rtpcr_pc": 49.42857,
-                "positivity_rate": 3.48786
+                "rat_pc": 50.64286,
+                "rtpcr_pc": 49.35714,
+                "positivity_rate": 3.29357
             }
         }
     },
@@ -4058,13 +4058,13 @@
                 "centers": 8,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 7.27
+                "positivity_rate": 7.02
             },
             "Aggregate": {
                 "centers": 61,
                 "rat_pc": 0.0,
                 "rtpcr_pc": 100.0,
-                "positivity_rate": 3.635
+                "positivity_rate": 3.51
             }
         }
     },
@@ -4175,8 +4175,8 @@
         "districts": {
             "Lakshadweep": {
                 "centers": 10,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
+                "rat_pc": 86,
+                "rtpcr_pc": 14,
                 "positivity_rate": 0
             },
             "Agatti Island": {
@@ -4187,8 +4187,8 @@
             },
             "Aggregate": {
                 "centers": 92,
-                "rat_pc": 45.5,
-                "rtpcr_pc": 4.5,
+                "rat_pc": 43.0,
+                "rtpcr_pc": 7.0,
                 "positivity_rate": 0.0
             }
         }
@@ -4302,25 +4302,25 @@
                 "centers": 117,
                 "rat_pc": 16,
                 "rtpcr_pc": 84,
-                "positivity_rate": 1.06
+                "positivity_rate": 1.1
             },
             "Raigad": {
                 "centers": 157,
                 "rat_pc": 43,
                 "rtpcr_pc": 57,
-                "positivity_rate": 2.88
+                "positivity_rate": 3.05
             },
             "Wardha": {
                 "centers": 107,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
+                "rat_pc": 94,
+                "rtpcr_pc": 6,
                 "positivity_rate": 0
             },
             "Ratnagiri": {
                 "centers": 49,
-                "rat_pc": 77,
-                "rtpcr_pc": 23,
-                "positivity_rate": 1.52
+                "rat_pc": 75,
+                "rtpcr_pc": 25,
+                "positivity_rate": 1.18
             },
             "Satara": {
                 "centers": 472,
@@ -4330,39 +4330,39 @@
             },
             "Sangli": {
                 "centers": 350,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
-                "positivity_rate": 2.13
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
+                "positivity_rate": 1.93
             },
             "Hingoli": {
                 "centers": 80,
-                "rat_pc": 63,
-                "rtpcr_pc": 38,
+                "rat_pc": 64,
+                "rtpcr_pc": 36,
                 "positivity_rate": 0
             },
             "Beed": {
                 "centers": 130,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0
             },
             "Latur": {
                 "centers": 175,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 0.28
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
+                "positivity_rate": 0.33
             },
             "Nashik": {
                 "centers": 189,
-                "rat_pc": 59,
-                "rtpcr_pc": 41,
-                "positivity_rate": 1.53
+                "rat_pc": 57,
+                "rtpcr_pc": 43,
+                "positivity_rate": 1.41
             },
             "Kolhapur": {
                 "centers": 117,
-                "rat_pc": 46,
-                "rtpcr_pc": 54,
-                "positivity_rate": 1.13
+                "rat_pc": 43,
+                "rtpcr_pc": 57,
+                "positivity_rate": 0.84
             },
             "Nanded": {
                 "centers": 278,
@@ -4372,8 +4372,8 @@
             },
             "Jalna": {
                 "centers": 225,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
+                "rat_pc": 11,
+                "rtpcr_pc": 89,
                 "positivity_rate": 0
             },
             "Sindhudurg": {
@@ -4384,57 +4384,57 @@
             },
             "Chandrapur": {
                 "centers": 272,
-                "rat_pc": 83,
-                "rtpcr_pc": 17,
-                "positivity_rate": 0.53
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
+                "positivity_rate": 0.56
             },
             "Gondia": {
                 "centers": 221,
-                "rat_pc": 77,
-                "rtpcr_pc": 23,
+                "rat_pc": 82,
+                "rtpcr_pc": 18,
                 "positivity_rate": 0
             },
             "Amravati": {
                 "centers": 107,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 0.16
+                "rat_pc": 40,
+                "rtpcr_pc": 60,
+                "positivity_rate": 0.17
             },
             "Aurangabad": {
                 "centers": 98,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
-                "positivity_rate": 0.54
+                "rat_pc": 26,
+                "rtpcr_pc": 74,
+                "positivity_rate": 0.53
             },
             "Nandurbar": {
                 "centers": 60,
                 "rat_pc": 67,
                 "rtpcr_pc": 33,
-                "positivity_rate": 1.24
+                "positivity_rate": 1.27
             },
             "Palghar": {
                 "centers": 36,
-                "rat_pc": 51,
-                "rtpcr_pc": 49,
-                "positivity_rate": 1.22
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 0.85
             },
             "Osmanabad": {
                 "centers": 242,
-                "rat_pc": 32,
-                "rtpcr_pc": 68,
-                "positivity_rate": 0.21
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
+                "positivity_rate": 0.24
             },
             "Nagpur": {
                 "centers": 291,
-                "rat_pc": 18,
-                "rtpcr_pc": 82,
-                "positivity_rate": 0.95
+                "rat_pc": 20,
+                "rtpcr_pc": 80,
+                "positivity_rate": 1.01
             },
             "Gadchiroli": {
                 "centers": 68,
-                "rat_pc": 78,
-                "rtpcr_pc": 22,
-                "positivity_rate": 0.46
+                "rat_pc": 77,
+                "rtpcr_pc": 23,
+                "positivity_rate": 0.47
             },
             "Buldhana": {
                 "centers": 228,
@@ -4444,75 +4444,75 @@
             },
             "Bhandara": {
                 "centers": 143,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
-                "positivity_rate": 0.65
+                "rat_pc": 86,
+                "rtpcr_pc": 14,
+                "positivity_rate": 0.58
             },
             "Dhule": {
                 "centers": 106,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
                 "positivity_rate": 0
             },
             "Thane": {
                 "centers": 272,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
-                "positivity_rate": 0.81
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 0.86
             },
             "Jalgaon": {
                 "centers": 191,
-                "rat_pc": 47,
-                "rtpcr_pc": 53,
-                "positivity_rate": 1.32
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
+                "positivity_rate": 1.67
             },
             "Solapur": {
                 "centers": 283,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
-                "positivity_rate": 1.59
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
+                "positivity_rate": 1.17
             },
             "Ahmednagar": {
                 "centers": 88,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
                 "positivity_rate": 1.32
             },
             "Akola": {
                 "centers": 113,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
-                "positivity_rate": 0.36
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.65
             },
             "Mumbai": {
                 "centers": 260,
                 "rat_pc": 15.0,
                 "rtpcr_pc": 85.0,
-                "positivity_rate": 1.915
+                "positivity_rate": 1.62
             },
             "Pune": {
                 "centers": 440,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
-                "positivity_rate": 1.77
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
+                "positivity_rate": 1.65
             },
             "Yavatmal": {
                 "centers": 193,
-                "rat_pc": 88,
-                "rtpcr_pc": 12,
-                "positivity_rate": 0.37
+                "rat_pc": 92,
+                "rtpcr_pc": 8,
+                "positivity_rate": 0.2
             },
             "Parbhani": {
                 "centers": 316,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
+                "rat_pc": 25,
+                "rtpcr_pc": 75,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 6589,
-                "rat_pc": 52.45714,
-                "rtpcr_pc": 47.57143,
-                "positivity_rate": 0.76214
+                "rat_pc": 51.62857,
+                "rtpcr_pc": 48.37143,
+                "positivity_rate": 0.72543
             }
         }
     },
@@ -4641,20 +4641,20 @@
             },
             "Kakching": {
                 "centers": 8,
-                "rat_pc": 0,
+                "rat_pc": 100,
                 "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
             "Imphal East": {
                 "centers": 53,
-                "rat_pc": 58,
-                "rtpcr_pc": 42,
-                "positivity_rate": 33.33
+                "rat_pc": 60,
+                "rtpcr_pc": 40,
+                "positivity_rate": 40
             },
             "Thoubal": {
                 "centers": 76,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "Kangpokpi": {
@@ -4677,8 +4677,8 @@
             },
             "Bishnupur": {
                 "centers": 4,
-                "rat_pc": 60,
-                "rtpcr_pc": 40,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "Senapati": {
@@ -4689,7 +4689,7 @@
             },
             "Noney": {
                 "centers": 6,
-                "rat_pc": 0,
+                "rat_pc": 100,
                 "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
@@ -4701,13 +4701,13 @@
             },
             "Imphal West": {
                 "centers": 58,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
-                "positivity_rate": 30.77
+                "rat_pc": 79,
+                "rtpcr_pc": 21,
+                "positivity_rate": 28.57
             },
             "Ukhrul": {
                 "centers": 8,
-                "rat_pc": 100,
+                "rat_pc": 0,
                 "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
@@ -4719,9 +4719,9 @@
             },
             "Aggregate": {
                 "centers": 302,
-                "rat_pc": 24.1875,
-                "rtpcr_pc": 7.0625,
-                "positivity_rate": 4.00625
+                "rat_pc": 29.5625,
+                "rtpcr_pc": 7.9375,
+                "positivity_rate": 4.28562
             }
         }
     },
@@ -4832,9 +4832,9 @@
         "districts": {
             "East Khasi Hills": {
                 "centers": 301,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
-                "positivity_rate": 9.78
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
+                "positivity_rate": 5.75
             },
             "South West Khasi Hills": {
                 "centers": 26,
@@ -4850,20 +4850,20 @@
             },
             "West Khasi Hills": {
                 "centers": 62,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "West Garo Hills": {
                 "centers": 616,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
-                "positivity_rate": 16.67
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
+                "positivity_rate": 20
             },
             "East Garo Hills": {
                 "centers": 32,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0
             },
             "South West Garo Hills": {
@@ -4892,15 +4892,15 @@
             },
             "Ribhoi": {
                 "centers": 56,
-                "rat_pc": 70,
-                "rtpcr_pc": 30,
-                "positivity_rate": 5
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 1431,
-                "rat_pc": 56.45455,
-                "rtpcr_pc": 43.54545,
-                "positivity_rate": 7.40455
+                "rat_pc": 50.27273,
+                "rtpcr_pc": 49.72727,
+                "positivity_rate": 6.88636
             }
         }
     },
@@ -5013,13 +5013,13 @@
                 "centers": 8,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 23.08
+                "positivity_rate": 20
             },
             "Aizawl": {
                 "centers": 56,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 12.5
+                "positivity_rate": 9.88
             },
             "Saiha": {
                 "centers": 27,
@@ -5037,7 +5037,7 @@
                 "centers": 38,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 11.11
+                "positivity_rate": 15.38
             },
             "Lawngtlai": {
                 "centers": 38,
@@ -5073,13 +5073,13 @@
                 "centers": 0,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 29.03
+                "positivity_rate": 22.22
             },
             "Aggregate": {
                 "centers": 286,
                 "rat_pc": 45.36364,
                 "rtpcr_pc": 0.09091,
-                "positivity_rate": 15.97455
+                "positivity_rate": 15.22545
             }
         }
     },
@@ -5202,32 +5202,32 @@
             },
             "Shivpuri": {
                 "centers": 344,
-                "rat_pc": 99,
-                "rtpcr_pc": 1,
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
                 "positivity_rate": 0
             },
             "Ujjain": {
                 "centers": 416,
-                "rat_pc": 4,
-                "rtpcr_pc": 96,
+                "rat_pc": 5,
+                "rtpcr_pc": 95,
                 "positivity_rate": 0
             },
             "Khandwa": {
                 "centers": 195,
-                "rat_pc": 1,
-                "rtpcr_pc": 99,
-                "positivity_rate": 0
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
+                "positivity_rate": 0.3
             },
             "Vidisha": {
                 "centers": 135,
-                "rat_pc": 88,
-                "rtpcr_pc": 13,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0
             },
             "Singrauli": {
                 "centers": 216,
-                "rat_pc": 0,
-                "rtpcr_pc": 100,
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
                 "positivity_rate": 0
             },
             "Seoni": {
@@ -5238,9 +5238,9 @@
             },
             "Jabalpur": {
                 "centers": 337,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
-                "positivity_rate": 0
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
+                "positivity_rate": 1.39
             },
             "Ashoknagar": {
                 "centers": 13,
@@ -5250,14 +5250,14 @@
             },
             "Bhind": {
                 "centers": 177,
-                "rat_pc": 36,
-                "rtpcr_pc": 64,
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
                 "positivity_rate": 0
             },
             "Mandsaur": {
                 "centers": 68,
-                "rat_pc": 7,
-                "rtpcr_pc": 93,
+                "rat_pc": 3,
+                "rtpcr_pc": 97,
                 "positivity_rate": 0
             },
             "Shahdol": {
@@ -5268,50 +5268,50 @@
             },
             "Mandla": {
                 "centers": 104,
-                "rat_pc": 0,
-                "rtpcr_pc": 0,
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
                 "positivity_rate": 0
             },
             "Balaghat": {
                 "centers": 76,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
                 "positivity_rate": 0
             },
             "Sagar": {
                 "centers": 130,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 1.5
+                "positivity_rate": 1.41
             },
             "Morena": {
                 "centers": 92,
-                "rat_pc": 76,
-                "rtpcr_pc": 24,
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
                 "positivity_rate": 0
             },
             "Dewas": {
                 "centers": 134,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
-                "positivity_rate": 9.09
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
+                "positivity_rate": 8.33
             },
             "Alirajpur": {
                 "centers": 29,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
                 "positivity_rate": 0
             },
             "Rajgarh": {
                 "centers": 284,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
+                "rat_pc": 11,
+                "rtpcr_pc": 89,
                 "positivity_rate": 0
             },
             "Sidhi": {
                 "centers": 65,
-                "rat_pc": 0,
-                "rtpcr_pc": 100,
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
                 "positivity_rate": 0
             },
             "Raigarh": {
@@ -5322,9 +5322,9 @@
             },
             "Sehore": {
                 "centers": 402,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 1.79
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
+                "positivity_rate": 1.85
             },
             "Shajapur": {
                 "centers": 188,
@@ -5334,8 +5334,8 @@
             },
             "Raisen": {
                 "centers": 211,
-                "rat_pc": 85,
-                "rtpcr_pc": 15,
+                "rat_pc": 88,
+                "rtpcr_pc": 12,
                 "positivity_rate": 0
             },
             "Hoshangabad": {
@@ -5348,12 +5348,12 @@
                 "centers": 262,
                 "rat_pc": 28,
                 "rtpcr_pc": 72,
-                "positivity_rate": 0.7
+                "positivity_rate": 0.89
             },
             "Katni": {
                 "centers": 78,
-                "rat_pc": 22,
-                "rtpcr_pc": 78,
+                "rat_pc": 18,
+                "rtpcr_pc": 82,
                 "positivity_rate": 0
             },
             "Chhindwara": {
@@ -5364,14 +5364,14 @@
             },
             "Guna": {
                 "centers": 80,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
                 "positivity_rate": 0
             },
             "Chhatarpur": {
                 "centers": 92,
-                "rat_pc": 86,
-                "rtpcr_pc": 14,
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
                 "positivity_rate": 0
             },
             "Rewa": {
@@ -5382,8 +5382,8 @@
             },
             "Satna": {
                 "centers": 211,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
+                "rat_pc": 79,
+                "rtpcr_pc": 21,
                 "positivity_rate": 0
             },
             "Neemuch": {
@@ -5400,14 +5400,14 @@
             },
             "Dindori": {
                 "centers": 82,
-                "rat_pc": 94,
-                "rtpcr_pc": 6,
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
                 "positivity_rate": 0
             },
             "Burhanpur": {
                 "centers": 118,
-                "rat_pc": 75,
-                "rtpcr_pc": 25,
+                "rat_pc": 60,
+                "rtpcr_pc": 40,
                 "positivity_rate": 0
             },
             "Sheopur": {
@@ -5436,26 +5436,26 @@
             },
             "Ratlam": {
                 "centers": 134,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
-                "positivity_rate": 5.56
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
+                "positivity_rate": 0
             },
             "Narsinghpur": {
                 "centers": 119,
                 "rat_pc": 0,
-                "rtpcr_pc": 0,
-                "positivity_rate": 0
+                "rtpcr_pc": 100,
+                "positivity_rate": 33.33
             },
             "Barwani": {
                 "centers": 123,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
                 "positivity_rate": 0
             },
             "Agar Malwa": {
                 "centers": 73,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
                 "positivity_rate": 0
             },
             "Jhabua": {
@@ -5484,33 +5484,33 @@
             },
             "Harda": {
                 "centers": 65,
-                "rat_pc": 88,
-                "rtpcr_pc": 12,
+                "rat_pc": 82,
+                "rtpcr_pc": 18,
                 "positivity_rate": 0
             },
             "Anuppur": {
                 "centers": 135,
-                "rat_pc": 0,
-                "rtpcr_pc": 100,
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
                 "positivity_rate": 0
             },
             "Indore": {
                 "centers": 550,
                 "rat_pc": 16,
                 "rtpcr_pc": 84,
-                "positivity_rate": 0.24
+                "positivity_rate": 0
             },
             "Gwalior": {
                 "centers": 359,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
+                "rat_pc": 3,
+                "rtpcr_pc": 97,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 8214,
-                "rat_pc": 25.49057,
-                "rtpcr_pc": 66.98113,
-                "positivity_rate": 0.35623
+                "rat_pc": 27.75472,
+                "rtpcr_pc": 68.4717,
+                "positivity_rate": 0.89623
             }
         }
     },
@@ -5623,11 +5623,11 @@
                 "centers": 58,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 15.79
+                "positivity_rate": 27.27
             },
             "Phek": {
                 "centers": 80,
-                "rat_pc": 100,
+                "rat_pc": 0,
                 "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
@@ -5651,8 +5651,8 @@
             },
             "Wokha": {
                 "centers": 49,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0
             },
             "Mon": {
@@ -5675,9 +5675,9 @@
             },
             "Dimapur": {
                 "centers": 34,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
-                "positivity_rate": 7.14
+                "rat_pc": 62,
+                "rtpcr_pc": 38,
+                "positivity_rate": 7.69
             },
             "Kiphire": {
                 "centers": 21,
@@ -5687,9 +5687,9 @@
             },
             "Aggregate": {
                 "centers": 510,
-                "rat_pc": 50.63636,
-                "rtpcr_pc": 13.0,
-                "positivity_rate": 2.08455
+                "rat_pc": 41.09091,
+                "rtpcr_pc": 13.45455,
+                "positivity_rate": 3.17818
             }
         }
     },
@@ -5802,61 +5802,61 @@
                 "centers": 122,
                 "rat_pc": 50,
                 "rtpcr_pc": 50,
-                "positivity_rate": 1.01
+                "positivity_rate": 0.47
             },
             "Nayagarh": {
                 "centers": 32,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
-                "positivity_rate": 0.31
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 0.14
             },
             "Bargarh": {
                 "centers": 66,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
-                "positivity_rate": 0.59
+                "rat_pc": 53,
+                "rtpcr_pc": 47,
+                "positivity_rate": 0.58
             },
             "Jajpur": {
                 "centers": 21,
-                "rat_pc": 75,
-                "rtpcr_pc": 25,
-                "positivity_rate": 1.04
+                "rat_pc": 73,
+                "rtpcr_pc": 27,
+                "positivity_rate": 0.99
             },
             "Nabarangapur": {
                 "centers": 127,
-                "rat_pc": 59,
-                "rtpcr_pc": 41,
+                "rat_pc": 60,
+                "rtpcr_pc": 40,
                 "positivity_rate": 0.04
             },
             "Nuapada": {
                 "centers": 151,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
-                "positivity_rate": 0.11
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
+                "positivity_rate": 0.1
             },
             "Puri": {
                 "centers": 59,
-                "rat_pc": 63,
-                "rtpcr_pc": 37,
-                "positivity_rate": 1.68
+                "rat_pc": 62,
+                "rtpcr_pc": 38,
+                "positivity_rate": 1.39
             },
             "Ganjam": {
                 "centers": 368,
                 "rat_pc": 36,
                 "rtpcr_pc": 64,
-                "positivity_rate": 0.2
+                "positivity_rate": 0.14
             },
             "Balangir": {
                 "centers": 22,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 0.2
+                "positivity_rate": 0.18
             },
             "Jharsuguda": {
                 "centers": 36,
                 "rat_pc": 97,
                 "rtpcr_pc": 3,
-                "positivity_rate": 0.78
+                "positivity_rate": 0.79
             },
             "State Pool": {
                 "centers": 0,
@@ -5866,21 +5866,21 @@
             },
             "Bhadrak": {
                 "centers": 93,
-                "rat_pc": 36,
-                "rtpcr_pc": 64,
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
                 "positivity_rate": 0
             },
             "Malkangiri": {
                 "centers": 35,
-                "rat_pc": 47,
-                "rtpcr_pc": 53,
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
                 "positivity_rate": 0
             },
             "Kalahandi": {
                 "centers": 58,
-                "rat_pc": 99,
-                "rtpcr_pc": 1,
-                "positivity_rate": 0.91
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
+                "positivity_rate": 0.98
             },
             "Kendrapara": {
                 "centers": 20,
@@ -5890,93 +5890,93 @@
             },
             "Koraput": {
                 "centers": 88,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
-                "positivity_rate": 0.31
+                "rat_pc": 59,
+                "rtpcr_pc": 41,
+                "positivity_rate": 0.15
             },
             "Angul": {
                 "centers": 28,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
-                "positivity_rate": 0.24
+                "rat_pc": 69,
+                "rtpcr_pc": 31,
+                "positivity_rate": 0.19
             },
             "Khordha": {
                 "centers": 197,
-                "rat_pc": 51,
-                "rtpcr_pc": 49,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0.45
             },
             "Kendujhar": {
                 "centers": 79,
-                "rat_pc": 88,
-                "rtpcr_pc": 12,
+                "rat_pc": 87,
+                "rtpcr_pc": 13,
                 "positivity_rate": 0.09
             },
             "Dhenkanal": {
                 "centers": 6,
-                "rat_pc": 83,
-                "rtpcr_pc": 17,
+                "rat_pc": 75,
+                "rtpcr_pc": 25,
                 "positivity_rate": 0
             },
             "Boudh": {
                 "centers": 17,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
-                "positivity_rate": 0.6
+                "rat_pc": 13,
+                "rtpcr_pc": 87,
+                "positivity_rate": 0.64
             },
             "Deogarh": {
                 "centers": 31,
                 "rat_pc": 57,
                 "rtpcr_pc": 43,
-                "positivity_rate": 0.2
+                "positivity_rate": 0.21
             },
             "Rayagada": {
                 "centers": 98,
-                "rat_pc": 11,
-                "rtpcr_pc": 89,
+                "rat_pc": 12,
+                "rtpcr_pc": 88,
                 "positivity_rate": 0
             },
             "Balasore": {
                 "centers": 80,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
-                "positivity_rate": 0.49
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
+                "positivity_rate": 0.37
             },
             "Mayurbhanj": {
                 "centers": 45,
                 "rat_pc": 75,
                 "rtpcr_pc": 25,
-                "positivity_rate": 0.37
+                "positivity_rate": 0.54
             },
             "Sambalpur": {
                 "centers": 164,
                 "rat_pc": 99,
                 "rtpcr_pc": 1,
-                "positivity_rate": 1.26
+                "positivity_rate": 1.53
             },
             "Gajapati": {
                 "centers": 61,
-                "rat_pc": 45,
-                "rtpcr_pc": 55,
-                "positivity_rate": 0.46
+                "rat_pc": 41,
+                "rtpcr_pc": 59,
+                "positivity_rate": 0.26
             },
             "Cuttack": {
                 "centers": 178,
                 "rat_pc": 78,
                 "rtpcr_pc": 22,
-                "positivity_rate": 1.65
+                "positivity_rate": 1.6
             },
             "Jagatsinghpur": {
                 "centers": 41,
                 "rat_pc": 69,
                 "rtpcr_pc": 31,
-                "positivity_rate": 4.58
+                "positivity_rate": 4.6
             },
             "Sundargarh": {
                 "centers": 57,
                 "rat_pc": 40,
                 "rtpcr_pc": 60,
-                "positivity_rate": 1.92
+                "positivity_rate": 1.71
             },
             "Kandhamal": {
                 "centers": 34,
@@ -5986,9 +5986,9 @@
             },
             "Aggregate": {
                 "centers": 2414,
-                "rat_pc": 62.74194,
-                "rtpcr_pc": 34.03226,
-                "positivity_rate": 0.64452
+                "rat_pc": 61.6129,
+                "rtpcr_pc": 35.16129,
+                "positivity_rate": 0.60097
             }
         }
     },
@@ -6105,27 +6105,27 @@
             },
             "Karaikal": {
                 "centers": 13,
-                "rat_pc": 88,
-                "rtpcr_pc": 12,
-                "positivity_rate": 0.31
+                "rat_pc": 89,
+                "rtpcr_pc": 11,
+                "positivity_rate": 0.68
             },
             "Yanam": {
                 "centers": 12,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
-                "positivity_rate": 1.1
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
+                "positivity_rate": 0.7
             },
             "Puducherry": {
                 "centers": 44,
                 "rat_pc": 92,
                 "rtpcr_pc": 8,
-                "positivity_rate": 0.74
+                "positivity_rate": 0.85
             },
             "Aggregate": {
                 "centers": 73,
-                "rat_pc": 70.0,
-                "rtpcr_pc": 30.0,
-                "positivity_rate": 0.5375
+                "rat_pc": 69.5,
+                "rtpcr_pc": 30.5,
+                "positivity_rate": 0.5575
             }
         }
     },
@@ -6236,32 +6236,32 @@
         "districts": {
             "Patiala": {
                 "centers": 67,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
-                "positivity_rate": 0.59
+                "rat_pc": 37,
+                "rtpcr_pc": 63,
+                "positivity_rate": 0.41
             },
             "Hoshiarpur": {
                 "centers": 240,
                 "rat_pc": 6,
                 "rtpcr_pc": 94,
-                "positivity_rate": 0.56
+                "positivity_rate": 0.46
             },
             "Faridkot": {
                 "centers": 94,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
-                "positivity_rate": 0.2
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
+                "positivity_rate": 0.21
             },
             "Barnala": {
                 "centers": 87,
-                "rat_pc": 3,
-                "rtpcr_pc": 97,
-                "positivity_rate": 0.4
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.41
             },
             "Pathankot": {
                 "centers": 56,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
                 "positivity_rate": 0
             },
             "Tarn Taran": {
@@ -6272,57 +6272,57 @@
             },
             "Sangrur": {
                 "centers": 128,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
-                "positivity_rate": 0.33
+                "rat_pc": 11,
+                "rtpcr_pc": 89,
+                "positivity_rate": 0.32
             },
             "Rupnagar": {
                 "centers": 86,
                 "rat_pc": 17,
                 "rtpcr_pc": 83,
-                "positivity_rate": 0.47
+                "positivity_rate": 0.55
             },
             "Bathinda": {
                 "centers": 104,
                 "rat_pc": 35,
                 "rtpcr_pc": 65,
-                "positivity_rate": 0.34
+                "positivity_rate": 0.35
             },
             "Fatehgarh Sahib": {
                 "centers": 30,
-                "rat_pc": 34,
-                "rtpcr_pc": 66,
-                "positivity_rate": 0.31
+                "rat_pc": 38,
+                "rtpcr_pc": 62,
+                "positivity_rate": 0.37
             },
             "Kapurthala": {
                 "centers": 140,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 0.48
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
+                "positivity_rate": 0.53
             },
             "Fazilka": {
                 "centers": 71,
-                "rat_pc": 26,
-                "rtpcr_pc": 74,
-                "positivity_rate": 0.56
+                "rat_pc": 25,
+                "rtpcr_pc": 75,
+                "positivity_rate": 0.51
             },
             "Ferozepur": {
                 "centers": 94,
-                "rat_pc": 32,
-                "rtpcr_pc": 68,
-                "positivity_rate": 2.32
+                "rat_pc": 30,
+                "rtpcr_pc": 70,
+                "positivity_rate": 2.33
             },
             "SAS Nagar": {
                 "centers": 205,
-                "rat_pc": 46,
-                "rtpcr_pc": 54,
-                "positivity_rate": 0.79
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 0.63
             },
             "Sri Muktsar Sahib": {
                 "centers": 175,
-                "rat_pc": 51,
-                "rtpcr_pc": 49,
-                "positivity_rate": 4.46
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 4.65
             },
             "Mansa": {
                 "centers": 80,
@@ -6334,43 +6334,43 @@
                 "centers": 268,
                 "rat_pc": 12,
                 "rtpcr_pc": 88,
-                "positivity_rate": 0.21
+                "positivity_rate": 0.19
             },
             "Ludhiana": {
                 "centers": 398,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
-                "positivity_rate": 0.21
+                "rat_pc": 13,
+                "rtpcr_pc": 87,
+                "positivity_rate": 0.14
             },
             "Amritsar": {
                 "centers": 256,
                 "rat_pc": 3,
                 "rtpcr_pc": 97,
-                "positivity_rate": 0.37
+                "positivity_rate": 0.17
             },
             "Gurdaspur": {
                 "centers": 229,
-                "rat_pc": 95,
-                "rtpcr_pc": 5,
-                "positivity_rate": 0.51
+                "rat_pc": 94,
+                "rtpcr_pc": 6,
+                "positivity_rate": 0.56
             },
             "Moga": {
                 "centers": 91,
-                "rat_pc": 2,
-                "rtpcr_pc": 98,
+                "rat_pc": 3,
+                "rtpcr_pc": 97,
                 "positivity_rate": 0.37
             },
             "SBS Nagar": {
                 "centers": 51,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
-                "positivity_rate": 0.11
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
+                "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 3094,
-                "rat_pc": 32.36364,
-                "rtpcr_pc": 67.63636,
-                "positivity_rate": 0.61773
+                "rat_pc": 31.81818,
+                "rtpcr_pc": 68.18182,
+                "positivity_rate": 0.59818
             }
         }
     },
@@ -6481,20 +6481,20 @@
         "districts": {
             "Alwar": {
                 "centers": 724,
-                "rat_pc": 64,
-                "rtpcr_pc": 36,
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
                 "positivity_rate": 0.34
             },
             "Dausa": {
                 "centers": 61,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
-                "positivity_rate": 0.3
+                "rat_pc": 10,
+                "rtpcr_pc": 90,
+                "positivity_rate": 0.23
             },
             "Barmer": {
                 "centers": 418,
-                "rat_pc": 44,
-                "rtpcr_pc": 56,
+                "rat_pc": 37,
+                "rtpcr_pc": 63,
                 "positivity_rate": 0
             },
             "Dungarpur": {
@@ -6505,15 +6505,15 @@
             },
             "Kota": {
                 "centers": 301,
-                "rat_pc": 1,
-                "rtpcr_pc": 99,
-                "positivity_rate": 0.05
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 0.06
             },
             "Pratapgarh": {
                 "centers": 28,
                 "rat_pc": 95,
                 "rtpcr_pc": 5,
-                "positivity_rate": 3.08
+                "positivity_rate": 3.51
             },
             "Italians": {
                 "centers": 0,
@@ -6523,21 +6523,21 @@
             },
             "Chittorgarh": {
                 "centers": 367,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
-                "positivity_rate": 16.97
+                "rat_pc": 7,
+                "rtpcr_pc": 93,
+                "positivity_rate": 17.28
             },
             "Churu": {
                 "centers": 118,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.52
+                "positivity_rate": 0.51
             },
             "Rajsamand": {
                 "centers": 87,
-                "rat_pc": 61,
-                "rtpcr_pc": 39,
-                "positivity_rate": 3.8
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
+                "positivity_rate": 3.47
             },
             "BSF Camp": {
                 "centers": 0,
@@ -6547,8 +6547,8 @@
             },
             "Jalore": {
                 "centers": 29,
-                "rat_pc": 19,
-                "rtpcr_pc": 81,
+                "rat_pc": 20,
+                "rtpcr_pc": 80,
                 "positivity_rate": 0
             },
             "Jaisalmer": {
@@ -6565,15 +6565,15 @@
             },
             "Banswara": {
                 "centers": 84,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
                 "positivity_rate": 0
             },
             "Bundi": {
                 "centers": 79,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 2.64
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 2.67
             },
             "Jhalawar": {
                 "centers": 95,
@@ -6583,27 +6583,27 @@
             },
             "Bharatpur": {
                 "centers": 647,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
-                "positivity_rate": 0.85
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
+                "positivity_rate": 1.08
             },
             "Ajmer": {
                 "centers": 184,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
                 "positivity_rate": 0
             },
             "Nagaur": {
                 "centers": 156,
-                "rat_pc": 9,
-                "rtpcr_pc": 91,
-                "positivity_rate": 1.89
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
+                "positivity_rate": 2.04
             },
             "Hanumangarh": {
                 "centers": 411,
                 "rat_pc": 51,
                 "rtpcr_pc": 49,
-                "positivity_rate": 1.11
+                "positivity_rate": 0
             },
             "Sawai Madhopur": {
                 "centers": 115,
@@ -6615,49 +6615,49 @@
                 "centers": 178,
                 "rat_pc": 6,
                 "rtpcr_pc": 94,
-                "positivity_rate": 2.07
+                "positivity_rate": 1.02
             },
             "Dholpur": {
                 "centers": 297,
-                "rat_pc": 22,
-                "rtpcr_pc": 78,
+                "rat_pc": 48,
+                "rtpcr_pc": 52,
                 "positivity_rate": 0
             },
             "Pali": {
                 "centers": 459,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
-                "positivity_rate": 3.59
+                "rat_pc": 8,
+                "rtpcr_pc": 92,
+                "positivity_rate": 3.11
             },
             "Tonk": {
                 "centers": 629,
-                "rat_pc": 72,
-                "rtpcr_pc": 28,
-                "positivity_rate": 0.38
+                "rat_pc": 71,
+                "rtpcr_pc": 29,
+                "positivity_rate": 0.42
             },
             "Bhilwara": {
                 "centers": 289,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 0.49
+                "rat_pc": 9,
+                "rtpcr_pc": 91,
+                "positivity_rate": 0.42
             },
             "Jhunjhunu": {
                 "centers": 181,
-                "rat_pc": 8,
-                "rtpcr_pc": 92,
-                "positivity_rate": 3.03
+                "rat_pc": 14,
+                "rtpcr_pc": 86,
+                "positivity_rate": 3.13
             },
             "Baran": {
                 "centers": 294,
                 "rat_pc": 36,
                 "rtpcr_pc": 64,
-                "positivity_rate": 0.44
+                "positivity_rate": 0
             },
             "Jaipur": {
                 "centers": 433,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
-                "positivity_rate": 0.72
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
+                "positivity_rate": 0.59
             },
             "Sirohi": {
                 "centers": 159,
@@ -6667,39 +6667,39 @@
             },
             "Karauli": {
                 "centers": 90,
-                "rat_pc": 11,
-                "rtpcr_pc": 89,
+                "rat_pc": 15,
+                "rtpcr_pc": 85,
                 "positivity_rate": 0
             },
             "Ganganagar": {
                 "centers": 428,
                 "rat_pc": 14,
                 "rtpcr_pc": 86,
-                "positivity_rate": 47.79
+                "positivity_rate": 44.63
             },
             "Jodhpur": {
                 "centers": 764,
-                "rat_pc": 22,
-                "rtpcr_pc": 78,
-                "positivity_rate": 2.43
+                "rat_pc": 12,
+                "rtpcr_pc": 88,
+                "positivity_rate": 2.31
             },
             "Bikaner": {
                 "centers": 819,
                 "rat_pc": 11,
                 "rtpcr_pc": 89,
-                "positivity_rate": 3.12
+                "positivity_rate": 2.03
             },
             "Sikar": {
                 "centers": 406,
-                "rat_pc": 55,
-                "rtpcr_pc": 45,
-                "positivity_rate": 2.39
+                "rat_pc": 60,
+                "rtpcr_pc": 40,
+                "positivity_rate": 2.21
             },
             "Aggregate": {
                 "centers": 9424,
-                "rat_pc": 26.08333,
-                "rtpcr_pc": 65.58333,
-                "positivity_rate": 2.72361
+                "rat_pc": 26.36111,
+                "rtpcr_pc": 65.30556,
+                "positivity_rate": 2.53083
             }
         }
     },
@@ -6812,13 +6812,13 @@
                 "centers": 37,
                 "rat_pc": 1,
                 "rtpcr_pc": 99,
-                "positivity_rate": 3.09
+                "positivity_rate": 4.21
             },
             "South Sikkim": {
                 "centers": 18,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0
+                "positivity_rate": 9.09
             },
             "North Sikkim": {
                 "centers": 13,
@@ -6836,7 +6836,7 @@
                 "centers": 98,
                 "rat_pc": 0.25,
                 "rtpcr_pc": 99.75,
-                "positivity_rate": 2.2425
+                "positivity_rate": 4.795
             }
         }
     },
@@ -6947,15 +6947,15 @@
         "districts": {
             "Cuddalore": {
                 "centers": 96,
-                "rat_pc": 1,
-                "rtpcr_pc": 99,
-                "positivity_rate": 0.16
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
+                "positivity_rate": 0.09
             },
             "Krishnagiri": {
                 "centers": 97,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.55
+                "positivity_rate": 0.69
             },
             "Dharmapuri": {
                 "centers": 93,
@@ -6973,7 +6973,7 @@
                 "centers": 106,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 1
+                "positivity_rate": 0.8
             },
             "Madurai": {
                 "centers": 139,
@@ -6983,9 +6983,9 @@
             },
             "Thiruvarur": {
                 "centers": 119,
-                "rat_pc": 20,
-                "rtpcr_pc": 80,
-                "positivity_rate": 1.5
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
+                "positivity_rate": 1.69
             },
             "Sivaganga": {
                 "centers": 123,
@@ -6997,25 +6997,25 @@
                 "centers": 66,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.37
+                "positivity_rate": 0.15
             },
             "Viluppuram": {
                 "centers": 57,
-                "rat_pc": 4,
-                "rtpcr_pc": 96,
-                "positivity_rate": 2.8
+                "rat_pc": 3,
+                "rtpcr_pc": 97,
+                "positivity_rate": 2.78
             },
             "Ariyalur": {
                 "centers": 58,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.93
+                "positivity_rate": 0
             },
             "Salem": {
                 "centers": 235,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.11
+                "positivity_rate": 0.12
             },
             "Perambalur": {
                 "centers": 54,
@@ -7027,7 +7027,7 @@
                 "centers": 123,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.38
+                "positivity_rate": 0.1
             },
             "Tirupathur": {
                 "centers": 61,
@@ -7039,43 +7039,43 @@
                 "centers": 496,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.74
+                "positivity_rate": 0.63
             },
             "Tiruppur": {
                 "centers": 135,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.22
+                "positivity_rate": 0.16
             },
             "Tirunelveli": {
                 "centers": 86,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.6
+                "positivity_rate": 0.93
             },
             "Erode": {
                 "centers": 255,
                 "rat_pc": 1,
                 "rtpcr_pc": 99,
-                "positivity_rate": 1.68
+                "positivity_rate": 1.75
             },
             "Coimbatore": {
                 "centers": 206,
-                "rat_pc": 1,
-                "rtpcr_pc": 99,
-                "positivity_rate": 1.85
+                "rat_pc": 2,
+                "rtpcr_pc": 98,
+                "positivity_rate": 1.72
             },
             "Tiruchirappalli": {
                 "centers": 181,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.17
+                "positivity_rate": 0.09
             },
             "Namakkal": {
                 "centers": 114,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.17
+                "positivity_rate": 0.21
             },
             "Tenkasi": {
                 "centers": 72,
@@ -7087,13 +7087,13 @@
                 "centers": 88,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.31
+                "positivity_rate": 0.35
             },
             "Karur": {
                 "centers": 92,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.32
+                "positivity_rate": 0.33
             },
             "Theni": {
                 "centers": 72,
@@ -7103,15 +7103,15 @@
             },
             "Nagapattinam": {
                 "centers": 57,
-                "rat_pc": 10,
-                "rtpcr_pc": 90,
+                "rat_pc": 9,
+                "rtpcr_pc": 91,
                 "positivity_rate": 0
             },
             "Kancheepuram": {
                 "centers": 39,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.72
+                "positivity_rate": 0.57
             },
             "Kallakurichi": {
                 "centers": 60,
@@ -7129,7 +7129,7 @@
                 "centers": 77,
                 "rat_pc": 1,
                 "rtpcr_pc": 99,
-                "positivity_rate": 1.77
+                "positivity_rate": 1.69
             },
             "Ramanathapuram": {
                 "centers": 90,
@@ -7159,7 +7159,7 @@
                 "centers": 130,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0
+                "positivity_rate": 1.5
             },
             "Mayiladuthurai": {
                 "centers": 0,
@@ -7171,7 +7171,7 @@
                 "centers": 141,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.49
+                "positivity_rate": 1.13
             },
             "Dindigul": {
                 "centers": 135,
@@ -7183,13 +7183,13 @@
                 "centers": 116,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.21
+                "positivity_rate": 0.18
             },
             "Aggregate": {
                 "centers": 4442,
-                "rat_pc": 0.95,
-                "rtpcr_pc": 91.55,
-                "positivity_rate": 0.42625
+                "rat_pc": 0.925,
+                "rtpcr_pc": 91.575,
+                "positivity_rate": 0.4415
             }
         }
     },
@@ -7306,20 +7306,20 @@
             },
             "Medak": {
                 "centers": 37,
-                "rat_pc": 75,
-                "rtpcr_pc": 25,
+                "rat_pc": 81,
+                "rtpcr_pc": 19,
                 "positivity_rate": 0
             },
             "Warangal Urban": {
                 "centers": 56,
-                "rat_pc": 64,
-                "rtpcr_pc": 36,
-                "positivity_rate": 0.15
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
+                "positivity_rate": 0.14
             },
             "Mulugu": {
                 "centers": 16,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
                 "positivity_rate": 0
             },
             "Narayanpet": {
@@ -7336,20 +7336,20 @@
             },
             "Peddapalli": {
                 "centers": 33,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
                 "positivity_rate": 0
             },
             "Ranga Reddy": {
                 "centers": 224,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
                 "positivity_rate": 0
             },
             "Komaram Bheem": {
                 "centers": 49,
-                "rat_pc": 13,
-                "rtpcr_pc": 87,
+                "rat_pc": 12,
+                "rtpcr_pc": 88,
                 "positivity_rate": 0
             },
             "Jogulamba Gadwal": {
@@ -7360,39 +7360,39 @@
             },
             "Bhadradri Kothagudem": {
                 "centers": 123,
-                "rat_pc": 70,
-                "rtpcr_pc": 30,
+                "rat_pc": 61,
+                "rtpcr_pc": 39,
                 "positivity_rate": 0
             },
             "Yadadri Bhuvanagiri": {
                 "centers": 37,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0
             },
             "Kamareddy": {
                 "centers": 59,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
-                "positivity_rate": 0
-            },
-            "Mahabubabad": {
-                "centers": 23,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
-                "positivity_rate": 0
-            },
-            "Suryapet": {
-                "centers": 71,
                 "rat_pc": 84,
                 "rtpcr_pc": 16,
                 "positivity_rate": 0
             },
+            "Mahabubabad": {
+                "centers": 23,
+                "rat_pc": 30,
+                "rtpcr_pc": 70,
+                "positivity_rate": 0
+            },
+            "Suryapet": {
+                "centers": 71,
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
+                "positivity_rate": 0
+            },
             "Nalgonda": {
                 "centers": 50,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 0.46
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
+                "positivity_rate": 0.48
             },
             "Khammam": {
                 "centers": 50,
@@ -7408,9 +7408,9 @@
             },
             "Hyderabad": {
                 "centers": 312,
-                "rat_pc": 69,
-                "rtpcr_pc": 31,
-                "positivity_rate": 0.09
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
+                "positivity_rate": 0.1
             },
             "Wanaparthy": {
                 "centers": 38,
@@ -7420,44 +7420,44 @@
             },
             "Medchal Malkajgiri": {
                 "centers": 160,
-                "rat_pc": 65,
-                "rtpcr_pc": 35,
+                "rat_pc": 64,
+                "rtpcr_pc": 36,
                 "positivity_rate": 0.08
             },
             "Mancherial": {
                 "centers": 31,
-                "rat_pc": 72,
-                "rtpcr_pc": 28,
+                "rat_pc": 71,
+                "rtpcr_pc": 29,
                 "positivity_rate": 0
             },
             "Sangareddy": {
                 "centers": 59,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
                 "positivity_rate": 0
             },
             "Jagtial": {
                 "centers": 45,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
                 "positivity_rate": 0
             },
             "Karimnagar": {
                 "centers": 67,
-                "rat_pc": 81,
-                "rtpcr_pc": 19,
+                "rat_pc": 80,
+                "rtpcr_pc": 20,
                 "positivity_rate": 0
             },
             "Vikarabad": {
                 "centers": 26,
-                "rat_pc": 5,
-                "rtpcr_pc": 95,
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
                 "positivity_rate": 0
             },
             "Nirmal": {
                 "centers": 44,
-                "rat_pc": 71,
-                "rtpcr_pc": 29,
+                "rat_pc": 70,
+                "rtpcr_pc": 30,
                 "positivity_rate": 0
             },
             "Jayashankar Bhupalapally": {
@@ -7468,39 +7468,39 @@
             },
             "Siddipet": {
                 "centers": 62,
-                "rat_pc": 26,
-                "rtpcr_pc": 74,
+                "rat_pc": 31,
+                "rtpcr_pc": 69,
                 "positivity_rate": 0
             },
             "Mahabubnagar": {
                 "centers": 50,
-                "rat_pc": 56,
-                "rtpcr_pc": 44,
+                "rat_pc": 59,
+                "rtpcr_pc": 41,
                 "positivity_rate": 0
             },
             "Nizamabad": {
                 "centers": 60,
-                "rat_pc": 25,
-                "rtpcr_pc": 75,
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
                 "positivity_rate": 0
             },
             "Warangal Rural": {
                 "centers": 20,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 97,
+                "rtpcr_pc": 3,
                 "positivity_rate": 0
             },
             "Rajanna Sircilla": {
                 "centers": 18,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
+                "rat_pc": 48,
+                "rtpcr_pc": 52,
                 "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 1971,
-                "rat_pc": 67.06061,
-                "rtpcr_pc": 32.93939,
-                "positivity_rate": 0.03182
+                "rat_pc": 66.69697,
+                "rtpcr_pc": 33.30303,
+                "positivity_rate": 0.03242
             }
         }
     },
@@ -7617,21 +7617,21 @@
             },
             "Khowai": {
                 "centers": 242,
-                "rat_pc": 96,
-                "rtpcr_pc": 4,
-                "positivity_rate": 3.57
+                "rat_pc": 93,
+                "rtpcr_pc": 7,
+                "positivity_rate": 3.45
             },
             "West Tripura": {
                 "centers": 207,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 6.37
+                "rat_pc": 81,
+                "rtpcr_pc": 19,
+                "positivity_rate": 5.32
             },
             "North Tripura": {
                 "centers": 133,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 0.89
+                "positivity_rate": 0.88
             },
             "Sipahijala": {
                 "centers": 153,
@@ -7641,27 +7641,27 @@
             },
             "Gomati": {
                 "centers": 176,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
-                "positivity_rate": 3.76
+                "rat_pc": 98,
+                "rtpcr_pc": 2,
+                "positivity_rate": 3.95
             },
             "South Tripura": {
                 "centers": 154,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 0.45
+                "positivity_rate": 0.37
             },
             "Unokoti": {
                 "centers": 54,
                 "rat_pc": 100,
                 "rtpcr_pc": 0,
-                "positivity_rate": 0.56
+                "positivity_rate": 0.62
             },
             "Aggregate": {
                 "centers": 1281,
-                "rat_pc": 84.375,
-                "rtpcr_pc": 3.125,
-                "positivity_rate": 1.95
+                "rat_pc": 83.625,
+                "rtpcr_pc": 3.875,
+                "positivity_rate": 1.82375
             }
         }
     },
@@ -7772,39 +7772,39 @@
         "districts": {
             "Lakhimpur Kheri": {
                 "centers": 123,
-                "rat_pc": 39,
-                "rtpcr_pc": 61,
-                "positivity_rate": 0.39
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
+                "positivity_rate": 0.43
             },
             "Etah": {
                 "centers": 142,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 99,
+                "rtpcr_pc": 1,
                 "positivity_rate": 0
             },
             "Muzaffarnagar": {
                 "centers": 83,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
                 "positivity_rate": 0
             },
             "Balrampur": {
                 "centers": 194,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
+                "rat_pc": 17,
+                "rtpcr_pc": 83,
                 "positivity_rate": 0
             },
             "Firozabad": {
                 "centers": 135,
-                "rat_pc": 56,
-                "rtpcr_pc": 44,
+                "rat_pc": 42,
+                "rtpcr_pc": 58,
                 "positivity_rate": 0.02
             },
             "Jaunpur": {
                 "centers": 63,
-                "rat_pc": 39,
-                "rtpcr_pc": 61,
-                "positivity_rate": 0.19
+                "rat_pc": 40,
+                "rtpcr_pc": 60,
+                "positivity_rate": 0.22
             },
             "Kanpur Dehat": {
                 "centers": 51,
@@ -7814,44 +7814,44 @@
             },
             "Kushinagar": {
                 "centers": 112,
-                "rat_pc": 39,
-                "rtpcr_pc": 61,
+                "rat_pc": 40,
+                "rtpcr_pc": 60,
                 "positivity_rate": 0
             },
             "Kaushambi": {
                 "centers": 101,
-                "rat_pc": 21,
-                "rtpcr_pc": 79,
+                "rat_pc": 23,
+                "rtpcr_pc": 77,
                 "positivity_rate": 0
             },
             "Bulandshahr": {
                 "centers": 123,
                 "rat_pc": 65,
                 "rtpcr_pc": 35,
-                "positivity_rate": 0
+                "positivity_rate": 0.05
             },
             "Farrukhabad": {
                 "centers": 149,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
-                "positivity_rate": 0.13
+                "rat_pc": 77,
+                "rtpcr_pc": 23,
+                "positivity_rate": 0.1
             },
             "Kannauj": {
                 "centers": 59,
-                "rat_pc": 49,
-                "rtpcr_pc": 51,
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
                 "positivity_rate": 0
             },
             "Shahjahanpur": {
                 "centers": 192,
                 "rat_pc": 49,
                 "rtpcr_pc": 51,
-                "positivity_rate": 0.23
+                "positivity_rate": 0.19
             },
             "Rae Bareli": {
                 "centers": 108,
-                "rat_pc": 37,
-                "rtpcr_pc": 63,
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
                 "positivity_rate": 0.04
             },
             "Hathras": {
@@ -7862,33 +7862,33 @@
             },
             "Aligarh": {
                 "centers": 86,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
-                "positivity_rate": 0.01
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 0.02
             },
             "Banda": {
                 "centers": 106,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 0.28
+                "positivity_rate": 0.26
             },
             "Budaun": {
                 "centers": 166,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
+                "rat_pc": 48,
+                "rtpcr_pc": 52,
                 "positivity_rate": 0
             },
             "Sitapur": {
                 "centers": 91,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
+                "rat_pc": 16,
+                "rtpcr_pc": 84,
                 "positivity_rate": 0.03
             },
             "Kasganj": {
                 "centers": 50,
                 "rat_pc": 14,
                 "rtpcr_pc": 86,
-                "positivity_rate": 0.04
+                "positivity_rate": 0.17
             },
             "Mahoba": {
                 "centers": 32,
@@ -7898,117 +7898,117 @@
             },
             "Pratapgarh": {
                 "centers": 111,
-                "rat_pc": 91,
-                "rtpcr_pc": 9,
+                "rat_pc": 90,
+                "rtpcr_pc": 10,
                 "positivity_rate": 0
             },
             "Saharanpur": {
                 "centers": 255,
-                "rat_pc": 67,
-                "rtpcr_pc": 33,
-                "positivity_rate": 0
+                "rat_pc": 68,
+                "rtpcr_pc": 32,
+                "positivity_rate": 0.02
             },
             "Pilibhit": {
                 "centers": 117,
-                "rat_pc": 32,
-                "rtpcr_pc": 68,
+                "rat_pc": 36,
+                "rtpcr_pc": 64,
                 "positivity_rate": 0
             },
             "Ghaziabad": {
                 "centers": 87,
-                "rat_pc": 49,
-                "rtpcr_pc": 51,
-                "positivity_rate": 0.3
+                "rat_pc": 48,
+                "rtpcr_pc": 52,
+                "positivity_rate": 0.33
             },
             "Fatehpur": {
                 "centers": 81,
-                "rat_pc": 34,
-                "rtpcr_pc": 66,
-                "positivity_rate": 0.4
+                "rat_pc": 32,
+                "rtpcr_pc": 68,
+                "positivity_rate": 0.43
             },
             "Ballia": {
                 "centers": 98,
-                "rat_pc": 38,
-                "rtpcr_pc": 62,
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
                 "positivity_rate": 0
             },
             "Amethi": {
                 "centers": 141,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
-                "positivity_rate": 1.19
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
+                "positivity_rate": 1.24
             },
             "Unnao": {
                 "centers": 144,
-                "rat_pc": 45,
-                "rtpcr_pc": 55,
+                "rat_pc": 52,
+                "rtpcr_pc": 48,
                 "positivity_rate": 0
             },
             "Sambhal": {
                 "centers": 76,
                 "rat_pc": 16,
                 "rtpcr_pc": 84,
-                "positivity_rate": 0.15
+                "positivity_rate": 0.08
             },
             "Bareilly": {
                 "centers": 183,
-                "rat_pc": 79,
-                "rtpcr_pc": 21,
-                "positivity_rate": 0.02
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
+                "positivity_rate": 0
             },
             "Gautam Buddha Nagar": {
                 "centers": 178,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 0.78
+                "rat_pc": 16,
+                "rtpcr_pc": 84,
+                "positivity_rate": 0.74
             },
             "Sant Kabir Nagar": {
                 "centers": 124,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 0
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 0.05
             },
             "Chitrakoot": {
                 "centers": 138,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
+                "rat_pc": 28,
+                "rtpcr_pc": 72,
                 "positivity_rate": 0
             },
             "Mau": {
                 "centers": 42,
                 "rat_pc": 29,
                 "rtpcr_pc": 71,
-                "positivity_rate": 0.06
+                "positivity_rate": 0.02
             },
             "Siddharthnagar": {
                 "centers": 125,
                 "rat_pc": 19,
                 "rtpcr_pc": 81,
-                "positivity_rate": 0
+                "positivity_rate": 0.39
             },
             "Chandauli": {
                 "centers": 76,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
-                "positivity_rate": 0.37
+                "rat_pc": 33,
+                "rtpcr_pc": 67,
+                "positivity_rate": 0.25
             },
             "Gorakhpur": {
                 "centers": 155,
-                "rat_pc": 76,
-                "rtpcr_pc": 24,
-                "positivity_rate": 0.63
+                "rat_pc": 55,
+                "rtpcr_pc": 45,
+                "positivity_rate": 0.84
             },
             "Bahraich": {
                 "centers": 246,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 0.02
+                "rat_pc": 43,
+                "rtpcr_pc": 57,
+                "positivity_rate": 0.03
             },
             "Hardoi": {
                 "centers": 71,
-                "rat_pc": 41,
-                "rtpcr_pc": 59,
-                "positivity_rate": 0
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 0.08
             },
             "Hapur": {
                 "centers": 136,
@@ -8018,14 +8018,14 @@
             },
             "Basti": {
                 "centers": 105,
-                "rat_pc": 26,
-                "rtpcr_pc": 74,
+                "rat_pc": 25,
+                "rtpcr_pc": 75,
                 "positivity_rate": 0.26
             },
             "Mathura": {
                 "centers": 93,
-                "rat_pc": 47,
-                "rtpcr_pc": 53,
+                "rat_pc": 56,
+                "rtpcr_pc": 44,
                 "positivity_rate": 0
             },
             "Baghpat": {
@@ -8036,15 +8036,15 @@
             },
             "Rampur": {
                 "centers": 54,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
+                "rat_pc": 54,
+                "rtpcr_pc": 46,
                 "positivity_rate": 0
             },
             "Gonda": {
                 "centers": 207,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
-                "positivity_rate": 0.1
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 0.16
             },
             "Jhansi": {
                 "centers": 38,
@@ -8054,20 +8054,20 @@
             },
             "Mainpuri": {
                 "centers": 122,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
+                "rat_pc": 54,
+                "rtpcr_pc": 46,
                 "positivity_rate": 0
             },
             "Shamli": {
                 "centers": 142,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
+                "rat_pc": 53,
+                "rtpcr_pc": 47,
                 "positivity_rate": 0
             },
             "Bijnor": {
                 "centers": 223,
-                "rat_pc": 52,
-                "rtpcr_pc": 48,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0.05
             },
             "Hamirpur": {
@@ -8078,21 +8078,21 @@
             },
             "Amroha": {
                 "centers": 189,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
+                "rat_pc": 44,
+                "rtpcr_pc": 56,
                 "positivity_rate": 0
             },
             "Shrawasti": {
                 "centers": 63,
-                "rat_pc": 49,
-                "rtpcr_pc": 51,
+                "rat_pc": 52,
+                "rtpcr_pc": 48,
                 "positivity_rate": 0
             },
             "Varanasi": {
                 "centers": 196,
-                "rat_pc": 30,
-                "rtpcr_pc": 70,
-                "positivity_rate": 0.56
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
+                "positivity_rate": 0.46
             },
             "Lalitpur": {
                 "centers": 161,
@@ -8102,86 +8102,86 @@
             },
             "Meerut": {
                 "centers": 124,
-                "rat_pc": 87,
-                "rtpcr_pc": 13,
-                "positivity_rate": 0.02
+                "rat_pc": 89,
+                "rtpcr_pc": 11,
+                "positivity_rate": 0
             },
             "Etawah": {
                 "centers": 106,
-                "rat_pc": 45,
-                "rtpcr_pc": 55,
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
                 "positivity_rate": 0
             },
             "Moradabad": {
                 "centers": 312,
-                "rat_pc": 14,
-                "rtpcr_pc": 86,
-                "positivity_rate": 0.04
+                "rat_pc": 18,
+                "rtpcr_pc": 82,
+                "positivity_rate": 0
             },
             "Auraiya": {
                 "centers": 42,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
+                "rat_pc": 63,
+                "rtpcr_pc": 37,
                 "positivity_rate": 0
             },
             "Ambedkar Nagar": {
                 "centers": 55,
-                "rat_pc": 28,
-                "rtpcr_pc": 72,
-                "positivity_rate": 0.03
+                "rat_pc": 29,
+                "rtpcr_pc": 71,
+                "positivity_rate": 0.04
             },
             "Bhadohi": {
                 "centers": 69,
-                "rat_pc": 46,
-                "rtpcr_pc": 54,
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
                 "positivity_rate": 0
             },
             "Barabanki": {
                 "centers": 98,
-                "rat_pc": 43,
-                "rtpcr_pc": 57,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0.04
             },
             "Ghazipur": {
                 "centers": 85,
                 "rat_pc": 62,
                 "rtpcr_pc": 38,
-                "positivity_rate": 0.03
+                "positivity_rate": 0
             },
             "Mirzapur": {
                 "centers": 144,
-                "rat_pc": 51,
-                "rtpcr_pc": 49,
-                "positivity_rate": 0.61
+                "rat_pc": 58,
+                "rtpcr_pc": 42,
+                "positivity_rate": 0.63
             },
             "Lucknow": {
                 "centers": 150,
-                "rat_pc": 47,
-                "rtpcr_pc": 53,
-                "positivity_rate": 0.42
+                "rat_pc": 51,
+                "rtpcr_pc": 49,
+                "positivity_rate": 0.44
             },
             "Sonbhadra": {
                 "centers": 55,
-                "rat_pc": 86,
-                "rtpcr_pc": 14,
-                "positivity_rate": 0.6
+                "rat_pc": 85,
+                "rtpcr_pc": 15,
+                "positivity_rate": 0.59
             },
             "Maharajganj": {
                 "centers": 73,
-                "rat_pc": 31,
-                "rtpcr_pc": 69,
-                "positivity_rate": 2.74
+                "rat_pc": 26,
+                "rtpcr_pc": 74,
+                "positivity_rate": 2.71
             },
             "Azamgarh": {
                 "centers": 143,
-                "rat_pc": 57,
-                "rtpcr_pc": 43,
+                "rat_pc": 58,
+                "rtpcr_pc": 42,
                 "positivity_rate": 0.21
             },
             "Ayodhya": {
                 "centers": 316,
-                "rat_pc": 42,
-                "rtpcr_pc": 58,
+                "rat_pc": 45,
+                "rtpcr_pc": 55,
                 "positivity_rate": 0
             },
             "Sultanpur": {
@@ -8192,39 +8192,39 @@
             },
             "Kanpur Nagar": {
                 "centers": 163,
-                "rat_pc": 53,
-                "rtpcr_pc": 47,
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
                 "positivity_rate": 0.04
             },
             "Agra": {
                 "centers": 253,
-                "rat_pc": 50,
-                "rtpcr_pc": 50,
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
                 "positivity_rate": 0
             },
             "Jalaun": {
                 "centers": 53,
-                "rat_pc": 59,
-                "rtpcr_pc": 41,
+                "rat_pc": 56,
+                "rtpcr_pc": 44,
                 "positivity_rate": 0
             },
             "Prayagraj": {
                 "centers": 169,
-                "rat_pc": 68,
-                "rtpcr_pc": 32,
-                "positivity_rate": 0.13
+                "rat_pc": 67,
+                "rtpcr_pc": 33,
+                "positivity_rate": 0.03
             },
             "Deoria": {
                 "centers": 47,
-                "rat_pc": 40,
-                "rtpcr_pc": 60,
-                "positivity_rate": 0.05
+                "rat_pc": 43,
+                "rtpcr_pc": 57,
+                "positivity_rate": 0
             },
             "Aggregate": {
                 "centers": 9550,
-                "rat_pc": 42.73333,
-                "rtpcr_pc": 57.26667,
-                "positivity_rate": 0.15173
+                "rat_pc": 43.22667,
+                "rtpcr_pc": 56.77333,
+                "positivity_rate": 0.15813
             }
         }
     },
@@ -8335,15 +8335,15 @@
         "districts": {
             "Pithoragarh": {
                 "centers": 110,
-                "rat_pc": 20,
-                "rtpcr_pc": 80,
-                "positivity_rate": 20
+                "rat_pc": 0,
+                "rtpcr_pc": 100,
+                "positivity_rate": 0
             },
             "Tehri Garhwal": {
                 "centers": 62,
-                "rat_pc": 95,
-                "rtpcr_pc": 5,
-                "positivity_rate": 0.59
+                "rat_pc": 96,
+                "rtpcr_pc": 4,
+                "positivity_rate": 0.61
             },
             "Bageshwar": {
                 "centers": 29,
@@ -8353,57 +8353,57 @@
             },
             "Dehradun": {
                 "centers": 169,
-                "rat_pc": 59,
-                "rtpcr_pc": 41,
-                "positivity_rate": 1.84
+                "rat_pc": 60,
+                "rtpcr_pc": 40,
+                "positivity_rate": 1.92
             },
             "Haridwar": {
                 "centers": 251,
-                "rat_pc": 70,
-                "rtpcr_pc": 30,
-                "positivity_rate": 0.35
+                "rat_pc": 76,
+                "rtpcr_pc": 24,
+                "positivity_rate": 0.59
             },
             "Almora": {
                 "centers": 73,
-                "rat_pc": 55,
-                "rtpcr_pc": 45,
-                "positivity_rate": 3.23
+                "rat_pc": 46,
+                "rtpcr_pc": 54,
+                "positivity_rate": 3.57
             },
             "Nainital": {
                 "centers": 90,
-                "rat_pc": 84,
-                "rtpcr_pc": 16,
-                "positivity_rate": 0.48
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
+                "positivity_rate": 0.51
             },
             "Champawat": {
                 "centers": 103,
-                "rat_pc": 100,
-                "rtpcr_pc": 0,
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
                 "positivity_rate": 0
             },
             "Chamoli": {
                 "centers": 91,
-                "rat_pc": 98,
-                "rtpcr_pc": 2,
+                "rat_pc": 100,
+                "rtpcr_pc": 0,
                 "positivity_rate": 0
             },
             "Udham Singh Nagar": {
                 "centers": 213,
-                "rat_pc": 82,
-                "rtpcr_pc": 18,
-                "positivity_rate": 0.78
+                "rat_pc": 83,
+                "rtpcr_pc": 17,
+                "positivity_rate": 0
             },
             "Pauri Garhwal": {
                 "centers": 120,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 2.9
+                "rat_pc": 50,
+                "rtpcr_pc": 50,
+                "positivity_rate": 2.86
             },
             "Uttarkashi": {
                 "centers": 130,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
-                "positivity_rate": 2.22
+                "rat_pc": 4,
+                "rtpcr_pc": 96,
+                "positivity_rate": 2.25
             },
             "Rudraprayag": {
                 "centers": 257,
@@ -8413,9 +8413,9 @@
             },
             "Aggregate": {
                 "centers": 1698,
-                "rat_pc": 62.61538,
-                "rtpcr_pc": 37.38462,
-                "positivity_rate": 3.04077
+                "rat_pc": 57.30769,
+                "rtpcr_pc": 42.69231,
+                "positivity_rate": 1.49615
             }
         }
     },
@@ -8526,147 +8526,147 @@
         "districts": {
             "Dakshin Dinajpur": {
                 "centers": 113,
-                "rat_pc": 62,
-                "rtpcr_pc": 38,
-                "positivity_rate": 1.11
+                "rat_pc": 58,
+                "rtpcr_pc": 42,
+                "positivity_rate": 2.92
             },
             "Howrah": {
                 "centers": 241,
-                "rat_pc": 20,
-                "rtpcr_pc": 80,
-                "positivity_rate": 1.71
+                "rat_pc": 21,
+                "rtpcr_pc": 79,
+                "positivity_rate": 1.74
             },
             "Kalimpong": {
                 "centers": 46,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 14.29
+                "positivity_rate": 0
             },
             "Cooch Behar": {
                 "centers": 57,
-                "rat_pc": 29,
-                "rtpcr_pc": 71,
-                "positivity_rate": 1.09
+                "rat_pc": 38,
+                "rtpcr_pc": 62,
+                "positivity_rate": 3
             },
             "North 24 Parganas": {
                 "centers": 348,
-                "rat_pc": 21,
-                "rtpcr_pc": 79,
-                "positivity_rate": 7.3
+                "rat_pc": 20,
+                "rtpcr_pc": 80,
+                "positivity_rate": 3.43
             },
             "Paschim Bardhaman": {
                 "centers": 92,
                 "rat_pc": 7,
                 "rtpcr_pc": 93,
-                "positivity_rate": 5.33
+                "positivity_rate": 5.04
             },
             "Malda": {
                 "centers": 194,
-                "rat_pc": 12,
-                "rtpcr_pc": 88,
-                "positivity_rate": 3.74
+                "rat_pc": 9,
+                "rtpcr_pc": 91,
+                "positivity_rate": 2.3
             },
             "Paschim Medinipur": {
                 "centers": 46,
                 "rat_pc": 23,
                 "rtpcr_pc": 77,
-                "positivity_rate": 5.22
+                "positivity_rate": 5.17
             },
             "Bankura": {
                 "centers": 86,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
-                "positivity_rate": 4.21
+                "rat_pc": 11,
+                "rtpcr_pc": 89,
+                "positivity_rate": 2.44
             },
             "Darjeeling": {
                 "centers": 99,
-                "rat_pc": 59,
-                "rtpcr_pc": 41,
-                "positivity_rate": 11.06
+                "rat_pc": 65,
+                "rtpcr_pc": 35,
+                "positivity_rate": 12.34
             },
             "Jalpaiguri": {
                 "centers": 85,
-                "rat_pc": 72,
-                "rtpcr_pc": 28,
-                "positivity_rate": 13.28
+                "rat_pc": 64,
+                "rtpcr_pc": 36,
+                "positivity_rate": 13.21
             },
             "Jhargram": {
                 "centers": 36,
                 "rat_pc": 0,
                 "rtpcr_pc": 100,
-                "positivity_rate": 16.67
+                "positivity_rate": 0
             },
             "Birbhum": {
                 "centers": 396,
                 "rat_pc": 51,
                 "rtpcr_pc": 49,
-                "positivity_rate": 8.42
+                "positivity_rate": 8.09
             },
             "South 24 Parganas": {
                 "centers": 376,
-                "rat_pc": 27,
-                "rtpcr_pc": 73,
-                "positivity_rate": 2.28
+                "rat_pc": 20,
+                "rtpcr_pc": 80,
+                "positivity_rate": 2.51
             },
             "Purulia": {
                 "centers": 195,
-                "rat_pc": 56,
-                "rtpcr_pc": 44,
+                "rat_pc": 54,
+                "rtpcr_pc": 46,
                 "positivity_rate": 0
             },
             "Hooghly": {
                 "centers": 169,
-                "rat_pc": 78,
-                "rtpcr_pc": 22,
-                "positivity_rate": 0.71
+                "rat_pc": 79,
+                "rtpcr_pc": 21,
+                "positivity_rate": 0.25
             },
             "Uttar Dinajpur": {
                 "centers": 120,
-                "rat_pc": 83,
-                "rtpcr_pc": 17,
-                "positivity_rate": 0.85
+                "rat_pc": 86,
+                "rtpcr_pc": 14,
+                "positivity_rate": 0
             },
             "Purba Bardhaman": {
                 "centers": 298,
-                "rat_pc": 48,
-                "rtpcr_pc": 52,
-                "positivity_rate": 1.54
+                "rat_pc": 49,
+                "rtpcr_pc": 51,
+                "positivity_rate": 1.74
             },
             "Nadia": {
                 "centers": 108,
-                "rat_pc": 6,
-                "rtpcr_pc": 94,
-                "positivity_rate": 6
+                "rat_pc": 7,
+                "rtpcr_pc": 93,
+                "positivity_rate": 5.88
             },
             "Purba Medinipur": {
                 "centers": 104,
-                "rat_pc": 24,
-                "rtpcr_pc": 76,
-                "positivity_rate": 1.01
+                "rat_pc": 27,
+                "rtpcr_pc": 73,
+                "positivity_rate": 1.06
             },
             "Alipurduar": {
                 "centers": 48,
-                "rat_pc": 81,
-                "rtpcr_pc": 19,
-                "positivity_rate": 1.87
+                "rat_pc": 82,
+                "rtpcr_pc": 18,
+                "positivity_rate": 2
             },
             "Murshidabad": {
                 "centers": 129,
-                "rat_pc": 35,
-                "rtpcr_pc": 65,
-                "positivity_rate": 2.56
+                "rat_pc": 39,
+                "rtpcr_pc": 61,
+                "positivity_rate": 2.23
             },
             "Kolkata": {
                 "centers": 262,
                 "rat_pc": 8,
                 "rtpcr_pc": 92,
-                "positivity_rate": 5.38
+                "positivity_rate": 5.09
             },
             "Aggregate": {
                 "centers": 3648,
-                "rat_pc": 35.13043,
-                "rtpcr_pc": 64.86957,
-                "positivity_rate": 5.02739
+                "rat_pc": 35.56522,
+                "rtpcr_pc": 64.43478,
+                "positivity_rate": 3.49739
             }
         }
     },
