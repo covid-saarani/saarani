@@ -5,18 +5,18 @@
             "date": "02 Jun 2023",
             "as_on": "03 Jun 2023, 08:00 IST (GMT+5:30)",
             "last_updated_unix": 1685771279,
-            "last_fetched_unix": 1685848794
+            "last_fetched_unix": 1685850641
         },
         "vaccination": {
             "primary_source": "mygov",
             "date": "02 Jun 2023",
             "as_on": "Jun 03 2023 11:22:43",
-            "last_fetched_unix": 1685848801
+            "last_fetched_unix": 1685850648
         },
         "districts": {
             "primary_source": "mohfw",
             "week": "23rd May to 29th May",
-            "last_fetched_unix": 1685848806
+            "last_fetched_unix": 1685850653
         }
     },
     "All": {
@@ -45,7 +45,7 @@
             "current": 1063756,
             "previous": 1063748,
             "delta": 8,
-            "reconciled": 2,
+            "reconciled": 0,
             "ratio_pc": 1.18214
         },
         "vaccination": {
@@ -126,8 +126,8 @@
         "districts": {
             "Aggregate": {
                 "centers": 107450,
-                "rat_pc": 44.03423,
-                "rtpcr_pc": 47.78456,
+                "rat_pc": 44.0557,
+                "rtpcr_pc": 47.76309,
                 "positivity_rate": 1.80505
             }
         }
@@ -3578,9 +3578,9 @@
             },
             "Vijayapura": {
                 "centers": 333,
-                "rat_pc": 34.0,
-                "rtpcr_pc": 66.0,
-                "positivity_rate": 0.0
+                "rat_pc": 47,
+                "rtpcr_pc": 53,
+                "positivity_rate": 0
             },
             "Dharwad": {
                 "centers": 118,
@@ -3716,9 +3716,9 @@
             },
             "Ramanagara": {
                 "centers": 215,
-                "rat_pc": 15,
-                "rtpcr_pc": 85,
-                "positivity_rate": 0
+                "rat_pc": 18.0,
+                "rtpcr_pc": 82.0,
+                "positivity_rate": 0.0
             },
             "Mandya": {
                 "centers": 193,
@@ -3740,8 +3740,8 @@
             },
             "Aggregate": {
                 "centers": 7183,
-                "rat_pc": 43.73333,
-                "rtpcr_pc": 56.26667,
+                "rat_pc": 44.26667,
+                "rtpcr_pc": 55.73333,
                 "positivity_rate": 0.232
             }
         }
@@ -3772,7 +3772,7 @@
             "current": 71932,
             "previous": 71930,
             "delta": 2,
-            "reconciled": 2,
+            "reconciled": 0,
             "ratio_pc": 1.04154
         },
         "vaccination": {
